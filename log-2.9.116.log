@@ -1,0 +1,1735 @@
+[00:03:34] [HomeKit] Update Feuchtigkeit Garten
+[00:08:47] [HomeKit] Update Temperatur Garten
+[00:08:47] [HomeKit] Update Feuchtigkeit Garten
+[00:10:42] [HomeKit] GET Anfrage für Nils Dachboden Licht
+[00:10:42] [HomeKit] GET Anfrage für Kompressor
+[00:10:42] [HomeKit] GET Anfrage für Nils Zimmer Licht
+[00:10:42] [HomeKit] GET Anfrage für Subwoofer Nils Zimmer
+[00:10:42] [HomeKit] GET Anfrage für Temperatur Garten
+[00:10:42] [HomeKit] GET Anfrage für LED Kette Nils
+[00:10:42] [HomeKit] GET Anfrage für Treppe Licht Pflanze
+[00:10:42] [HomeKit] GET Anfrage (CurrentPosition): Nils Rolllade | Current State: 0
+[00:10:42] [HomeKit] GET Anfrage (Target): Nils Rolllade | Current Target State: 0
+[00:10:42] [HomeKit] GET Anfrage für Feuchtigkeit Garten
+[00:14:00] [HomeKit] Update Feuchtigkeit Garten
+[00:19:13] [HomeKit] Update Temperatur Garten
+[00:24:26] [HomeKit] Update Feuchtigkeit Garten
+[00:28:56] [HomeKit] GET Anfrage für Nils Dachboden Licht
+[00:28:56] [HomeKit] GET Anfrage für Kompressor
+[00:28:56] [HomeKit] GET Anfrage für Nils Zimmer Licht
+[00:28:56] [HomeKit] GET Anfrage für Subwoofer Nils Zimmer
+[00:28:56] [HomeKit] GET Anfrage für Temperatur Garten
+[00:28:56] [HomeKit] GET Anfrage für LED Kette Nils
+[00:28:56] [HomeKit] GET Anfrage für Treppe Licht Pflanze
+[00:28:56] [HomeKit] GET Anfrage (CurrentPosition): Nils Rolllade | Current State: 0
+[00:28:56] [HomeKit] GET Anfrage (Target): Nils Rolllade | Current Target State: 0
+[00:28:56] [HomeKit] GET Anfrage für Feuchtigkeit Garten
+[00:29:39] [HomeKit] Update Feuchtigkeit Garten
+[00:30:16] [HomeKit] GET Anfrage für Kompressor
+[00:30:16] [HomeKit] GET Anfrage für Nils Zimmer Licht
+[00:30:16] [HomeKit] GET Anfrage für Subwoofer Nils Zimmer
+[00:30:16] [HomeKit] GET Anfrage für Temperatur Garten
+[00:30:16] [HomeKit] GET Anfrage für LED Kette Nils
+[00:30:16] [HomeKit] GET Anfrage für Treppe Licht Pflanze
+[00:30:16] [HomeKit] GET Anfrage (CurrentPosition): Nils Rolllade | Current State: 0
+[00:30:16] [HomeKit] GET Anfrage (Target): Nils Rolllade | Current Target State: 0
+[00:30:16] [HomeKit] GET Anfrage für Feuchtigkeit Garten
+[00:30:16] [HomeKit] GET Anfrage für Nils Dachboden Licht
+[00:31:00] [HomeKit] GET Anfrage für Kompressor
+[00:31:00] [HomeKit] GET Anfrage für Nils Zimmer Licht
+[00:31:00] [HomeKit] GET Anfrage für Subwoofer Nils Zimmer
+[00:31:00] [HomeKit] GET Anfrage für Temperatur Garten
+[00:31:00] [HomeKit] GET Anfrage für LED Kette Nils
+[00:31:00] [HomeKit] GET Anfrage für Treppe Licht Pflanze
+[00:31:00] [HomeKit] GET Anfrage (CurrentPosition): Nils Rolllade | Current State: 0
+[00:31:00] [HomeKit] GET Anfrage (Target): Nils Rolllade | Current Target State: 0
+[00:31:00] [HomeKit] GET Anfrage für Feuchtigkeit Garten
+[00:31:00] [HomeKit] GET Anfrage für Nils Dachboden Licht
+[00:34:52] [HomeKit] Update Feuchtigkeit Garten
+[00:40:05] [HomeKit] Update Feuchtigkeit Garten
+[00:45:18] [HomeKit] Update Temperatur Garten
+[00:45:18] [HomeKit] Update Feuchtigkeit Garten
+[00:50:31] [HomeKit] Update Feuchtigkeit Garten
+[00:55:44] [HomeKit] Update Feuchtigkeit Garten
+[01:00:57] [HomeKit] Update Feuchtigkeit Garten
+[01:06:10] [HomeKit] Update Feuchtigkeit Garten
+[01:10:27] [HomeKit] GET Anfrage für Nils Dachboden Licht
+[01:10:27] [HomeKit] GET Anfrage für Kompressor
+[01:10:27] [HomeKit] GET Anfrage für Nils Zimmer Licht
+[01:10:27] [HomeKit] GET Anfrage für Feuchtigkeit Wohnzimmer
+[01:10:27] [HomeKit] GET Anfrage für Subwoofer Nils Zimmer
+[01:10:27] [HomeKit] GET Anfrage für LED Kette Nils
+[01:10:27] [HomeKit] GET Anfrage für Fernseher
+[01:10:27] [HomeKit] GET Anfrage für Temperatur Wohnzimmer
+[01:10:27] [HomeKit] GET Anfrage für Eingangs Flur Licht
+[01:10:27] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Fenster | Current Target State: 0
+[01:10:27] [HomeKit] GET Anfrage (CurrentPosition): Wohnzimmer Rolllade Fenster | Current State: 0
+[01:10:27] [HomeKit] GET Anfrage (CurrentPosition): Gäste WC Rolllade | Current State: 0
+[01:10:27] [HomeKit] GET Anfrage (Target): Gäste WC Rolllade | Current Target State: 0
+[01:10:27] [HomeKit] GET Anfrage für Brunnen
+[01:10:27] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Tür | Current Target State: 0
+[01:10:27] [HomeKit] GET Anfrage (CurrentPosition): Wohnzimmer Rolllade Tür | Current State: 0
+[01:10:27] [HomeKit] GET Anfrage (Target): Schlafzimmer Rolllade | Current Target State: 0
+[01:10:27] [HomeKit] GET Anfrage (CurrentPosition): Schlafzimmer Rolllade | Current State: 0
+[01:10:27] [HomeKit] GET Anfrage (CurrentPosition): Arbeitszimmer Rolllade Kindergarten | Current State: 0
+[01:10:27] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Kindergarten | Current Target State: 0
+[01:10:27] [HomeKit] GET Anfrage für Arbeitszimmer Licht
+[01:10:27] [HomeKit] GET Anfrage für Feuchtigkeit Garten
+[01:10:27] [HomeKit] GET Anfrage für Keller Licht
+[01:10:27] [HomeKit] GET Anfrage für Temperatur Garten
+[01:10:27] [HomeKit] GET Anfrage für Treppe Licht Pflanze
+[01:10:27] [HomeKit] GET Anfrage (CurrentPosition): Arbeitszimmer Rolllade Garten | Current State: 0
+[01:10:27] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Garten | Current Target State: 0
+[01:10:27] [HomeKit] GET Anfrage (CurrentPosition): Nils Rolllade | Current State: 0
+[01:10:27] [HomeKit] GET Anfrage (Target): Nils Rolllade | Current Target State: 0
+[01:10:27] [HomeKit] GET Anfrage (Target): Küche Rolllade | Current Target State: 0
+[01:10:27] [HomeKit] GET Anfrage (CurrentPosition): Küche Rolllade | Current State: 0
+[01:11:05] [HomeKit] GET Anfrage für Kompressor
+[01:11:05] [HomeKit] GET Anfrage für Nils Zimmer Licht
+[01:11:05] [HomeKit] GET Anfrage für Subwoofer Nils Zimmer
+[01:11:05] [HomeKit] GET Anfrage für Temperatur Garten
+[01:11:05] [HomeKit] GET Anfrage für LED Kette Nils
+[01:11:05] [HomeKit] GET Anfrage für Treppe Licht Pflanze
+[01:11:05] [HomeKit] GET Anfrage (CurrentPosition): Nils Rolllade | Current State: 0
+[01:11:05] [HomeKit] GET Anfrage (Target): Nils Rolllade | Current Target State: 0
+[01:11:05] [HomeKit] GET Anfrage für Feuchtigkeit Garten
+[01:11:05] [HomeKit] GET Anfrage für Nils Dachboden Licht
+[01:11:23] [HomeKit] Update Feuchtigkeit Garten
+[01:21:49] [HomeKit] Update Feuchtigkeit Garten
+[01:27:02] [HomeKit] Update Feuchtigkeit Garten
+[01:32:15] [HomeKit] Update Feuchtigkeit Garten
+[01:36:25] [HomeKit] Update Temperatur Wohnzimmer
+[01:37:28] [HomeKit] Update Temperatur Garten
+[01:42:41] [HomeKit] Update Feuchtigkeit Garten
+[01:47:54] [HomeKit] Update Feuchtigkeit Garten
+[01:53:07] [HomeKit] Update Feuchtigkeit Garten
+[01:58:20] [HomeKit] Update Feuchtigkeit Garten
+[02:03:33] [HomeKit] Update Temperatur Garten
+[02:03:33] [HomeKit] Update Feuchtigkeit Garten
+[02:08:46] [HomeKit] Update Feuchtigkeit Garten
+[02:13:59] [HomeKit] Update Feuchtigkeit Garten
+[02:19:13] [HomeKit] Update Feuchtigkeit Garten
+[02:24:26] [HomeKit] Update Temperatur Garten
+[02:29:39] [HomeKit] Update Feuchtigkeit Garten
+[02:34:52] [HomeKit] Update Feuchtigkeit Garten
+[02:40:05] [HomeKit] Update Temperatur Garten
+[02:40:05] [HomeKit] Update Feuchtigkeit Garten
+[02:45:18] [HomeKit] Update Feuchtigkeit Garten
+[02:50:31] [HomeKit] Update Feuchtigkeit Garten
+[02:55:44] [HomeKit] Update Feuchtigkeit Garten
+[03:06:10] [HomeKit] Update Temperatur Garten
+[03:06:10] [HomeKit] Update Feuchtigkeit Garten
+[03:10:19] [HomeKit] Update Temperatur Wohnzimmer
+[03:11:23] [HomeKit] Update Feuchtigkeit Garten
+[03:15:32] [HomeKit] Update Temperatur Wohnzimmer
+[03:16:36] [HomeKit] Update Temperatur Garten
+[03:16:36] [HomeKit] Update Feuchtigkeit Garten
+[03:20:46] [HomeKit] Update Temperatur Wohnzimmer
+[03:21:49] [HomeKit] Update Feuchtigkeit Garten
+[03:25:59] [HomeKit] Update Temperatur Wohnzimmer
+[03:27:02] [HomeKit] Update Feuchtigkeit Garten
+[03:31:12] [HomeKit] Update Temperatur Wohnzimmer
+[03:32:15] [HomeKit] Update Feuchtigkeit Garten
+[03:37:28] [HomeKit] Update Feuchtigkeit Garten
+[03:53:07] [HomeKit] Update Temperatur Garten
+[03:53:07] [HomeKit] Update Feuchtigkeit Garten
+[03:58:20] [HomeKit] Update Temperatur Garten
+[04:08:46] [HomeKit] Update Feuchtigkeit Garten
+[04:13:59] [HomeKit] Update Temperatur Garten
+[04:13:59] [HomeKit] Update Feuchtigkeit Garten
+[04:19:12] [HomeKit] Update Temperatur Garten
+[04:19:12] [HomeKit] Update Feuchtigkeit Garten
+[04:24:25] [HomeKit] Update Temperatur Garten
+[04:29:38] [HomeKit] Update Feuchtigkeit Garten
+[04:40:04] [HomeKit] Update Feuchtigkeit Garten
+[04:50:30] [HomeKit] Update Temperatur Garten
+[05:00:56] [HomeKit] Update Feuchtigkeit Garten
+[05:06:09] [HomeKit] Update Feuchtigkeit Garten
+[05:11:22] [HomeKit] Update Feuchtigkeit Garten
+[05:15:32] [HomeKit] Update Temperatur Wohnzimmer
+[05:16:35] [HomeKit] Update Temperatur Garten
+[05:16:35] [HomeKit] Update Feuchtigkeit Garten
+[05:20:45] [HomeKit] Update Temperatur Wohnzimmer
+[05:21:48] [HomeKit] Update Feuchtigkeit Garten
+[05:31:11] [HomeKit] Update Temperatur Wohnzimmer
+[05:32:14] [HomeKit] Update Feuchtigkeit Garten
+[05:37:27] [HomeKit] Update Feuchtigkeit Garten
+[05:47:53] [HomeKit] Update Feuchtigkeit Garten
+[05:53:06] [HomeKit] Update Temperatur Garten
+[05:53:06] [HomeKit] Update Feuchtigkeit Garten
+[06:03:32] [HomeKit] Update Feuchtigkeit Garten
+[06:08:45] [HomeKit] Update Feuchtigkeit Garten
+[06:13:58] [HomeKit] Update Temperatur Garten
+[06:13:58] [HomeKit] Update Feuchtigkeit Garten
+[06:29:37] [HomeKit] Update Feuchtigkeit Garten
+[06:34:50] [HomeKit] Update Feuchtigkeit Garten
+[06:45:17] [HomeKit] Update Temperatur Garten
+[06:45:17] [HomeKit] Update Feuchtigkeit Garten
+[06:50:30] [HomeKit] Update Feuchtigkeit Garten
+[07:00:56] [HomeKit] Update Feuchtigkeit Garten
+[07:10:59] [HomeKit] Update Küche Rolllade
+[07:11:22] [HomeKit] Update Feuchtigkeit Garten
+[07:16:35] [HomeKit] Update Feuchtigkeit Garten
+[07:21:48] [HomeKit] Update Feuchtigkeit Garten
+[07:25:57] [HomeKit] Update Temperatur Wohnzimmer
+[07:27:01] [HomeKit] Update Feuchtigkeit Garten
+[07:32:14] [HomeKit] Update Temperatur Garten
+[07:37:27] [HomeKit] Update Feuchtigkeit Garten
+[07:42:40] [HomeKit] Update Temperatur Garten
+[07:42:40] [HomeKit] Update Feuchtigkeit Garten
+[07:44:31] [HomeKit] GET Anfrage für Nils Dachboden Licht
+[07:44:31] [HomeKit] GET Anfrage für Kompressor
+[07:44:31] [HomeKit] GET Anfrage für Nils Zimmer Licht
+[07:44:31] [HomeKit] GET Anfrage für Subwoofer Nils Zimmer
+[07:44:31] [HomeKit] GET Anfrage für Temperatur Garten
+[07:44:31] [HomeKit] GET Anfrage für LED Kette Nils
+[07:44:31] [HomeKit] GET Anfrage für Treppe Licht Pflanze
+[07:44:31] [HomeKit] GET Anfrage (CurrentPosition): Nils Rolllade | Current State: 0
+[07:44:31] [HomeKit] GET Anfrage (Target): Nils Rolllade | Current Target State: 0
+[07:44:31] [HomeKit] GET Anfrage für Feuchtigkeit Garten
+[07:45:50] [HomeKit] GET Anfrage für Nils Dachboden Licht
+[07:45:50] [HomeKit] GET Anfrage für Kompressor
+[07:45:50] [HomeKit] GET Anfrage für Nils Zimmer Licht
+[07:45:50] [HomeKit] GET Anfrage für Subwoofer Nils Zimmer
+[07:45:50] [HomeKit] GET Anfrage für Temperatur Garten
+[07:45:50] [HomeKit] GET Anfrage für LED Kette Nils
+[07:45:50] [HomeKit] GET Anfrage für Treppe Licht Pflanze
+[07:45:50] [HomeKit] GET Anfrage (CurrentPosition): Nils Rolllade | Current State: 0
+[07:45:50] [HomeKit] GET Anfrage (Target): Nils Rolllade | Current Target State: 0
+[07:45:50] [HomeKit] GET Anfrage für Feuchtigkeit Garten
+[07:47:27] [HomeKit] GET Anfrage für Kompressor
+[07:47:27] [HomeKit] GET Anfrage für Nils Zimmer Licht
+[07:47:27] [HomeKit] GET Anfrage für Subwoofer Nils Zimmer
+[07:47:27] [HomeKit] GET Anfrage für Temperatur Garten
+[07:47:27] [HomeKit] GET Anfrage für LED Kette Nils
+[07:47:27] [HomeKit] GET Anfrage für Treppe Licht Pflanze
+[07:47:27] [HomeKit] GET Anfrage (CurrentPosition): Nils Rolllade | Current State: 0
+[07:47:27] [HomeKit] GET Anfrage (Target): Nils Rolllade | Current Target State: 0
+[07:47:27] [HomeKit] GET Anfrage für Feuchtigkeit Garten
+[07:47:27] [HomeKit] GET Anfrage für Nils Dachboden Licht
+[07:53:06] [HomeKit] Update Feuchtigkeit Garten
+[07:58:19] [HomeKit] Update Feuchtigkeit Garten
+[08:03:32] [HomeKit] Update Temperatur Garten
+[08:03:32] [HomeKit] Update Feuchtigkeit Garten
+[08:08:45] [HomeKit] Update Temperatur Garten
+[08:08:45] [HomeKit] Update Feuchtigkeit Garten
+[08:13:58] [HomeKit] Update Feuchtigkeit Garten
+[08:14:37] [HomeKit] GET Anfrage für Nils Dachboden Licht
+[08:14:37] [HomeKit] GET Anfrage für Kompressor
+[08:14:37] [HomeKit] GET Anfrage für Nils Zimmer Licht
+[08:14:37] [HomeKit] GET Anfrage für Subwoofer Nils Zimmer
+[08:14:37] [HomeKit] GET Anfrage für Temperatur Garten
+[08:14:37] [HomeKit] GET Anfrage für LED Kette Nils
+[08:14:37] [HomeKit] GET Anfrage für Treppe Licht Pflanze
+[08:14:37] [HomeKit] GET Anfrage (CurrentPosition): Nils Rolllade | Current State: 0
+[08:14:37] [HomeKit] GET Anfrage (Target): Nils Rolllade | Current Target State: 0
+[08:14:37] [HomeKit] GET Anfrage für Feuchtigkeit Garten
+[08:19:11] [HomeKit] Update Feuchtigkeit Garten
+[08:24:24] [HomeKit] Update Temperatur Garten
+[08:24:24] [HomeKit] Update Feuchtigkeit Garten
+[08:26:59] [HomeKit] GET Anfrage für Nils Dachboden Licht
+[08:26:59] [HomeKit] GET Anfrage für Kompressor
+[08:26:59] [HomeKit] GET Anfrage für Nils Zimmer Licht
+[08:26:59] [HomeKit] GET Anfrage für Feuchtigkeit Wohnzimmer
+[08:26:59] [HomeKit] GET Anfrage für Subwoofer Nils Zimmer
+[08:26:59] [HomeKit] GET Anfrage für LED Kette Nils
+[08:26:59] [HomeKit] GET Anfrage für Fernseher
+[08:26:59] [HomeKit] GET Anfrage für Temperatur Wohnzimmer
+[08:26:59] [HomeKit] GET Anfrage für Eingangs Flur Licht
+[08:26:59] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Fenster | Current Target State: 0
+[08:26:59] [HomeKit] GET Anfrage (CurrentPosition): Wohnzimmer Rolllade Fenster | Current State: 0
+[08:26:59] [HomeKit] GET Anfrage (CurrentPosition): Gäste WC Rolllade | Current State: 0
+[08:26:59] [HomeKit] GET Anfrage (Target): Gäste WC Rolllade | Current Target State: 0
+[08:26:59] [HomeKit] GET Anfrage für Brunnen
+[08:26:59] [HomeKit] GET Anfrage (CurrentPosition): Wohnzimmer Rolllade Tür | Current State: 0
+[08:26:59] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Tür | Current Target State: 0
+[08:26:59] [HomeKit] GET Anfrage (Target): Schlafzimmer Rolllade | Current Target State: 0
+[08:26:59] [HomeKit] GET Anfrage (CurrentPosition): Schlafzimmer Rolllade | Current State: 0
+[08:26:59] [HomeKit] GET Anfrage (CurrentPosition): Arbeitszimmer Rolllade Kindergarten | Current State: 0
+[08:26:59] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Kindergarten | Current Target State: 0
+[08:26:59] [HomeKit] GET Anfrage für Arbeitszimmer Licht
+[08:26:59] [HomeKit] GET Anfrage für Feuchtigkeit Garten
+[08:26:59] [HomeKit] GET Anfrage für Temperatur Garten
+[08:26:59] [HomeKit] GET Anfrage für Treppe Licht Pflanze
+[08:26:59] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Garten | Current Target State: 0
+[08:26:59] [HomeKit] GET Anfrage (CurrentPosition): Arbeitszimmer Rolllade Garten | Current State: 0
+[08:26:59] [HomeKit] GET Anfrage (Target): Nils Rolllade | Current Target State: 0
+[08:26:59] [HomeKit] GET Anfrage (CurrentPosition): Nils Rolllade | Current State: 0
+[08:26:59] [HomeKit] GET Anfrage (Target): Küche Rolllade | Current Target State: 100
+[08:26:59] [HomeKit] GET Anfrage (CurrentPosition): Küche Rolllade | Current State: 100
+[08:26:59] [HomeKit] GET Anfrage für Keller Licht
+[08:29:22] [HomeKit] Update Wohnzimmer Rolllade Tür
+[08:29:24] [HomeKit] Update Wohnzimmer Rolllade Fenster
+[08:29:27] [HomeKit] Update Gäste WC Rolllade
+[08:29:37] [HomeKit] Update Temperatur Garten
+[08:30:00] [HomeKit] Update Nils Rolllade
+[08:36:08] [HomeKit] Update Arbeitszimmer Rolllade Garten
+[08:36:09] [HomeKit] Update Arbeitszimmer Rolllade Kindergarten
+[08:36:09] [HomeKit] Update Schlafzimmer Rolllade
+[08:40:03] [HomeKit] Update Temperatur Garten
+[08:40:03] [HomeKit] Update Feuchtigkeit Garten
+[08:45:16] [HomeKit] Update Feuchtigkeit Garten
+[08:55:42] [HomeKit] Update Temperatur Garten
+[08:55:42] [HomeKit] Update Feuchtigkeit Garten
+[09:00:55] [HomeKit] Update Feuchtigkeit Garten
+[09:06:08] [HomeKit] Update Temperatur Garten
+[09:11:21] [HomeKit] Update Temperatur Garten
+[09:11:21] [HomeKit] Update Feuchtigkeit Garten
+[09:16:34] [HomeKit] Update Feuchtigkeit Garten
+[09:27:00] [HomeKit] Update Feuchtigkeit Garten
+[09:31:09] [HomeKit] Update Temperatur Wohnzimmer
+[09:32:13] [HomeKit] Update Feuchtigkeit Garten
+[09:37:26] [HomeKit] Update Temperatur Garten
+[09:47:52] [HomeKit] Update Feuchtigkeit Garten
+[09:53:05] [HomeKit] Update Temperatur Garten
+[09:53:05] [HomeKit] Update Feuchtigkeit Garten
+[10:03:31] [HomeKit] Update Temperatur Garten
+[10:03:31] [HomeKit] Update Feuchtigkeit Garten
+[10:08:44] [HomeKit] Update Temperatur Garten
+[10:13:57] [HomeKit] Update Feuchtigkeit Garten
+[10:19:10] [HomeKit] Update Temperatur Garten
+[10:19:10] [HomeKit] Update Feuchtigkeit Garten
+[10:24:23] [HomeKit] Update Temperatur Garten
+[10:24:23] [HomeKit] Update Feuchtigkeit Garten
+[10:29:36] [HomeKit] Update Temperatur Garten
+[10:29:36] [HomeKit] Update Feuchtigkeit Garten
+[10:34:49] [HomeKit] Update Temperatur Garten
+[10:34:49] [HomeKit] Update Feuchtigkeit Garten
+[10:40:02] [HomeKit] Update Temperatur Garten
+[10:45:15] [HomeKit] Update Temperatur Garten
+[10:45:16] [HomeKit] Update Feuchtigkeit Garten
+[10:50:28] [HomeKit] Update Temperatur Garten
+[10:50:29] [HomeKit] Update Feuchtigkeit Garten
+[10:55:42] [HomeKit] Update Temperatur Garten
+[11:05:04] [HomeKit] Update Temperatur Wohnzimmer
+[11:06:08] [HomeKit] Update Temperatur Garten
+[11:06:08] [HomeKit] Update Feuchtigkeit Garten
+[11:11:21] [HomeKit] Update Temperatur Garten
+[11:11:21] [HomeKit] Update Feuchtigkeit Garten
+[11:16:34] [HomeKit] Update Feuchtigkeit Garten
+[11:20:43] [HomeKit] Update Temperatur Wohnzimmer
+[11:21:47] [HomeKit] Update Temperatur Garten
+[11:21:47] [HomeKit] Update Feuchtigkeit Garten
+[11:25:56] [HomeKit] Update Temperatur Wohnzimmer
+[11:27:00] [HomeKit] Update Temperatur Garten
+[11:27:00] [HomeKit] Update Feuchtigkeit Garten
+[11:32:13] [HomeKit] Update Temperatur Garten
+[11:32:13] [HomeKit] Update Feuchtigkeit Garten
+[11:36:22] [HomeKit] Update Temperatur Wohnzimmer
+[11:37:26] [HomeKit] Update Temperatur Garten
+[11:37:26] [HomeKit] Update Feuchtigkeit Garten
+[11:41:35] [HomeKit] Update Temperatur Wohnzimmer
+[11:42:39] [HomeKit] Update Temperatur Garten
+[11:42:39] [HomeKit] Update Feuchtigkeit Garten
+[11:46:48] [HomeKit] Update Temperatur Wohnzimmer
+[11:47:52] [HomeKit] Update Temperatur Garten
+[11:47:52] [HomeKit] Update Feuchtigkeit Garten
+[11:53:05] [HomeKit] Update Feuchtigkeit Garten
+[11:58:18] [HomeKit] Update Temperatur Garten
+[11:58:18] [HomeKit] Update Feuchtigkeit Garten
+[12:03:31] [HomeKit] Update Temperatur Garten
+[12:03:31] [HomeKit] Update Feuchtigkeit Garten
+[12:08:44] [HomeKit] Update Feuchtigkeit Garten
+[12:13:57] [HomeKit] Update Temperatur Garten
+[12:13:57] [HomeKit] Update Feuchtigkeit Garten
+[12:16:50] [HomeKit] GET Anfrage für Nils Dachboden Licht
+[12:16:50] [HomeKit] GET Anfrage für Kompressor
+[12:16:50] [HomeKit] GET Anfrage für Nils Zimmer Licht
+[12:16:50] [HomeKit] GET Anfrage für Subwoofer Nils Zimmer
+[12:16:50] [HomeKit] GET Anfrage für Temperatur Garten
+[12:16:50] [HomeKit] GET Anfrage für LED Kette Nils
+[12:16:50] [HomeKit] GET Anfrage für Treppe Licht Pflanze
+[12:16:50] [HomeKit] GET Anfrage (CurrentPosition): Nils Rolllade | Current State: 100
+[12:16:50] [HomeKit] GET Anfrage (Target): Nils Rolllade | Current Target State: 100
+[12:16:50] [HomeKit] GET Anfrage für Feuchtigkeit Garten
+[12:19:10] [HomeKit] Update Temperatur Garten
+[12:19:10] [HomeKit] Update Feuchtigkeit Garten
+[12:24:23] [HomeKit] Update Temperatur Garten
+[12:24:23] [HomeKit] Update Feuchtigkeit Garten
+[12:29:36] [HomeKit] Update Temperatur Garten
+[12:29:36] [HomeKit] Update Feuchtigkeit Garten
+[12:34:49] [HomeKit] Update Temperatur Garten
+[12:34:49] [HomeKit] Update Feuchtigkeit Garten
+[12:40:02] [HomeKit] Update Temperatur Garten
+[12:40:02] [HomeKit] Update Feuchtigkeit Garten
+[12:45:15] [HomeKit] Update Feuchtigkeit Garten
+[12:50:28] [HomeKit] Update Temperatur Garten
+[12:50:28] [HomeKit] Update Feuchtigkeit Garten
+[12:55:41] [HomeKit] Update Feuchtigkeit Garten
+[13:00:54] [HomeKit] Update Temperatur Garten
+[13:00:54] [HomeKit] Update Feuchtigkeit Garten
+[13:06:07] [HomeKit] Update Temperatur Garten
+[13:06:07] [HomeKit] Update Feuchtigkeit Garten
+[13:10:16] [HomeKit] Update Temperatur Wohnzimmer
+[13:11:20] [HomeKit] Update Temperatur Garten
+[13:11:20] [HomeKit] Update Feuchtigkeit Garten
+[13:16:33] [HomeKit] Update Temperatur Garten
+[13:16:33] [HomeKit] Update Feuchtigkeit Garten
+[13:21:46] [HomeKit] Update Temperatur Garten
+[13:21:46] [HomeKit] Update Feuchtigkeit Garten
+[13:26:59] [HomeKit] Update Temperatur Garten
+[13:26:59] [HomeKit] Update Feuchtigkeit Garten
+[13:32:12] [HomeKit] Update Temperatur Garten
+[13:32:12] [HomeKit] Update Feuchtigkeit Garten
+[13:37:25] [HomeKit] Update Temperatur Garten
+[13:37:25] [HomeKit] Update Feuchtigkeit Garten
+[13:42:38] [HomeKit] Update Temperatur Garten
+[13:42:38] [HomeKit] Update Feuchtigkeit Garten
+[13:47:51] [HomeKit] Update Feuchtigkeit Garten
+[13:53:04] [HomeKit] Update Temperatur Garten
+[13:53:04] [HomeKit] Update Feuchtigkeit Garten
+[13:58:17] [HomeKit] Update Temperatur Garten
+[13:58:17] [HomeKit] Update Feuchtigkeit Garten
+[14:03:30] [HomeKit] Update Temperatur Garten
+[14:03:30] [HomeKit] Update Feuchtigkeit Garten
+[14:08:43] [HomeKit] Update Feuchtigkeit Garten
+[14:13:56] [HomeKit] Update Temperatur Garten
+[14:19:09] [HomeKit] Update Temperatur Garten
+[14:19:09] [HomeKit] Update Feuchtigkeit Garten
+[14:24:22] [HomeKit] Update Feuchtigkeit Garten
+[14:29:35] [HomeKit] Update Temperatur Garten
+[14:29:35] [HomeKit] Update Feuchtigkeit Garten
+[14:38:23] [HomeKit] GET Anfrage für Nils Dachboden Licht
+[14:38:23] [HomeKit] GET Anfrage für Nils Zimmer Licht
+[14:38:23] [HomeKit] GET Anfrage für Feuchtigkeit Wohnzimmer
+[14:38:23] [HomeKit] GET Anfrage für Subwoofer Nils Zimmer
+[14:38:23] [HomeKit] GET Anfrage für LED Kette Nils
+[14:38:23] [HomeKit] GET Anfrage für Fernseher
+[14:38:23] [HomeKit] GET Anfrage für Temperatur Wohnzimmer
+[14:38:23] [HomeKit] GET Anfrage für Eingangs Flur Licht
+[14:38:23] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Fenster | Current Target State: 100
+[14:38:23] [HomeKit] GET Anfrage (CurrentPosition): Wohnzimmer Rolllade Fenster | Current State: 100
+[14:38:23] [HomeKit] GET Anfrage (Target): Gäste WC Rolllade | Current Target State: 100
+[14:38:23] [HomeKit] GET Anfrage (CurrentPosition): Gäste WC Rolllade | Current State: 100
+[14:38:23] [HomeKit] GET Anfrage für Brunnen
+[14:38:23] [HomeKit] GET Anfrage (CurrentPosition): Wohnzimmer Rolllade Tür | Current State: 100
+[14:38:23] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Tür | Current Target State: 100
+[14:38:23] [HomeKit] GET Anfrage (CurrentPosition): Schlafzimmer Rolllade | Current State: 100
+[14:38:23] [HomeKit] GET Anfrage (Target): Schlafzimmer Rolllade | Current Target State: 100
+[14:38:23] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Kindergarten | Current Target State: 100
+[14:38:23] [HomeKit] GET Anfrage (CurrentPosition): Arbeitszimmer Rolllade Kindergarten | Current State: 100
+[14:38:23] [HomeKit] GET Anfrage für Arbeitszimmer Licht
+[14:38:23] [HomeKit] GET Anfrage für Feuchtigkeit Garten
+[14:38:23] [HomeKit] GET Anfrage für Keller Licht
+[14:38:23] [HomeKit] GET Anfrage für Temperatur Garten
+[14:38:23] [HomeKit] GET Anfrage für Treppe Licht Pflanze
+[14:38:23] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Garten | Current Target State: 100
+[14:38:23] [HomeKit] GET Anfrage (CurrentPosition): Arbeitszimmer Rolllade Garten | Current State: 100
+[14:38:23] [HomeKit] GET Anfrage (Target): Nils Rolllade | Current Target State: 100
+[14:38:23] [HomeKit] GET Anfrage (CurrentPosition): Nils Rolllade | Current State: 100
+[14:38:23] [HomeKit] GET Anfrage (CurrentPosition): Küche Rolllade | Current State: 100
+[14:38:23] [HomeKit] GET Anfrage (Target): Küche Rolllade | Current Target State: 100
+[14:38:23] [HomeKit] GET Anfrage für Kompressor
+[14:40:01] [HomeKit] Update Temperatur Garten
+[14:40:01] [HomeKit] Update Feuchtigkeit Garten
+[14:45:14] [HomeKit] Update Temperatur Garten
+[14:45:14] [HomeKit] Update Feuchtigkeit Garten
+[14:50:27] [HomeKit] Update Temperatur Garten
+[14:50:27] [HomeKit] Update Feuchtigkeit Garten
+[14:55:40] [HomeKit] Update Temperatur Garten
+[14:55:40] [HomeKit] Update Feuchtigkeit Garten
+[15:00:53] [HomeKit] Update Feuchtigkeit Garten
+[15:06:06] [HomeKit] Update Temperatur Garten
+[15:06:06] [HomeKit] Update Feuchtigkeit Garten
+[15:11:19] [HomeKit] Update Temperatur Garten
+[15:11:19] [HomeKit] Update Feuchtigkeit Garten
+[15:16:32] [HomeKit] Update Temperatur Garten
+[15:16:32] [HomeKit] Update Feuchtigkeit Garten
+[15:21:45] [HomeKit] Update Temperatur Garten
+[15:21:46] [HomeKit] Update Feuchtigkeit Garten
+[15:26:59] [HomeKit] Update Temperatur Garten
+[15:26:59] [HomeKit] Update Feuchtigkeit Garten
+[15:32:12] [HomeKit] Update Temperatur Garten
+[15:32:12] [HomeKit] Update Feuchtigkeit Garten
+[15:37:25] [HomeKit] Update Feuchtigkeit Garten
+[15:38:36] [HomeKit] GET Anfrage für Nils Dachboden Licht
+[15:38:36] [HomeKit] GET Anfrage für Kompressor
+[15:38:36] [HomeKit] GET Anfrage für Nils Zimmer Licht
+[15:38:36] [HomeKit] GET Anfrage für Feuchtigkeit Wohnzimmer
+[15:38:36] [HomeKit] GET Anfrage für Subwoofer Nils Zimmer
+[15:38:36] [HomeKit] GET Anfrage für LED Kette Nils
+[15:38:36] [HomeKit] GET Anfrage für Fernseher
+[15:38:36] [HomeKit] GET Anfrage für Temperatur Wohnzimmer
+[15:38:36] [HomeKit] GET Anfrage für Eingangs Flur Licht
+[15:38:36] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Fenster | Current Target State: 100
+[15:38:36] [HomeKit] GET Anfrage (CurrentPosition): Wohnzimmer Rolllade Fenster | Current State: 100
+[15:38:36] [HomeKit] GET Anfrage (Target): Gäste WC Rolllade | Current Target State: 100
+[15:38:36] [HomeKit] GET Anfrage (CurrentPosition): Gäste WC Rolllade | Current State: 100
+[15:38:36] [HomeKit] GET Anfrage für Brunnen
+[15:38:36] [HomeKit] GET Anfrage (CurrentPosition): Wohnzimmer Rolllade Tür | Current State: 100
+[15:38:36] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Tür | Current Target State: 100
+[15:38:36] [HomeKit] GET Anfrage (CurrentPosition): Schlafzimmer Rolllade | Current State: 100
+[15:38:36] [HomeKit] GET Anfrage (Target): Schlafzimmer Rolllade | Current Target State: 100
+[15:38:36] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Kindergarten | Current Target State: 100
+[15:38:36] [HomeKit] GET Anfrage (CurrentPosition): Arbeitszimmer Rolllade Kindergarten | Current State: 100
+[15:38:36] [HomeKit] GET Anfrage für Arbeitszimmer Licht
+[15:38:36] [HomeKit] GET Anfrage für Feuchtigkeit Garten
+[15:38:36] [HomeKit] GET Anfrage für Keller Licht
+[15:38:36] [HomeKit] GET Anfrage für Temperatur Garten
+[15:38:36] [HomeKit] GET Anfrage für Treppe Licht Pflanze
+[15:38:36] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Garten | Current Target State: 100
+[15:38:36] [HomeKit] GET Anfrage (CurrentPosition): Arbeitszimmer Rolllade Garten | Current State: 100
+[15:38:36] [HomeKit] GET Anfrage (Target): Nils Rolllade | Current Target State: 100
+[15:38:36] [HomeKit] GET Anfrage (CurrentPosition): Nils Rolllade | Current State: 100
+[15:38:36] [HomeKit] GET Anfrage (CurrentPosition): Küche Rolllade | Current State: 100
+[15:38:36] [HomeKit] GET Anfrage (Target): Küche Rolllade | Current Target State: 100
+[15:42:38] [HomeKit] Update Temperatur Garten
+[15:42:38] [HomeKit] Update Feuchtigkeit Garten
+[15:47:51] [HomeKit] Update Feuchtigkeit Garten
+[15:53:04] [HomeKit] Update Temperatur Garten
+[15:53:04] [HomeKit] Update Feuchtigkeit Garten
+[15:58:17] [HomeKit] Update Temperatur Garten
+[15:58:17] [HomeKit] Update Feuchtigkeit Garten
+[16:03:30] [HomeKit] Update Temperatur Garten
+[16:08:43] [HomeKit] Update Feuchtigkeit Garten
+[16:13:56] [HomeKit] Update Feuchtigkeit Garten
+[16:19:09] [HomeKit] Update Feuchtigkeit Garten
+[16:24:22] [HomeKit] Update Temperatur Garten
+[16:28:51] [HomeKit] GET Anfrage für Nils Dachboden Licht
+[16:28:51] [HomeKit] GET Anfrage für Nils Zimmer Licht
+[16:28:51] [HomeKit] GET Anfrage für Subwoofer Nils Zimmer
+[16:28:51] [HomeKit] GET Anfrage für Temperatur Garten
+[16:28:51] [HomeKit] GET Anfrage für LED Kette Nils
+[16:28:51] [HomeKit] GET Anfrage für Treppe Licht Pflanze
+[16:28:51] [HomeKit] GET Anfrage (CurrentPosition): Nils Rolllade | Current State: 100
+[16:28:51] [HomeKit] GET Anfrage (Target): Nils Rolllade | Current Target State: 100
+[16:28:51] [HomeKit] GET Anfrage für Feuchtigkeit Garten
+[16:28:51] [HomeKit] GET Anfrage für Kompressor
+[16:29:35] [HomeKit] Update Temperatur Garten
+[16:29:35] [HomeKit] Update Feuchtigkeit Garten
+[16:33:41] [HomeKit] GET Anfrage für Nils Dachboden Licht
+[16:33:41] [HomeKit] GET Anfrage für Kompressor
+[16:33:41] [HomeKit] GET Anfrage für Nils Zimmer Licht
+[16:33:41] [HomeKit] GET Anfrage für Subwoofer Nils Zimmer
+[16:33:41] [HomeKit] GET Anfrage für Temperatur Garten
+[16:33:41] [HomeKit] GET Anfrage für LED Kette Nils
+[16:33:41] [HomeKit] GET Anfrage für Treppe Licht Pflanze
+[16:33:41] [HomeKit] GET Anfrage (CurrentPosition): Nils Rolllade | Current State: 100
+[16:33:41] [HomeKit] GET Anfrage (Target): Nils Rolllade | Current Target State: 100
+[16:33:41] [HomeKit] GET Anfrage für Feuchtigkeit Garten
+[16:33:57] [HomeKit] GET Anfrage für Nils Dachboden Licht
+[16:33:57] [HomeKit] GET Anfrage für Kompressor
+[16:33:57] [HomeKit] GET Anfrage für Nils Zimmer Licht
+[16:33:57] [HomeKit] GET Anfrage für Subwoofer Nils Zimmer
+[16:33:57] [HomeKit] GET Anfrage für Temperatur Garten
+[16:33:57] [HomeKit] GET Anfrage für LED Kette Nils
+[16:33:57] [HomeKit] GET Anfrage für Treppe Licht Pflanze
+[16:33:57] [HomeKit] GET Anfrage (CurrentPosition): Nils Rolllade | Current State: 100
+[16:33:57] [HomeKit] GET Anfrage (Target): Nils Rolllade | Current Target State: 100
+[16:33:57] [HomeKit] GET Anfrage für Feuchtigkeit Garten
+[16:34:48] [HomeKit] Update Temperatur Garten
+[16:34:48] [HomeKit] Update Feuchtigkeit Garten
+[16:40:01] [HomeKit] Update Feuchtigkeit Garten
+[16:45:14] [HomeKit] Update Temperatur Garten
+[16:45:14] [HomeKit] Update Feuchtigkeit Garten
+[16:50:27] [HomeKit] Update Feuchtigkeit Garten
+[17:00:53] [HomeKit] Update Temperatur Garten
+[17:00:53] [HomeKit] Update Feuchtigkeit Garten
+[17:11:19] [HomeKit] Update Feuchtigkeit Garten
+[17:16:32] [HomeKit] Update Feuchtigkeit Garten
+[17:21:45] [HomeKit] Update Feuchtigkeit Garten
+[17:26:58] [HomeKit] Update Temperatur Garten
+[17:26:58] [HomeKit] Update Feuchtigkeit Garten
+[17:32:11] [HomeKit] Update Feuchtigkeit Garten
+[17:36:20] [HomeKit] Update Temperatur Wohnzimmer
+[17:37:24] [HomeKit] Update Temperatur Garten
+[17:37:24] [HomeKit] Update Feuchtigkeit Garten
+[17:41:33] [HomeKit] Update Temperatur Wohnzimmer
+[17:42:37] [HomeKit] Update Temperatur Garten
+[17:42:37] [HomeKit] Update Feuchtigkeit Garten
+[17:47:50] [HomeKit] Update Temperatur Garten
+[17:47:50] [HomeKit] Update Feuchtigkeit Garten
+[17:53:03] [HomeKit] Update Temperatur Garten
+[17:53:03] [HomeKit] Update Feuchtigkeit Garten
+[17:58:16] [HomeKit] Update Feuchtigkeit Garten
+[18:03:29] [HomeKit] Update Temperatur Garten
+[18:03:29] [HomeKit] Update Feuchtigkeit Garten
+[18:08:42] [HomeKit] Update Temperatur Garten
+[18:08:42] [HomeKit] Update Feuchtigkeit Garten
+[18:13:55] [HomeKit] Update Temperatur Garten
+[18:13:55] [HomeKit] Update Feuchtigkeit Garten
+[18:19:08] [HomeKit] Update Temperatur Garten
+[18:19:08] [HomeKit] Update Feuchtigkeit Garten
+[18:23:17] [HomeKit] Update Temperatur Wohnzimmer
+[18:24:21] [HomeKit] Update Temperatur Garten
+[18:24:21] [HomeKit] Update Feuchtigkeit Garten
+[18:29:34] [HomeKit] Update Temperatur Garten
+[18:29:34] [HomeKit] Update Feuchtigkeit Garten
+[18:34:47] [HomeKit] Update Feuchtigkeit Garten
+[18:40:00] [HomeKit] Update Temperatur Garten
+[18:40:00] [HomeKit] Update Feuchtigkeit Garten
+[18:45:13] [HomeKit] Update Feuchtigkeit Garten
+[18:50:26] [HomeKit] Update Temperatur Garten
+[18:50:26] [HomeKit] Update Feuchtigkeit Garten
+[18:55:39] [HomeKit] Update Feuchtigkeit Garten
+[18:57:42] [HomeKit] Update Gäste WC Rolllade
+[19:00:52] [HomeKit] Update Temperatur Garten
+[19:00:52] [HomeKit] Update Feuchtigkeit Garten
+[19:06:05] [HomeKit] Update Feuchtigkeit Garten
+[19:11:18] [HomeKit] Update Feuchtigkeit Garten
+[19:16:31] [HomeKit] Update Feuchtigkeit Garten
+[19:21:44] [HomeKit] Update Temperatur Garten
+[19:21:44] [HomeKit] Update Feuchtigkeit Garten
+[19:26:57] [HomeKit] Update Temperatur Garten
+[19:26:57] [HomeKit] Update Feuchtigkeit Garten
+[19:29:02] [HomeKit] Update Wohnzimmer Rolllade Fenster
+[19:29:03] [HomeKit] Update Küche Rolllade
+[19:29:05] [HomeKit] Update Wohnzimmer Rolllade Tür
+[19:29:10] [HomeKit] Update Nils Rolllade
+[19:29:11] [HomeKit] Update Arbeitszimmer Rolllade Garten
+[19:29:12] [HomeKit] Update Arbeitszimmer Rolllade Kindergarten
+[19:29:13] [HomeKit] Update Schlafzimmer Rolllade
+[19:32:10] [HomeKit] Update Temperatur Garten
+[19:32:10] [HomeKit] Update Feuchtigkeit Garten
+[19:37:23] [HomeKit] Update Temperatur Garten
+[19:37:23] [HomeKit] Update Feuchtigkeit Garten
+[19:42:36] [HomeKit] Update Feuchtigkeit Garten
+[19:47:49] [HomeKit] Update Temperatur Garten
+[19:47:49] [HomeKit] Update Feuchtigkeit Garten
+[19:53:02] [HomeKit] Update Feuchtigkeit Garten
+[20:03:29] [HomeKit] Update Temperatur Garten
+[20:03:29] [HomeKit] Update Feuchtigkeit Garten
+[20:08:42] [HomeKit] Update Temperatur Garten
+[20:08:42] [HomeKit] Update Feuchtigkeit Garten
+[20:13:55] [HomeKit] Update Feuchtigkeit Garten
+[20:19:08] [HomeKit] Update Temperatur Garten
+[20:19:08] [HomeKit] Update Feuchtigkeit Garten
+[20:24:21] [HomeKit] Update Temperatur Garten
+[20:29:34] [HomeKit] Update Feuchtigkeit Garten
+[20:34:47] [HomeKit] Update Temperatur Garten
+[20:34:47] [HomeKit] Update Feuchtigkeit Garten
+[20:40:00] [HomeKit] Update Feuchtigkeit Garten
+[20:45:13] [HomeKit] Update Temperatur Garten
+[20:50:26] [HomeKit] Update Feuchtigkeit Garten
+[21:06:05] [HomeKit] Update Temperatur Garten
+[21:06:05] [HomeKit] Update Feuchtigkeit Garten
+[21:15:26] [HomeKit] Update Temperatur Wohnzimmer
+[21:16:31] [HomeKit] Update Feuchtigkeit Garten
+[21:21:44] [HomeKit] Update Feuchtigkeit Garten
+[21:26:57] [HomeKit] Update Temperatur Garten
+[21:26:57] [HomeKit] Update Feuchtigkeit Garten
+[21:32:10] [HomeKit] Update Feuchtigkeit Garten
+[21:37:23] [HomeKit] Update Feuchtigkeit Garten
+[21:41:31] [HomeKit] Update Temperatur Wohnzimmer
+[21:42:36] [HomeKit] Update Feuchtigkeit Garten
+[21:47:49] [HomeKit] Update Feuchtigkeit Garten
+[21:57:10] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[21:58:15] [HomeKit] Update Temperatur Garten
+[21:58:15] [HomeKit] Update Feuchtigkeit Garten
+[22:03:28] [HomeKit] Update Temperatur Garten
+[22:03:28] [HomeKit] Update Feuchtigkeit Garten
+[22:07:36] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[22:19:07] [HomeKit] Update Temperatur Garten
+[22:19:07] [HomeKit] Update Feuchtigkeit Garten
+[22:24:20] [HomeKit] Update Feuchtigkeit Garten
+[22:28:28] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[22:29:33] [HomeKit] Update Feuchtigkeit Garten
+[22:33:41] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[22:34:46] [HomeKit] Update Feuchtigkeit Garten
+[22:38:54] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[22:39:59] [HomeKit] Update Feuchtigkeit Garten
+[22:45:12] [HomeKit] Update Feuchtigkeit Garten
+[22:49:20] [HomeKit] Update Temperatur Wohnzimmer
+[22:49:20] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[22:50:25] [HomeKit] Update Temperatur Garten
+[22:50:25] [HomeKit] Update Feuchtigkeit Garten
+[22:54:33] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[22:55:38] [HomeKit] Update Feuchtigkeit Garten
+[23:00:51] [HomeKit] Update Feuchtigkeit Garten
+[23:11:17] [HomeKit] Update Temperatur Garten
+[23:16:30] [HomeKit] Update Feuchtigkeit Garten
+[23:21:43] [HomeKit] Update Feuchtigkeit Garten
+[23:26:56] [HomeKit] Update Feuchtigkeit Garten
+[23:32:09] [HomeKit] Update Feuchtigkeit Garten
+[23:36:17] [HomeKit] Update Temperatur Wohnzimmer
+[23:37:22] [HomeKit] Update Feuchtigkeit Garten
+[23:42:35] [HomeKit] Update Feuchtigkeit Garten
+[23:47:48] [HomeKit] Update Feuchtigkeit Garten
+[23:53:01] [HomeKit] Update Temperatur Garten
+[23:53:01] [HomeKit] Update Feuchtigkeit Garten
+[23:58:14] [HomeKit] Update Feuchtigkeit Garten
+[00:00:45] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[00:02:14] [HomeKit] Update Temperatur Garten
+[00:02:14] [HomeKit] Update Feuchtigkeit Garten
+[00:12:40] [HomeKit] Update Feuchtigkeit Garten
+[00:16:24] [HomeKit] Update Temperatur Wohnzimmer
+[00:16:24] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[00:21:37] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[00:23:06] [HomeKit] Update Feuchtigkeit Garten
+[00:26:50] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[00:33:32] [HomeKit] Update Feuchtigkeit Garten
+[00:37:16] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[00:42:29] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[00:47:42] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[00:49:11] [HomeKit] Update Feuchtigkeit Garten
+[00:52:55] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[00:54:24] [HomeKit] Update Temperatur Garten
+[00:54:24] [HomeKit] Update Feuchtigkeit Garten
+[00:58:08] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[01:03:21] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[01:08:34] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[01:10:03] [HomeKit] Update Temperatur Garten
+[01:13:47] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[01:19:00] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[01:24:13] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[01:25:42] [HomeKit] Update Feuchtigkeit Garten
+[01:30:55] [HomeKit] Update Temperatur Garten
+[01:34:39] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[01:46:34] [HomeKit] Update Temperatur Garten
+[01:46:34] [HomeKit] Update Feuchtigkeit Garten
+[01:50:18] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[02:11:10] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[02:16:23] [HomeKit] Update Temperatur Wohnzimmer
+[02:16:23] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[02:17:52] [HomeKit] Update Feuchtigkeit Garten
+[02:21:36] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[02:26:49] [HomeKit] Update Temperatur Wohnzimmer
+[02:26:49] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[02:32:02] [HomeKit] Update Temperatur Wohnzimmer
+[02:32:02] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[02:33:31] [HomeKit] Update Feuchtigkeit Garten
+[02:37:15] [HomeKit] Update Temperatur Wohnzimmer
+[02:37:15] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[02:47:41] [HomeKit] Update Temperatur Wohnzimmer
+[02:47:41] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[02:49:11] [HomeKit] Update Temperatur Garten
+[02:49:11] [HomeKit] Update Feuchtigkeit Garten
+[02:54:24] [HomeKit] Update Feuchtigkeit Garten
+[02:58:07] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[03:10:03] [HomeKit] Update Temperatur Garten
+[03:10:03] [HomeKit] Update Feuchtigkeit Garten
+[03:15:16] [HomeKit] Update Feuchtigkeit Garten
+[03:18:59] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[03:25:42] [HomeKit] Update Temperatur Garten
+[03:25:42] [HomeKit] Update Feuchtigkeit Garten
+[03:34:38] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[03:41:21] [HomeKit] Update Temperatur Garten
+[03:41:21] [HomeKit] Update Feuchtigkeit Garten
+[03:51:47] [HomeKit] Update Feuchtigkeit Garten
+[03:55:31] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[03:57:00] [HomeKit] Update Feuchtigkeit Garten
+[04:05:57] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[04:11:10] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[04:16:23] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[04:33:31] [HomeKit] Update Feuchtigkeit Garten
+[04:38:44] [HomeKit] Update Temperatur Garten
+[04:38:44] [HomeKit] Update Feuchtigkeit Garten
+[04:47:41] [HomeKit] Update Temperatur Wohnzimmer
+[04:49:10] [HomeKit] Update Feuchtigkeit Garten
+[04:52:54] [HomeKit] Update Temperatur Wohnzimmer
+[04:58:07] [HomeKit] Update Temperatur Wohnzimmer
+[05:13:46] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[05:15:15] [HomeKit] Update Feuchtigkeit Garten
+[05:18:59] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[05:24:12] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[05:29:25] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[05:34:38] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[05:36:07] [HomeKit] Update Temperatur Garten
+[05:36:07] [HomeKit] Update Feuchtigkeit Garten
+[05:45:04] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[05:46:33] [HomeKit] Update Temperatur Garten
+[05:46:33] [HomeKit] Update Feuchtigkeit Garten
+[05:51:46] [HomeKit] Update Temperatur Garten
+[05:51:46] [HomeKit] Update Feuchtigkeit Garten
+[05:55:30] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[05:56:59] [HomeKit] Update Temperatur Garten
+[06:00:43] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[06:12:38] [HomeKit] Update Feuchtigkeit Garten
+[06:21:35] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[06:23:04] [HomeKit] Update Feuchtigkeit Garten
+[06:28:18] [HomeKit] Update Temperatur Garten
+[06:28:18] [HomeKit] Update Feuchtigkeit Garten
+[06:32:01] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[06:33:31] [HomeKit] Update Feuchtigkeit Garten
+[06:37:14] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[06:49:10] [HomeKit] Update Feuchtigkeit Garten
+[06:52:53] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[06:54:23] [HomeKit] Update Feuchtigkeit Garten
+[07:03:19] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[07:08:32] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[07:18:51] [HomeKit] GET Anfrage (CurrentPosition): Küche Rolllade | Current State: 0
+[07:18:51] [HomeKit] GET Anfrage (Target): Küche Rolllade | Current Target State: 0
+[07:18:51] [HomeKit] GET Anfrage für Treppe Licht Pflanze
+[07:18:51] [HomeKit] GET Anfrage für LED Kette Nils
+[07:18:51] [HomeKit] GET Anfrage (Target): Nils Rolllade | Current Target State: 0
+[07:18:51] [HomeKit] GET Anfrage (CurrentPosition): Nils Rolllade | Current State: 0
+[07:18:51] [HomeKit] GET Anfrage (Target): Gäste WC Rolllade | Current Target State: 0
+[07:18:51] [HomeKit] GET Anfrage (CurrentPosition): Gäste WC Rolllade | Current State: 0
+[07:18:51] [HomeKit] GET Anfrage für Keller Licht
+[07:18:51] [HomeKit] GET Anfrage (CurrentPosition): Wohnzimmer Rolllade Tür | Current State: 0
+[07:18:51] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Tür | Current Target State: 0
+[07:18:51] [HomeKit] GET Anfrage für Nils Zimmer Licht
+[07:18:51] [HomeKit] GET Anfrage (CurrentPosition): Schlafzimmer Rolllade | Current State: 0
+[07:18:51] [HomeKit] GET Anfrage (Target): Schlafzimmer Rolllade | Current Target State: 0
+[07:18:51] [HomeKit] GET Anfrage für Feuchtigkeit Garten
+[07:18:51] [HomeKit] GET Anfrage für Kompressor
+[07:18:51] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Fenster | Current Target State: 0
+[07:18:51] [HomeKit] GET Anfrage (CurrentPosition): Wohnzimmer Rolllade Fenster | Current State: 0
+[07:18:51] [HomeKit] GET Anfrage für Eingangs Flur Licht
+[07:18:51] [HomeKit] GET Anfrage für Fernseher
+[07:18:51] [HomeKit] GET Anfrage für Nils Dachboden Licht
+[07:18:51] [HomeKit] GET Anfrage (CurrentPosition): Arbeitszimmer Rolllade Garten | Current State: 0
+[07:18:51] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Garten | Current Target State: 0
+[07:18:51] [HomeKit] GET Anfrage für Subwoofer Nils Zimmer
+[07:18:51] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Kindergarten | Current Target State: 0
+[07:18:51] [HomeKit] GET Anfrage (CurrentPosition): Arbeitszimmer Rolllade Kindergarten | Current State: 0
+[07:18:51] [HomeKit] GET Anfrage für Feuchtigkeit Wohnzimmer
+[07:18:51] [HomeKit] GET Anfrage für Brunnen
+[07:18:51] [HomeKit] GET Anfrage für Temperatur Garten
+[07:18:51] [HomeKit] GET Anfrage für Arbeitszimmer Licht
+[07:18:54] [HomeKit] SET Befehlt: 1
+[07:18:54] [HomeKit] ANNNNNNN
+[07:18:54] [HomeKit] Callback
+[07:18:58] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[07:19:19] [HomeKit] GET Anfrage für LED Kette Nils
+[07:19:19] [HomeKit] GET Anfrage für Nils Dachboden Licht
+[07:19:19] [HomeKit] GET Anfrage für Kompressor
+[07:19:19] [HomeKit] GET Anfrage (Target): Nils Rolllade | Current Target State: 0
+[07:19:19] [HomeKit] GET Anfrage (CurrentPosition): Nils Rolllade | Current State: 0
+[07:19:19] [HomeKit] GET Anfrage für Feuchtigkeit Garten
+[07:19:19] [HomeKit] GET Anfrage für Temperatur Garten
+[07:19:19] [HomeKit] GET Anfrage für Subwoofer Nils Zimmer
+[07:19:19] [HomeKit] GET Anfrage für Treppe Licht Pflanze
+[07:19:19] [HomeKit] GET Anfrage für Nils Zimmer Licht
+[07:20:17] [HomeKit] GET Anfrage für LED Kette Nils
+[07:20:17] [HomeKit] GET Anfrage für Nils Dachboden Licht
+[07:20:17] [HomeKit] GET Anfrage für Kompressor
+[07:20:17] [HomeKit] GET Anfrage (Target): Nils Rolllade | Current Target State: 0
+[07:20:17] [HomeKit] GET Anfrage (CurrentPosition): Nils Rolllade | Current State: 0
+[07:20:17] [HomeKit] GET Anfrage für Feuchtigkeit Garten
+[07:20:17] [HomeKit] GET Anfrage für Temperatur Garten
+[07:20:17] [HomeKit] GET Anfrage für Subwoofer Nils Zimmer
+[07:20:17] [HomeKit] GET Anfrage für Treppe Licht Pflanze
+[07:20:17] [HomeKit] GET Anfrage für Nils Zimmer Licht
+[07:20:28] [HomeKit] Update Temperatur Garten
+[07:21:39] [HomeKit] GET Anfrage (CurrentPosition): Küche Rolllade | Current State: 0
+[07:21:39] [HomeKit] GET Anfrage (Target): Küche Rolllade | Current Target State: 0
+[07:21:39] [HomeKit] GET Anfrage für Treppe Licht Pflanze
+[07:21:39] [HomeKit] GET Anfrage für LED Kette Nils
+[07:21:39] [HomeKit] GET Anfrage (Target): Nils Rolllade | Current Target State: 0
+[07:21:39] [HomeKit] GET Anfrage (CurrentPosition): Nils Rolllade | Current State: 0
+[07:21:39] [HomeKit] GET Anfrage (Target): Gäste WC Rolllade | Current Target State: 0
+[07:21:39] [HomeKit] GET Anfrage (CurrentPosition): Gäste WC Rolllade | Current State: 0
+[07:21:39] [HomeKit] GET Anfrage für Keller Licht
+[07:21:39] [HomeKit] GET Anfrage (CurrentPosition): Wohnzimmer Rolllade Tür | Current State: 0
+[07:21:39] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Tür | Current Target State: 0
+[07:21:39] [HomeKit] GET Anfrage für Nils Zimmer Licht
+[07:21:39] [HomeKit] GET Anfrage (CurrentPosition): Schlafzimmer Rolllade | Current State: 0
+[07:21:39] [HomeKit] GET Anfrage (Target): Schlafzimmer Rolllade | Current Target State: 0
+[07:21:39] [HomeKit] GET Anfrage für Feuchtigkeit Garten
+[07:21:39] [HomeKit] GET Anfrage für Kompressor
+[07:21:39] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Fenster | Current Target State: 0
+[07:21:39] [HomeKit] GET Anfrage (CurrentPosition): Wohnzimmer Rolllade Fenster | Current State: 0
+[07:21:39] [HomeKit] GET Anfrage für Eingangs Flur Licht
+[07:21:39] [HomeKit] GET Anfrage für Fernseher
+[07:21:39] [HomeKit] GET Anfrage für Nils Dachboden Licht
+[07:21:39] [HomeKit] GET Anfrage (CurrentPosition): Arbeitszimmer Rolllade Garten | Current State: 0
+[07:21:39] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Garten | Current Target State: 0
+[07:21:39] [HomeKit] GET Anfrage für Subwoofer Nils Zimmer
+[07:21:39] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Kindergarten | Current Target State: 0
+[07:21:39] [HomeKit] GET Anfrage (CurrentPosition): Arbeitszimmer Rolllade Kindergarten | Current State: 0
+[07:21:39] [HomeKit] GET Anfrage für Feuchtigkeit Wohnzimmer
+[07:21:39] [HomeKit] GET Anfrage für Brunnen
+[07:21:39] [HomeKit] GET Anfrage für Temperatur Garten
+[07:21:39] [HomeKit] GET Anfrage für Arbeitszimmer Licht
+[07:21:47] [HomeKit] SET Befehlt: 1
+[07:21:47] [HomeKit] ANNNNNNN
+[07:21:47] [HomeKit] Callback
+[07:21:48] [HomeKit] SET Befehlt: 0
+[07:21:48] [HomeKit] AUSSSSSS
+[07:21:48] [HomeKit] Callback
+[07:21:51] [HomeKit] GET Anfrage (CurrentPosition): Küche Rolllade | Current State: 0
+[07:21:51] [HomeKit] GET Anfrage (Target): Küche Rolllade | Current Target State: 0
+[07:21:51] [HomeKit] GET Anfrage für Treppe Licht Pflanze
+[07:21:51] [HomeKit] GET Anfrage für LED Kette Nils
+[07:21:51] [HomeKit] GET Anfrage (Target): Nils Rolllade | Current Target State: 0
+[07:21:51] [HomeKit] GET Anfrage (CurrentPosition): Nils Rolllade | Current State: 0
+[07:21:51] [HomeKit] GET Anfrage (Target): Gäste WC Rolllade | Current Target State: 0
+[07:21:51] [HomeKit] GET Anfrage (CurrentPosition): Gäste WC Rolllade | Current State: 0
+[07:21:51] [HomeKit] GET Anfrage für Keller Licht
+[07:21:51] [HomeKit] GET Anfrage (CurrentPosition): Wohnzimmer Rolllade Tür | Current State: 0
+[07:21:51] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Tür | Current Target State: 0
+[07:21:51] [HomeKit] GET Anfrage für Nils Zimmer Licht
+[07:21:51] [HomeKit] GET Anfrage (CurrentPosition): Schlafzimmer Rolllade | Current State: 0
+[07:21:51] [HomeKit] GET Anfrage (Target): Schlafzimmer Rolllade | Current Target State: 0
+[07:21:51] [HomeKit] GET Anfrage für Feuchtigkeit Garten
+[07:21:51] [HomeKit] GET Anfrage für Kompressor
+[07:21:51] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Fenster | Current Target State: 0
+[07:21:51] [HomeKit] GET Anfrage (CurrentPosition): Wohnzimmer Rolllade Fenster | Current State: 0
+[07:21:51] [HomeKit] GET Anfrage für Eingangs Flur Licht
+[07:21:51] [HomeKit] GET Anfrage für Fernseher
+[07:21:51] [HomeKit] GET Anfrage für Nils Dachboden Licht
+[07:21:51] [HomeKit] GET Anfrage (CurrentPosition): Arbeitszimmer Rolllade Garten | Current State: 0
+[07:21:51] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Garten | Current Target State: 0
+[07:21:51] [HomeKit] GET Anfrage für Subwoofer Nils Zimmer
+[07:21:51] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Kindergarten | Current Target State: 0
+[07:21:51] [HomeKit] GET Anfrage (CurrentPosition): Arbeitszimmer Rolllade Kindergarten | Current State: 0
+[07:21:51] [HomeKit] GET Anfrage für Feuchtigkeit Wohnzimmer
+[07:21:51] [HomeKit] GET Anfrage für Brunnen
+[07:21:51] [HomeKit] GET Anfrage für Temperatur Garten
+[07:21:51] [HomeKit] GET Anfrage für Arbeitszimmer Licht
+[07:21:52] [HomeKit] SET Befehlt: 0
+[07:21:52] [HomeKit] AUSSSSSS
+[07:21:52] [HomeKit] Callback
+[07:24:11] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[07:29:24] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[07:30:54] [HomeKit] Update Temperatur Garten
+[07:30:54] [HomeKit] Update Feuchtigkeit Garten
+[07:34:37] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[07:36:07] [HomeKit] Update Temperatur Garten
+[07:36:07] [HomeKit] Update Feuchtigkeit Garten
+[07:41:20] [HomeKit] Update Feuchtigkeit Garten
+[07:45:03] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[07:46:33] [HomeKit] Update Feuchtigkeit Garten
+[07:55:29] [HomeKit] Update Temperatur Wohnzimmer
+[07:56:59] [HomeKit] Update Feuchtigkeit Garten
+[07:57:33] [HomeKit] GET Anfrage (Target): Küche Rolllade | Current Target State: 0
+[07:57:33] [HomeKit] GET Anfrage (CurrentPosition): Küche Rolllade | Current State: 0
+[07:57:33] [HomeKit] GET Anfrage für LED Kette Nils
+[07:57:33] [HomeKit] GET Anfrage für Treppe Licht Pflanze
+[07:57:33] [HomeKit] GET Anfrage (CurrentPosition): Nils Rolllade | Current State: 0
+[07:57:33] [HomeKit] GET Anfrage (Target): Nils Rolllade | Current Target State: 0
+[07:57:33] [HomeKit] GET Anfrage (CurrentPosition): Gäste WC Rolllade | Current State: 0
+[07:57:33] [HomeKit] GET Anfrage (Target): Gäste WC Rolllade | Current Target State: 0
+[07:57:33] [HomeKit] GET Anfrage für Keller Licht
+[07:57:33] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Tür | Current Target State: 0
+[07:57:33] [HomeKit] GET Anfrage (CurrentPosition): Wohnzimmer Rolllade Tür | Current State: 0
+[07:57:33] [HomeKit] GET Anfrage für Feuchtigkeit Garten
+[07:57:33] [HomeKit] GET Anfrage für Nils Zimmer Licht
+[07:57:33] [HomeKit] GET Anfrage (Target): Schlafzimmer Rolllade | Current Target State: 0
+[07:57:33] [HomeKit] GET Anfrage (CurrentPosition): Schlafzimmer Rolllade | Current State: 0
+[07:57:33] [HomeKit] GET Anfrage für Kompressor
+[07:57:33] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Fenster | Current Target State: 0
+[07:57:33] [HomeKit] GET Anfrage (CurrentPosition): Wohnzimmer Rolllade Fenster | Current State: 0
+[07:57:33] [HomeKit] GET Anfrage für Eingangs Flur Licht
+[07:57:33] [HomeKit] GET Anfrage für Fernseher
+[07:57:33] [HomeKit] GET Anfrage für Nils Dachboden Licht
+[07:57:33] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Garten | Current Target State: 0
+[07:57:33] [HomeKit] GET Anfrage (CurrentPosition): Arbeitszimmer Rolllade Garten | Current State: 0
+[07:57:33] [HomeKit] GET Anfrage für Subwoofer Nils Zimmer
+[07:57:33] [HomeKit] GET Anfrage für Feuchtigkeit Wohnzimmer
+[07:57:33] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Kindergarten | Current Target State: 0
+[07:57:33] [HomeKit] GET Anfrage (CurrentPosition): Arbeitszimmer Rolllade Kindergarten | Current State: 0
+[07:57:33] [HomeKit] GET Anfrage für Brunnen
+[07:57:33] [HomeKit] GET Anfrage für Temperatur Garten
+[07:57:33] [HomeKit] GET Anfrage für Arbeitszimmer Licht
+[07:57:51] [HomeKit] SET Anfrage für Küche Rolllade. Wert ==> 100
+[07:57:51] [HomeKit] Update Küche Rolllade
+[07:57:52] [HomeKit] SET Anfrage für Schlafzimmer Rolllade. Wert ==> 100
+[07:57:52] [HomeKit] Update Schlafzimmer Rolllade
+[07:57:55] [HomeKit] SET Anfrage für Schlafzimmer Rolllade. Wert ==> 0
+[07:57:55] [HomeKit] Update Schlafzimmer Rolllade
+[07:57:57] [HomeKit] SET Anfrage für Gäste WC Rolllade. Wert ==> 100
+[07:57:57] [HomeKit] Update Gäste WC Rolllade
+[07:57:59] [HomeKit] GET Anfrage für Temperatur Wohnzimmer
+[07:58:06] [HomeKit] SET Anfrage für Wohnzimmer Rolllade Tür. Wert ==> 100
+[07:58:06] [HomeKit] Update Wohnzimmer Rolllade Tür
+[07:58:07] [HomeKit] SET Anfrage für Wohnzimmer Rolllade Fenster. Wert ==> 100
+[07:58:07] [HomeKit] Update Wohnzimmer Rolllade Fenster
+[07:58:11] [HomeKit] GET Anfrage für Fake Temperature
+[08:00:42] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[08:05:55] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[08:11:08] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[08:12:38] [HomeKit] Update Feuchtigkeit Garten
+[08:17:51] [HomeKit] Update Temperatur Garten
+[08:17:51] [HomeKit] Update Feuchtigkeit Garten
+[08:21:34] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[08:26:47] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[08:30:00] [HomeKit] Update Nils Rolllade
+[08:37:13] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[08:38:43] [HomeKit] Update Feuchtigkeit Garten
+[08:43:56] [HomeKit] Update Feuchtigkeit Garten
+[08:52:52] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[08:54:22] [HomeKit] Update Temperatur Garten
+[08:54:22] [HomeKit] Update Feuchtigkeit Garten
+[09:00:08] [HomeKit] Update Arbeitszimmer Rolllade Garten
+[09:00:09] [HomeKit] Update Arbeitszimmer Rolllade Kindergarten
+[09:00:09] [HomeKit] Update Schlafzimmer Rolllade
+[09:03:18] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[09:04:48] [HomeKit] Update Feuchtigkeit Garten
+[09:08:31] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[09:13:44] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[09:15:14] [HomeKit] Update Temperatur Garten
+[09:36:06] [HomeKit] Update Temperatur Garten
+[09:39:50] [HomeKit] Update Temperatur Wohnzimmer
+[09:39:50] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[09:45:03] [HomeKit] Update Temperatur Wohnzimmer
+[09:45:03] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[09:47:56] [HomeKit] GET Anfrage für Feuchtigkeit Garten
+[09:47:56] [HomeKit] GET Anfrage für Subwoofer Nils Zimmer
+[09:47:56] [HomeKit] GET Anfrage (Target): Nils Rolllade | Current Target State: 100
+[09:47:56] [HomeKit] GET Anfrage (CurrentPosition): Nils Rolllade | Current State: 100
+[09:47:56] [HomeKit] GET Anfrage für Kompressor
+[09:47:56] [HomeKit] GET Anfrage für Temperatur Garten
+[09:47:56] [HomeKit] GET Anfrage für LED Kette Nils
+[09:47:56] [HomeKit] GET Anfrage für Nils Dachboden Licht
+[09:47:56] [HomeKit] GET Anfrage für Nils Zimmer Licht
+[09:47:56] [HomeKit] GET Anfrage für Treppe Licht Pflanze
+[09:50:16] [HomeKit] Update Temperatur Wohnzimmer
+[09:50:16] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[09:55:04] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Fenster | Current Target State: 100
+[09:55:04] [HomeKit] GET Anfrage für Fake Temperature
+[09:55:04] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Kindergarten | Current Target State: 100
+[09:55:04] [HomeKit] GET Anfrage für LED Kette Nils
+[09:55:04] [HomeKit] GET Anfrage (Target): Nils Rolllade | Current Target State: 100
+[09:55:04] [HomeKit] GET Anfrage für Treppe Licht Pflanze
+[09:55:04] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Tür | Current Target State: 100
+[09:55:04] [HomeKit] GET Anfrage (Target): Küche Rolllade | Current Target State: 100
+[09:55:04] [HomeKit] GET Anfrage für Eingangs Flur Licht
+[09:55:04] [HomeKit] GET Anfrage für Nils Dachboden Licht
+[09:55:04] [HomeKit] GET Anfrage für Arbeitszimmer Licht
+[09:55:04] [HomeKit] GET Anfrage (Target): Gäste WC Rolllade | Current Target State: 100
+[09:55:04] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Garten | Current Target State: 100
+[09:55:04] [HomeKit] GET Anfrage für Nils Zimmer Licht
+[09:55:04] [HomeKit] GET Anfrage für Keller Licht
+[09:55:04] [HomeKit] GET Anfrage (Target): Schlafzimmer Rolllade | Current Target State: 100
+[09:55:09] [HomeKit] GET Anfrage (CurrentPosition): Wohnzimmer Rolllade Tür | Current State: 100
+[09:55:09] [HomeKit] GET Anfrage (CurrentPosition): Küche Rolllade | Current State: 100
+[09:55:09] [HomeKit] GET Anfrage für Brunnen
+[09:55:09] [HomeKit] GET Anfrage für Feuchtigkeit Wohnzimmer
+[09:55:09] [HomeKit] GET Anfrage für Fernseher
+[09:55:09] [HomeKit] GET Anfrage (CurrentPosition): Wohnzimmer Rolllade Fenster | Current State: 100
+[09:55:09] [HomeKit] GET Anfrage (CurrentPosition): Arbeitszimmer Rolllade Kindergarten | Current State: 100
+[09:55:09] [HomeKit] GET Anfrage für Temperatur Garten
+[09:55:09] [HomeKit] GET Anfrage (CurrentPosition): Nils Rolllade | Current State: 100
+[09:55:09] [HomeKit] GET Anfrage für Feuchtigkeit Garten
+[09:55:09] [HomeKit] GET Anfrage (CurrentPosition): Arbeitszimmer Rolllade Garten | Current State: 100
+[09:55:09] [HomeKit] GET Anfrage (CurrentPosition): Gäste WC Rolllade | Current State: 100
+[09:55:09] [HomeKit] GET Anfrage für Subwoofer Nils Zimmer
+[09:55:09] [HomeKit] GET Anfrage für Kompressor
+[09:55:09] [HomeKit] GET Anfrage (CurrentPosition): Schlafzimmer Rolllade | Current State: 100
+[09:55:16] [HomeKit] GET Anfrage für Temperatur Wohnzimmer
+[09:55:22] [HomeKit] SET Befehlt: 0
+[09:55:22] [HomeKit] AUSSSSSS
+[09:55:22] [HomeKit] Callback
+[09:55:29] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[09:56:58] [HomeKit] Update Temperatur Garten
+[09:59:01] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Fenster | Current Target State: 100
+[09:59:01] [HomeKit] GET Anfrage für Subwoofer Nils Zimmer
+[09:59:01] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Kindergarten | Current Target State: 100
+[09:59:01] [HomeKit] GET Anfrage für LED Kette Nils
+[09:59:01] [HomeKit] GET Anfrage (Target): Nils Rolllade | Current Target State: 100
+[09:59:01] [HomeKit] GET Anfrage (CurrentPosition): Nils Rolllade | Current State: 100
+[09:59:01] [HomeKit] GET Anfrage für Treppe Licht Pflanze
+[09:59:01] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Tür | Current Target State: 100
+[09:59:01] [HomeKit] GET Anfrage (Target): Küche Rolllade | Current Target State: 100
+[09:59:01] [HomeKit] GET Anfrage für Eingangs Flur Licht
+[09:59:01] [HomeKit] GET Anfrage für Nils Dachboden Licht
+[09:59:01] [HomeKit] GET Anfrage für Arbeitszimmer Licht
+[09:59:01] [HomeKit] GET Anfrage (Target): Gäste WC Rolllade | Current Target State: 100
+[09:59:01] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Garten | Current Target State: 100
+[09:59:01] [HomeKit] GET Anfrage für Nils Zimmer Licht
+[09:59:01] [HomeKit] GET Anfrage für Keller Licht
+[09:59:01] [HomeKit] GET Anfrage (Target): Schlafzimmer Rolllade | Current Target State: 100
+[09:59:05] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Fenster | Current Target State: 100
+[09:59:05] [HomeKit] GET Anfrage für Subwoofer Nils Zimmer
+[09:59:05] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Kindergarten | Current Target State: 100
+[09:59:05] [HomeKit] GET Anfrage für LED Kette Nils
+[09:59:05] [HomeKit] GET Anfrage (Target): Nils Rolllade | Current Target State: 100
+[09:59:05] [HomeKit] GET Anfrage (CurrentPosition): Nils Rolllade | Current State: 100
+[09:59:05] [HomeKit] GET Anfrage für Treppe Licht Pflanze
+[09:59:05] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Tür | Current Target State: 100
+[09:59:05] [HomeKit] GET Anfrage (Target): Küche Rolllade | Current Target State: 100
+[09:59:05] [HomeKit] GET Anfrage für Eingangs Flur Licht
+[09:59:05] [HomeKit] GET Anfrage für Nils Dachboden Licht
+[09:59:05] [HomeKit] GET Anfrage für Arbeitszimmer Licht
+[09:59:05] [HomeKit] GET Anfrage (Target): Gäste WC Rolllade | Current Target State: 100
+[09:59:05] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Garten | Current Target State: 100
+[09:59:05] [HomeKit] GET Anfrage für Nils Zimmer Licht
+[09:59:05] [HomeKit] GET Anfrage für Keller Licht
+[09:59:05] [HomeKit] GET Anfrage (Target): Schlafzimmer Rolllade | Current Target State: 100
+[09:59:19] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Fenster | Current Target State: 100
+[09:59:19] [HomeKit] GET Anfrage für Subwoofer Nils Zimmer
+[09:59:19] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Kindergarten | Current Target State: 100
+[09:59:19] [HomeKit] GET Anfrage für LED Kette Nils
+[09:59:19] [HomeKit] GET Anfrage (Target): Nils Rolllade | Current Target State: 100
+[09:59:19] [HomeKit] GET Anfrage (CurrentPosition): Nils Rolllade | Current State: 100
+[09:59:19] [HomeKit] GET Anfrage für Treppe Licht Pflanze
+[09:59:19] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Tür | Current Target State: 100
+[09:59:19] [HomeKit] GET Anfrage (Target): Küche Rolllade | Current Target State: 100
+[09:59:19] [HomeKit] GET Anfrage für Eingangs Flur Licht
+[09:59:19] [HomeKit] GET Anfrage für Nils Dachboden Licht
+[09:59:19] [HomeKit] GET Anfrage für Arbeitszimmer Licht
+[09:59:19] [HomeKit] GET Anfrage (Target): Gäste WC Rolllade | Current Target State: 100
+[09:59:19] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Garten | Current Target State: 100
+[09:59:19] [HomeKit] GET Anfrage für Nils Zimmer Licht
+[09:59:19] [HomeKit] GET Anfrage für Keller Licht
+[09:59:19] [HomeKit] GET Anfrage (Target): Schlafzimmer Rolllade | Current Target State: 100
+[09:59:23] [HomeKit] GET Anfrage (CurrentPosition): Schlafzimmer Rolllade | Current State: 100
+[09:59:23] [HomeKit] GET Anfrage (CurrentPosition): Küche Rolllade | Current State: 100
+[09:59:23] [HomeKit] GET Anfrage (CurrentPosition): Gäste WC Rolllade | Current State: 100
+[09:59:29] [HomeKit] SET Befehlt: 1
+[09:59:29] [HomeKit] ANNNNNNN
+[09:59:29] [HomeKit] Callback
+[09:59:37] [HomeKit] SET Befehlt: 0
+[09:59:37] [HomeKit] AUSSSSSS
+[09:59:37] [HomeKit] Callback
+[10:05:55] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[10:06:39] [HomeKit] GET Anfrage für Arbeitszimmer Licht
+[10:06:39] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Tür | Current Target State: 100
+[10:06:39] [HomeKit] GET Anfrage (Target): Küche Rolllade | Current Target State: 100
+[10:06:39] [HomeKit] GET Anfrage (CurrentPosition): Küche Rolllade | Current State: 100
+[10:06:39] [HomeKit] GET Anfrage (Target): Schlafzimmer Rolllade | Current Target State: 100
+[10:06:39] [HomeKit] GET Anfrage (CurrentPosition): Schlafzimmer Rolllade | Current State: 100
+[10:06:39] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Kindergarten | Current Target State: 100
+[10:06:39] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Fenster | Current Target State: 100
+[10:06:39] [HomeKit] GET Anfrage für Nils Zimmer Licht
+[10:06:39] [HomeKit] GET Anfrage für Keller Licht
+[10:06:39] [HomeKit] GET Anfrage (Target): Nils Rolllade | Current Target State: 100
+[10:06:39] [HomeKit] GET Anfrage für LED Kette Nils
+[10:06:39] [HomeKit] GET Anfrage für Nils Dachboden Licht
+[10:06:39] [HomeKit] GET Anfrage für Eingangs Flur Licht
+[10:06:39] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Garten | Current Target State: 100
+[10:06:39] [HomeKit] GET Anfrage (CurrentPosition): Gäste WC Rolllade | Current State: 100
+[10:06:39] [HomeKit] GET Anfrage (Target): Gäste WC Rolllade | Current Target State: 100
+[10:06:39] [HomeKit] GET Anfrage für Treppe Licht Pflanze
+[10:07:24] [HomeKit] Update Feuchtigkeit Garten
+[10:16:21] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[10:17:50] [HomeKit] Update Temperatur Garten
+[10:17:50] [HomeKit] Update Feuchtigkeit Garten
+[10:26:47] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[10:28:17] [HomeKit] Update Feuchtigkeit Garten
+[10:38:43] [HomeKit] Update Temperatur Garten
+[10:38:43] [HomeKit] Update Feuchtigkeit Garten
+[10:43:56] [HomeKit] Update Feuchtigkeit Garten
+[10:49:09] [HomeKit] Update Feuchtigkeit Garten
+[10:54:22] [HomeKit] Update Temperatur Garten
+[10:54:22] [HomeKit] Update Feuchtigkeit Garten
+[10:58:05] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[11:03:18] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[11:04:48] [HomeKit] Update Feuchtigkeit Garten
+[11:08:31] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[11:10:01] [HomeKit] Update Temperatur Garten
+[11:10:01] [HomeKit] Update Feuchtigkeit Garten
+[11:15:14] [HomeKit] Update Temperatur Garten
+[11:20:27] [HomeKit] Update Feuchtigkeit Garten
+[11:29:23] [HomeKit] Update Temperatur Wohnzimmer
+[11:29:23] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[11:30:53] [HomeKit] Update Feuchtigkeit Garten
+[11:36:06] [HomeKit] Update Temperatur Garten
+[11:36:06] [HomeKit] Update Feuchtigkeit Garten
+[11:46:32] [HomeKit] Update Feuchtigkeit Garten
+[11:50:15] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[11:51:45] [HomeKit] Update Feuchtigkeit Garten
+[12:02:11] [HomeKit] Update Feuchtigkeit Garten
+[12:07:24] [HomeKit] Update Feuchtigkeit Garten
+[12:12:37] [HomeKit] Update Feuchtigkeit Garten
+[12:17:50] [HomeKit] Update Feuchtigkeit Garten
+[12:28:16] [HomeKit] Update Temperatur Garten
+[12:28:16] [HomeKit] Update Feuchtigkeit Garten
+[12:33:29] [HomeKit] Update Feuchtigkeit Garten
+[12:42:25] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[12:43:55] [HomeKit] Update Feuchtigkeit Garten
+[12:59:34] [HomeKit] Update Temperatur Garten
+[13:04:47] [HomeKit] Update Temperatur Garten
+[13:04:47] [HomeKit] Update Feuchtigkeit Garten
+[13:10:00] [HomeKit] Update Temperatur Garten
+[13:10:00] [HomeKit] Update Feuchtigkeit Garten
+[13:15:13] [HomeKit] Update Temperatur Garten
+[13:15:13] [HomeKit] Update Feuchtigkeit Garten
+[13:20:26] [HomeKit] Update Temperatur Garten
+[13:20:26] [HomeKit] Update Feuchtigkeit Garten
+[13:25:39] [HomeKit] Update Temperatur Garten
+[13:25:39] [HomeKit] Update Feuchtigkeit Garten
+[13:29:22] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[13:34:35] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[13:39:48] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[13:41:18] [HomeKit] Update Temperatur Garten
+[13:41:18] [HomeKit] Update Feuchtigkeit Garten
+[13:45:01] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[13:46:00] [HomeKit] GET Anfrage für Feuchtigkeit Garten
+[13:46:00] [HomeKit] GET Anfrage für Subwoofer Nils Zimmer
+[13:46:00] [HomeKit] GET Anfrage (Target): Nils Rolllade | Current Target State: 100
+[13:46:00] [HomeKit] GET Anfrage (CurrentPosition): Nils Rolllade | Current State: 100
+[13:46:00] [HomeKit] GET Anfrage für Kompressor
+[13:46:00] [HomeKit] GET Anfrage für Temperatur Garten
+[13:46:00] [HomeKit] GET Anfrage für LED Kette Nils
+[13:46:00] [HomeKit] GET Anfrage für Nils Dachboden Licht
+[13:46:00] [HomeKit] GET Anfrage für Nils Zimmer Licht
+[13:46:00] [HomeKit] GET Anfrage für Treppe Licht Pflanze
+[13:46:06] [HomeKit] GET Anfrage für Feuchtigkeit Garten
+[13:46:06] [HomeKit] GET Anfrage (CurrentPosition): Wohnzimmer Rolllade Fenster | Current State: 100
+[13:46:06] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Fenster | Current Target State: 100
+[13:46:06] [HomeKit] GET Anfrage für Subwoofer Nils Zimmer
+[13:46:06] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Kindergarten | Current Target State: 100
+[13:46:06] [HomeKit] GET Anfrage (CurrentPosition): Arbeitszimmer Rolllade Kindergarten | Current State: 100
+[13:46:06] [HomeKit] GET Anfrage für LED Kette Nils
+[13:46:06] [HomeKit] GET Anfrage (CurrentPosition): Nils Rolllade | Current State: 100
+[13:46:06] [HomeKit] GET Anfrage (Target): Nils Rolllade | Current Target State: 100
+[13:46:06] [HomeKit] GET Anfrage für Feuchtigkeit Wohnzimmer
+[13:46:06] [HomeKit] GET Anfrage für Treppe Licht Pflanze
+[13:46:06] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Tür | Current Target State: 100
+[13:46:06] [HomeKit] GET Anfrage (CurrentPosition): Wohnzimmer Rolllade Tür | Current State: 100
+[13:46:06] [HomeKit] GET Anfrage (CurrentPosition): Küche Rolllade | Current State: 100
+[13:46:06] [HomeKit] GET Anfrage (Target): Küche Rolllade | Current Target State: 100
+[13:46:06] [HomeKit] GET Anfrage für Eingangs Flur Licht
+[13:46:06] [HomeKit] GET Anfrage für Nils Dachboden Licht
+[13:46:06] [HomeKit] GET Anfrage für Brunnen
+[13:46:06] [HomeKit] GET Anfrage für Arbeitszimmer Licht
+[13:46:06] [HomeKit] GET Anfrage (Target): Gäste WC Rolllade | Current Target State: 100
+[13:46:06] [HomeKit] GET Anfrage (CurrentPosition): Gäste WC Rolllade | Current State: 100
+[13:46:06] [HomeKit] GET Anfrage für Fernseher
+[13:46:06] [HomeKit] GET Anfrage für Kompressor
+[13:46:06] [HomeKit] GET Anfrage für Nils Zimmer Licht
+[13:46:06] [HomeKit] GET Anfrage für Keller Licht
+[13:46:06] [HomeKit] GET Anfrage (CurrentPosition): Arbeitszimmer Rolllade Garten | Current State: 100
+[13:46:06] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Garten | Current Target State: 100
+[13:46:06] [HomeKit] GET Anfrage für Temperatur Garten
+[13:46:06] [HomeKit] GET Anfrage (CurrentPosition): Schlafzimmer Rolllade | Current State: 100
+[13:46:06] [HomeKit] GET Anfrage (Target): Schlafzimmer Rolllade | Current Target State: 100
+[13:46:12] [HomeKit] GET Anfrage für Feuchtigkeit Garten
+[13:46:12] [HomeKit] GET Anfrage (CurrentPosition): Wohnzimmer Rolllade Fenster | Current State: 100
+[13:46:12] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Fenster | Current Target State: 100
+[13:46:12] [HomeKit] GET Anfrage für Subwoofer Nils Zimmer
+[13:46:12] [HomeKit] GET Anfrage (CurrentPosition): Arbeitszimmer Rolllade Kindergarten | Current State: 100
+[13:46:12] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Kindergarten | Current Target State: 100
+[13:46:12] [HomeKit] GET Anfrage für LED Kette Nils
+[13:46:12] [HomeKit] GET Anfrage (Target): Nils Rolllade | Current Target State: 100
+[13:46:12] [HomeKit] GET Anfrage (CurrentPosition): Nils Rolllade | Current State: 100
+[13:46:12] [HomeKit] GET Anfrage für Feuchtigkeit Wohnzimmer
+[13:46:12] [HomeKit] GET Anfrage für Treppe Licht Pflanze
+[13:46:12] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Tür | Current Target State: 100
+[13:46:12] [HomeKit] GET Anfrage (CurrentPosition): Wohnzimmer Rolllade Tür | Current State: 100
+[13:46:12] [HomeKit] GET Anfrage (CurrentPosition): Küche Rolllade | Current State: 100
+[13:46:12] [HomeKit] GET Anfrage (Target): Küche Rolllade | Current Target State: 100
+[13:46:12] [HomeKit] GET Anfrage für Eingangs Flur Licht
+[13:46:12] [HomeKit] GET Anfrage für Nils Dachboden Licht
+[13:46:12] [HomeKit] GET Anfrage für Brunnen
+[13:46:12] [HomeKit] GET Anfrage für Arbeitszimmer Licht
+[13:46:12] [HomeKit] GET Anfrage (CurrentPosition): Gäste WC Rolllade | Current State: 100
+[13:46:12] [HomeKit] GET Anfrage (Target): Gäste WC Rolllade | Current Target State: 100
+[13:46:12] [HomeKit] GET Anfrage für Fernseher
+[13:46:12] [HomeKit] GET Anfrage für Kompressor
+[13:46:12] [HomeKit] GET Anfrage für Nils Zimmer Licht
+[13:46:12] [HomeKit] GET Anfrage für Keller Licht
+[13:46:12] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Garten | Current Target State: 100
+[13:46:12] [HomeKit] GET Anfrage (CurrentPosition): Arbeitszimmer Rolllade Garten | Current State: 100
+[13:46:12] [HomeKit] GET Anfrage für Temperatur Garten
+[13:46:12] [HomeKit] GET Anfrage (CurrentPosition): Schlafzimmer Rolllade | Current State: 100
+[13:46:12] [HomeKit] GET Anfrage (Target): Schlafzimmer Rolllade | Current Target State: 100
+[13:46:17] [HomeKit] GET Anfrage (Target): Küche Rolllade | Current Target State: 100
+[13:46:17] [HomeKit] GET Anfrage (CurrentPosition): Küche Rolllade | Current State: 100
+[13:46:17] [HomeKit] GET Anfrage für Treppe Licht Pflanze
+[13:46:17] [HomeKit] GET Anfrage für LED Kette Nils
+[13:46:17] [HomeKit] GET Anfrage (CurrentPosition): Nils Rolllade | Current State: 100
+[13:46:17] [HomeKit] GET Anfrage (Target): Nils Rolllade | Current Target State: 100
+[13:46:17] [HomeKit] GET Anfrage (CurrentPosition): Gäste WC Rolllade | Current State: 100
+[13:46:17] [HomeKit] GET Anfrage (Target): Gäste WC Rolllade | Current Target State: 100
+[13:46:17] [HomeKit] GET Anfrage für Keller Licht
+[13:46:17] [HomeKit] GET Anfrage (CurrentPosition): Wohnzimmer Rolllade Tür | Current State: 100
+[13:46:17] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Tür | Current Target State: 100
+[13:46:17] [HomeKit] GET Anfrage für Nils Zimmer Licht
+[13:46:17] [HomeKit] GET Anfrage (CurrentPosition): Schlafzimmer Rolllade | Current State: 100
+[13:46:17] [HomeKit] GET Anfrage (Target): Schlafzimmer Rolllade | Current Target State: 100
+[13:46:17] [HomeKit] GET Anfrage für Kompressor
+[13:46:17] [HomeKit] GET Anfrage für Feuchtigkeit Garten
+[13:46:17] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Fenster | Current Target State: 100
+[13:46:17] [HomeKit] GET Anfrage (CurrentPosition): Wohnzimmer Rolllade Fenster | Current State: 100
+[13:46:17] [HomeKit] GET Anfrage für Eingangs Flur Licht
+[13:46:17] [HomeKit] GET Anfrage für Fernseher
+[13:46:17] [HomeKit] GET Anfrage für Nils Dachboden Licht
+[13:46:17] [HomeKit] GET Anfrage (CurrentPosition): Arbeitszimmer Rolllade Garten | Current State: 100
+[13:46:17] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Garten | Current Target State: 100
+[13:46:17] [HomeKit] GET Anfrage für Subwoofer Nils Zimmer
+[13:46:17] [HomeKit] GET Anfrage für Feuchtigkeit Wohnzimmer
+[13:46:17] [HomeKit] GET Anfrage (CurrentPosition): Arbeitszimmer Rolllade Kindergarten | Current State: 100
+[13:46:17] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Kindergarten | Current Target State: 100
+[13:46:17] [HomeKit] GET Anfrage für Brunnen
+[13:46:17] [HomeKit] GET Anfrage für Arbeitszimmer Licht
+[13:46:17] [HomeKit] GET Anfrage für Temperatur Garten
+[13:46:18] [HomeKit] GET Anfrage für Feuchtigkeit Garten
+[13:46:18] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Fenster | Current Target State: 100
+[13:46:18] [HomeKit] GET Anfrage (CurrentPosition): Wohnzimmer Rolllade Fenster | Current State: 100
+[13:46:18] [HomeKit] GET Anfrage für Subwoofer Nils Zimmer
+[13:46:18] [HomeKit] GET Anfrage (CurrentPosition): Arbeitszimmer Rolllade Kindergarten | Current State: 100
+[13:46:18] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Kindergarten | Current Target State: 100
+[13:46:18] [HomeKit] GET Anfrage für LED Kette Nils
+[13:46:18] [HomeKit] GET Anfrage (Target): Nils Rolllade | Current Target State: 100
+[13:46:18] [HomeKit] GET Anfrage (CurrentPosition): Nils Rolllade | Current State: 100
+[13:46:18] [HomeKit] GET Anfrage für Feuchtigkeit Wohnzimmer
+[13:46:18] [HomeKit] GET Anfrage für Treppe Licht Pflanze
+[13:46:18] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Tür | Current Target State: 100
+[13:46:18] [HomeKit] GET Anfrage (CurrentPosition): Wohnzimmer Rolllade Tür | Current State: 100
+[13:46:18] [HomeKit] GET Anfrage (Target): Küche Rolllade | Current Target State: 100
+[13:46:18] [HomeKit] GET Anfrage (CurrentPosition): Küche Rolllade | Current State: 100
+[13:46:18] [HomeKit] GET Anfrage für Eingangs Flur Licht
+[13:46:18] [HomeKit] GET Anfrage für Nils Dachboden Licht
+[13:46:18] [HomeKit] GET Anfrage für Brunnen
+[13:46:18] [HomeKit] GET Anfrage für Arbeitszimmer Licht
+[13:46:18] [HomeKit] GET Anfrage (CurrentPosition): Gäste WC Rolllade | Current State: 100
+[13:46:18] [HomeKit] GET Anfrage (Target): Gäste WC Rolllade | Current Target State: 100
+[13:46:18] [HomeKit] GET Anfrage für Fernseher
+[13:46:18] [HomeKit] GET Anfrage für Kompressor
+[13:46:18] [HomeKit] GET Anfrage für Nils Zimmer Licht
+[13:46:18] [HomeKit] GET Anfrage für Keller Licht
+[13:46:18] [HomeKit] GET Anfrage (CurrentPosition): Arbeitszimmer Rolllade Garten | Current State: 100
+[13:46:18] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Garten | Current Target State: 100
+[13:46:18] [HomeKit] GET Anfrage für Temperatur Garten
+[13:46:18] [HomeKit] GET Anfrage (Target): Schlafzimmer Rolllade | Current Target State: 100
+[13:46:18] [HomeKit] GET Anfrage (CurrentPosition): Schlafzimmer Rolllade | Current State: 100
+[13:46:22] [HomeKit] SET Befehl1
+[13:46:22] [HomeKit] ANNNNNNN
+[13:50:14] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[13:55:27] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[13:56:56] [HomeKit] GET Anfrage (Target): Küche Rolllade | Current Target State: 100
+[13:56:56] [HomeKit] GET Anfrage (CurrentPosition): Küche Rolllade | Current State: 100
+[13:56:56] [HomeKit] GET Anfrage für Treppe Licht Pflanze
+[13:56:56] [HomeKit] GET Anfrage für LED Kette Nils
+[13:56:56] [HomeKit] GET Anfrage (CurrentPosition): Nils Rolllade | Current State: 100
+[13:56:56] [HomeKit] GET Anfrage (Target): Nils Rolllade | Current Target State: 100
+[13:56:56] [HomeKit] GET Anfrage (CurrentPosition): Gäste WC Rolllade | Current State: 100
+[13:56:56] [HomeKit] GET Anfrage (Target): Gäste WC Rolllade | Current Target State: 100
+[13:56:56] [HomeKit] GET Anfrage für Keller Licht
+[13:56:56] [HomeKit] GET Anfrage (CurrentPosition): Wohnzimmer Rolllade Tür | Current State: 100
+[13:56:56] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Tür | Current Target State: 100
+[13:56:56] [HomeKit] GET Anfrage für Nils Zimmer Licht
+[13:56:56] [HomeKit] GET Anfrage (CurrentPosition): Schlafzimmer Rolllade | Current State: 100
+[13:56:56] [HomeKit] GET Anfrage (Target): Schlafzimmer Rolllade | Current Target State: 100
+[13:56:56] [HomeKit] GET Anfrage für Kompressor
+[13:56:56] [HomeKit] GET Anfrage für Feuchtigkeit Garten
+[13:56:56] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Fenster | Current Target State: 100
+[13:56:56] [HomeKit] GET Anfrage (CurrentPosition): Wohnzimmer Rolllade Fenster | Current State: 100
+[13:56:56] [HomeKit] GET Anfrage für Eingangs Flur Licht
+[13:56:56] [HomeKit] GET Anfrage für Fernseher
+[13:56:56] [HomeKit] GET Anfrage für Nils Dachboden Licht
+[13:56:56] [HomeKit] GET Anfrage (CurrentPosition): Arbeitszimmer Rolllade Garten | Current State: 100
+[13:56:56] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Garten | Current Target State: 100
+[13:56:56] [HomeKit] GET Anfrage für Subwoofer Nils Zimmer
+[13:56:56] [HomeKit] GET Anfrage für Feuchtigkeit Wohnzimmer
+[13:56:56] [HomeKit] GET Anfrage (CurrentPosition): Arbeitszimmer Rolllade Kindergarten | Current State: 100
+[13:56:56] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Kindergarten | Current Target State: 100
+[13:56:56] [HomeKit] GET Anfrage für Brunnen
+[13:56:56] [HomeKit] GET Anfrage für Arbeitszimmer Licht
+[13:56:56] [HomeKit] GET Anfrage für Temperatur Garten
+[13:56:57] [HomeKit] Update Temperatur Garten
+[13:56:57] [HomeKit] Update Feuchtigkeit Garten
+[13:57:00] [HomeKit] GET Anfrage für LED Kette Nils
+[13:57:00] [HomeKit] GET Anfrage für Nils Dachboden Licht
+[13:57:00] [HomeKit] GET Anfrage für Kompressor
+[13:57:00] [HomeKit] GET Anfrage (Target): Nils Rolllade | Current Target State: 100
+[13:57:00] [HomeKit] GET Anfrage (CurrentPosition): Nils Rolllade | Current State: 100
+[13:57:00] [HomeKit] GET Anfrage für Temperatur Garten
+[13:57:00] [HomeKit] GET Anfrage für Feuchtigkeit Garten
+[13:57:00] [HomeKit] GET Anfrage für Nils Zimmer Licht
+[13:57:00] [HomeKit] GET Anfrage für Treppe Licht Pflanze
+[13:57:00] [HomeKit] GET Anfrage für Subwoofer Nils Zimmer
+[14:00:40] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[14:02:10] [HomeKit] Update Temperatur Garten
+[14:02:10] [HomeKit] Update Feuchtigkeit Garten
+[14:07:23] [HomeKit] Update Feuchtigkeit Garten
+[14:11:06] [HomeKit] Update Temperatur Wohnzimmer
+[14:12:36] [HomeKit] Update Feuchtigkeit Garten
+[14:16:19] [HomeKit] Update Temperatur Wohnzimmer
+[14:17:49] [HomeKit] Update Temperatur Garten
+[14:17:49] [HomeKit] Update Feuchtigkeit Garten
+[14:23:02] [HomeKit] Update Feuchtigkeit Garten
+[14:26:45] [HomeKit] Update Temperatur Wohnzimmer
+[14:26:45] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[14:28:16] [HomeKit] Update Feuchtigkeit Garten
+[14:33:29] [HomeKit] Update Temperatur Garten
+[14:33:29] [HomeKit] Update Feuchtigkeit Garten
+[14:38:42] [HomeKit] Update Feuchtigkeit Garten
+[14:41:55] [HomeKit] GET Anfrage für Feuchtigkeit Garten
+[14:41:55] [HomeKit] GET Anfrage für Subwoofer Nils Zimmer
+[14:41:55] [HomeKit] GET Anfrage (Target): Nils Rolllade | Current Target State: 100
+[14:41:55] [HomeKit] GET Anfrage (CurrentPosition): Nils Rolllade | Current State: 100
+[14:41:55] [HomeKit] GET Anfrage für Kompressor
+[14:41:55] [HomeKit] GET Anfrage für Temperatur Garten
+[14:41:55] [HomeKit] GET Anfrage für LED Kette Nils
+[14:41:55] [HomeKit] GET Anfrage für Nils Dachboden Licht
+[14:41:55] [HomeKit] GET Anfrage für Nils Zimmer Licht
+[14:41:55] [HomeKit] GET Anfrage für Treppe Licht Pflanze
+[14:42:02] [HomeKit] GET Anfrage für Feuchtigkeit Garten
+[14:42:02] [HomeKit] GET Anfrage für Subwoofer Nils Zimmer
+[14:42:02] [HomeKit] GET Anfrage (Target): Nils Rolllade | Current Target State: 100
+[14:42:02] [HomeKit] GET Anfrage (CurrentPosition): Nils Rolllade | Current State: 100
+[14:42:02] [HomeKit] GET Anfrage für Kompressor
+[14:42:02] [HomeKit] GET Anfrage für Temperatur Garten
+[14:42:02] [HomeKit] GET Anfrage für LED Kette Nils
+[14:42:02] [HomeKit] GET Anfrage für Nils Dachboden Licht
+[14:42:02] [HomeKit] GET Anfrage für Nils Zimmer Licht
+[14:42:02] [HomeKit] GET Anfrage für Treppe Licht Pflanze
+[14:42:24] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[14:43:55] [HomeKit] Update Feuchtigkeit Garten
+[14:52:50] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[14:54:21] [HomeKit] Update Feuchtigkeit Garten
+[15:13:43] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[15:15:13] [HomeKit] Update Feuchtigkeit Garten
+[15:20:26] [HomeKit] Update Temperatur Garten
+[15:20:26] [HomeKit] Update Feuchtigkeit Garten
+[15:24:09] [HomeKit] Update Temperatur Wohnzimmer
+[15:24:09] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[15:29:22] [HomeKit] Update Temperatur Wohnzimmer
+[15:29:22] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[15:30:52] [HomeKit] Update Temperatur Garten
+[15:34:35] [HomeKit] Update Temperatur Wohnzimmer
+[15:36:05] [HomeKit] Update Feuchtigkeit Garten
+[15:39:48] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[15:41:18] [HomeKit] Update Temperatur Garten
+[15:45:01] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[15:55:27] [HomeKit] Update Temperatur Wohnzimmer
+[15:55:27] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[15:56:57] [HomeKit] Update Temperatur Garten
+[15:56:57] [HomeKit] Update Feuchtigkeit Garten
+[15:57:56] [HomeKit] GET Anfrage für LED Kette Nils
+[15:57:56] [HomeKit] GET Anfrage für Nils Dachboden Licht
+[15:57:56] [HomeKit] GET Anfrage für Kompressor
+[15:57:56] [HomeKit] GET Anfrage (Target): Nils Rolllade | Current Target State: 100
+[15:57:56] [HomeKit] GET Anfrage (CurrentPosition): Nils Rolllade | Current State: 100
+[15:57:56] [HomeKit] GET Anfrage für Temperatur Garten
+[15:57:56] [HomeKit] GET Anfrage für Feuchtigkeit Garten
+[15:57:56] [HomeKit] GET Anfrage für Nils Zimmer Licht
+[15:57:56] [HomeKit] GET Anfrage für Treppe Licht Pflanze
+[15:57:56] [HomeKit] GET Anfrage für Subwoofer Nils Zimmer
+[15:57:59] [HomeKit] GET Anfrage für LED Kette Nils
+[15:57:59] [HomeKit] GET Anfrage für Nils Dachboden Licht
+[15:57:59] [HomeKit] GET Anfrage für Kompressor
+[15:57:59] [HomeKit] GET Anfrage (Target): Nils Rolllade | Current Target State: 100
+[15:57:59] [HomeKit] GET Anfrage (CurrentPosition): Nils Rolllade | Current State: 100
+[15:57:59] [HomeKit] GET Anfrage für Temperatur Garten
+[15:57:59] [HomeKit] GET Anfrage für Feuchtigkeit Garten
+[15:57:59] [HomeKit] GET Anfrage für Nils Zimmer Licht
+[15:57:59] [HomeKit] GET Anfrage für Treppe Licht Pflanze
+[15:57:59] [HomeKit] GET Anfrage für Subwoofer Nils Zimmer
+[16:00:40] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[16:02:10] [HomeKit] Update Feuchtigkeit Garten
+[16:05:53] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[16:07:23] [HomeKit] Update Temperatur Garten
+[16:07:23] [HomeKit] Update Feuchtigkeit Garten
+[16:12:36] [HomeKit] Update Feuchtigkeit Garten
+[16:17:49] [HomeKit] Update Feuchtigkeit Garten
+[16:28:15] [HomeKit] Update Temperatur Garten
+[16:28:15] [HomeKit] Update Feuchtigkeit Garten
+[16:38:41] [HomeKit] Update Feuchtigkeit Garten
+[16:43:54] [HomeKit] Update Feuchtigkeit Garten
+[16:49:07] [HomeKit] Update Feuchtigkeit Garten
+[16:52:23] [HomeKit] SET Befehlt: true
+[16:52:23] [HomeKit] ANNNNNNN
+[16:52:23] [HomeKit] Callback
+[16:54:20] [HomeKit] Update Temperatur Garten
+[16:54:20] [HomeKit] Update Feuchtigkeit Garten
+[16:58:03] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[16:59:33] [HomeKit] Update Feuchtigkeit Garten
+[17:04:46] [HomeKit] Update Feuchtigkeit Garten
+[17:08:29] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[17:13:42] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[17:15:12] [HomeKit] Update Feuchtigkeit Garten
+[17:18:55] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[17:24:08] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[17:29:21] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[17:30:51] [HomeKit] Update Feuchtigkeit Garten
+[17:34:34] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[17:39:47] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[17:55:26] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[18:00:39] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[18:02:09] [HomeKit] Update Feuchtigkeit Garten
+[18:05:52] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[18:07:22] [HomeKit] Update Feuchtigkeit Garten
+[18:12:35] [HomeKit] Update Temperatur Garten
+[18:12:35] [HomeKit] Update Feuchtigkeit Garten
+[18:16:18] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[18:21:31] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[18:26:44] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[18:28:15] [HomeKit] Update Temperatur Garten
+[18:28:15] [HomeKit] Update Feuchtigkeit Garten
+[18:33:28] [HomeKit] Update Temperatur Garten
+[18:34:38] [HomeKit] GET Anfrage für Feuchtigkeit Garten
+[18:34:38] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Fenster | Current Target State: 100
+[18:34:38] [HomeKit] GET Anfrage (CurrentPosition): Wohnzimmer Rolllade Fenster | Current State: 100
+[18:34:38] [HomeKit] GET Anfrage für Subwoofer Nils Zimmer
+[18:34:38] [HomeKit] GET Anfrage (CurrentPosition): Arbeitszimmer Rolllade Kindergarten | Current State: 100
+[18:34:38] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Kindergarten | Current Target State: 100
+[18:34:38] [HomeKit] GET Anfrage für LED Kette Nils
+[18:34:38] [HomeKit] GET Anfrage (Target): Nils Rolllade | Current Target State: 100
+[18:34:38] [HomeKit] GET Anfrage (CurrentPosition): Nils Rolllade | Current State: 100
+[18:34:38] [HomeKit] GET Anfrage für Feuchtigkeit Wohnzimmer
+[18:34:38] [HomeKit] GET Anfrage für Treppe Licht Pflanze
+[18:34:38] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Tür | Current Target State: 100
+[18:34:38] [HomeKit] GET Anfrage (CurrentPosition): Wohnzimmer Rolllade Tür | Current State: 100
+[18:34:38] [HomeKit] GET Anfrage (CurrentPosition): Küche Rolllade | Current State: 100
+[18:34:38] [HomeKit] GET Anfrage (Target): Küche Rolllade | Current Target State: 100
+[18:34:38] [HomeKit] GET Anfrage für Eingangs Flur Licht
+[18:34:38] [HomeKit] GET Anfrage für Nils Dachboden Licht
+[18:34:38] [HomeKit] GET Anfrage für Brunnen
+[18:34:38] [HomeKit] GET Anfrage für Arbeitszimmer Licht
+[18:34:38] [HomeKit] GET Anfrage (CurrentPosition): Gäste WC Rolllade | Current State: 100
+[18:34:38] [HomeKit] GET Anfrage (Target): Gäste WC Rolllade | Current Target State: 100
+[18:34:38] [HomeKit] GET Anfrage für Fernseher
+[18:34:38] [HomeKit] GET Anfrage für Kompressor
+[18:34:38] [HomeKit] GET Anfrage für Nils Zimmer Licht
+[18:34:38] [HomeKit] GET Anfrage für Keller Licht
+[18:34:38] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Garten | Current Target State: 100
+[18:34:38] [HomeKit] GET Anfrage (CurrentPosition): Arbeitszimmer Rolllade Garten | Current State: 100
+[18:34:38] [HomeKit] GET Anfrage für Temperatur Garten
+[18:34:38] [HomeKit] GET Anfrage (Target): Schlafzimmer Rolllade | Current Target State: 100
+[18:34:38] [HomeKit] GET Anfrage (CurrentPosition): Schlafzimmer Rolllade | Current State: 100
+[18:34:58] [HomeKit] SET Befehlt: false
+[18:34:58] [HomeKit] AUSSSSSS
+[18:34:58] [HomeKit] Callback
+[18:35:21] [HomeKit] SET Befehlt: 0
+[18:35:21] [HomeKit] AUSSSSSS
+[18:35:21] [HomeKit] SET Befehl1
+[18:35:21] [HomeKit] ANNNNNNN
+[18:35:21] [HomeKit] SET Anfrage für Nils Rolllade. Wert ==> 100
+[18:35:21] [HomeKit] SET Befehlt: 1
+[18:35:21] [HomeKit] ANNNNNNN
+[18:35:21] [HomeKit] SET Befehlt: false
+[18:35:21] [HomeKit] AUSSSSSS
+[18:35:21] [HomeKit] Callback
+[18:35:21] [HomeKit] Callback
+[18:35:21] [HomeKit] Callback
+[18:36:01] [HomeKit] GET Anfrage für Feuchtigkeit Garten
+[18:36:01] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Fenster | Current Target State: 100
+[18:36:01] [HomeKit] GET Anfrage (CurrentPosition): Wohnzimmer Rolllade Fenster | Current State: 100
+[18:36:01] [HomeKit] GET Anfrage für Subwoofer Nils Zimmer
+[18:36:01] [HomeKit] GET Anfrage (CurrentPosition): Arbeitszimmer Rolllade Kindergarten | Current State: 100
+[18:36:01] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Kindergarten | Current Target State: 100
+[18:36:01] [HomeKit] GET Anfrage für LED Kette Nils
+[18:36:01] [HomeKit] GET Anfrage (Target): Nils Rolllade | Current Target State: 100
+[18:36:01] [HomeKit] GET Anfrage (CurrentPosition): Nils Rolllade | Current State: 100
+[18:36:01] [HomeKit] GET Anfrage für Feuchtigkeit Wohnzimmer
+[18:36:01] [HomeKit] GET Anfrage für Treppe Licht Pflanze
+[18:36:01] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Tür | Current Target State: 100
+[18:36:01] [HomeKit] GET Anfrage (CurrentPosition): Wohnzimmer Rolllade Tür | Current State: 100
+[18:36:01] [HomeKit] GET Anfrage (Target): Küche Rolllade | Current Target State: 100
+[18:36:01] [HomeKit] GET Anfrage (CurrentPosition): Küche Rolllade | Current State: 100
+[18:36:01] [HomeKit] GET Anfrage für Eingangs Flur Licht
+[18:36:01] [HomeKit] GET Anfrage für Nils Dachboden Licht
+[18:36:01] [HomeKit] GET Anfrage für Brunnen
+[18:36:01] [HomeKit] GET Anfrage für Arbeitszimmer Licht
+[18:36:01] [HomeKit] GET Anfrage (CurrentPosition): Gäste WC Rolllade | Current State: 100
+[18:36:01] [HomeKit] GET Anfrage (Target): Gäste WC Rolllade | Current Target State: 100
+[18:36:01] [HomeKit] GET Anfrage für Fernseher
+[18:36:01] [HomeKit] GET Anfrage für Kompressor
+[18:36:01] [HomeKit] GET Anfrage für Nils Zimmer Licht
+[18:36:01] [HomeKit] GET Anfrage für Keller Licht
+[18:36:01] [HomeKit] GET Anfrage (CurrentPosition): Arbeitszimmer Rolllade Garten | Current State: 100
+[18:36:01] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Garten | Current Target State: 100
+[18:36:01] [HomeKit] GET Anfrage für Temperatur Garten
+[18:36:01] [HomeKit] GET Anfrage (CurrentPosition): Schlafzimmer Rolllade | Current State: 100
+[18:36:01] [HomeKit] GET Anfrage (Target): Schlafzimmer Rolllade | Current Target State: 100
+[18:36:43] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Kindergarten | Current Target State: 100
+[18:36:44] [HomeKit] GET Anfrage (CurrentPosition): Gäste WC Rolllade | Current State: 100
+[18:36:44] [HomeKit] GET Anfrage (CurrentPosition): Nils Rolllade | Current State: 100
+[18:36:44] [HomeKit] GET Anfrage für Subwoofer Nils Zimmer
+[18:36:44] [HomeKit] GET Anfrage (CurrentPosition): Arbeitszimmer Rolllade Kindergarten | Current State: 100
+[18:36:45] [HomeKit] GET Anfrage für Keller Licht
+[18:36:45] [HomeKit] GET Anfrage für Feuchtigkeit Garten
+[18:36:45] [HomeKit] GET Anfrage für Nils Zimmer Licht
+[18:36:45] [HomeKit] GET Anfrage für LED Kette Nils
+[18:36:45] [HomeKit] GET Anfrage für Eingangs Flur Licht
+[18:36:45] [HomeKit] GET Anfrage für Feuchtigkeit Wohnzimmer
+[18:36:45] [HomeKit] GET Anfrage für Treppe Licht Pflanze
+[18:36:45] [HomeKit] GET Anfrage für Arbeitszimmer Licht
+[18:36:45] [HomeKit] GET Anfrage für Nils Dachboden Licht
+[18:36:47] [HomeKit] GET Anfrage für Kompressor
+[18:36:47] [HomeKit] GET Anfrage (Target): Nils Rolllade | Current Target State: 100
+[18:36:48] [HomeKit] GET Anfrage für Temperatur Garten
+[18:36:52] [HomeKit] SET Befehlt: false
+[18:36:52] [HomeKit] AUSSSSSS
+[18:36:52] [HomeKit] SET Befehltrue
+[18:36:52] [HomeKit] ANNNNNNN
+[18:36:52] [HomeKit] SET Befehlt: false
+[18:36:52] [HomeKit] AUSSSSSS
+[18:36:52] [HomeKit] SET Befehlt: true
+[18:36:52] [HomeKit] ANNNNNNN
+[18:36:52] [HomeKit] Callback
+[18:36:52] [HomeKit] Callback
+[18:36:52] [HomeKit] Callback
+[18:36:54] [HomeKit] GET Anfrage für Feuchtigkeit Garten
+[18:36:54] [HomeKit] GET Anfrage (CurrentPosition): Wohnzimmer Rolllade Fenster | Current State: 100
+[18:36:54] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Fenster | Current Target State: 100
+[18:36:54] [HomeKit] GET Anfrage für Subwoofer Nils Zimmer
+[18:36:54] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Kindergarten | Current Target State: 100
+[18:36:54] [HomeKit] GET Anfrage (CurrentPosition): Arbeitszimmer Rolllade Kindergarten | Current State: 100
+[18:36:54] [HomeKit] GET Anfrage für LED Kette Nils
+[18:36:54] [HomeKit] GET Anfrage (Target): Nils Rolllade | Current Target State: 100
+[18:36:54] [HomeKit] GET Anfrage (CurrentPosition): Nils Rolllade | Current State: 100
+[18:36:54] [HomeKit] GET Anfrage für Feuchtigkeit Wohnzimmer
+[18:36:54] [HomeKit] GET Anfrage für Treppe Licht Pflanze
+[18:36:54] [HomeKit] GET Anfrage (CurrentPosition): Wohnzimmer Rolllade Tür | Current State: 100
+[18:36:54] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Tür | Current Target State: 100
+[18:36:54] [HomeKit] GET Anfrage (CurrentPosition): Küche Rolllade | Current State: 100
+[18:36:54] [HomeKit] GET Anfrage (Target): Küche Rolllade | Current Target State: 100
+[18:36:54] [HomeKit] GET Anfrage für Eingangs Flur Licht
+[18:36:54] [HomeKit] GET Anfrage für Nils Dachboden Licht
+[18:36:54] [HomeKit] GET Anfrage für Brunnen
+[18:36:54] [HomeKit] GET Anfrage für Arbeitszimmer Licht
+[18:36:54] [HomeKit] GET Anfrage (CurrentPosition): Gäste WC Rolllade | Current State: 100
+[18:36:54] [HomeKit] GET Anfrage (Target): Gäste WC Rolllade | Current Target State: 100
+[18:36:54] [HomeKit] GET Anfrage für Fernseher
+[18:36:54] [HomeKit] GET Anfrage für Kompressor
+[18:36:54] [HomeKit] GET Anfrage für Nils Zimmer Licht
+[18:36:54] [HomeKit] GET Anfrage für Keller Licht
+[18:36:54] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Garten | Current Target State: 100
+[18:36:54] [HomeKit] GET Anfrage (CurrentPosition): Arbeitszimmer Rolllade Garten | Current State: 100
+[18:36:54] [HomeKit] GET Anfrage für Temperatur Garten
+[18:36:54] [HomeKit] GET Anfrage (Target): Schlafzimmer Rolllade | Current Target State: 100
+[18:36:54] [HomeKit] GET Anfrage (CurrentPosition): Schlafzimmer Rolllade | Current State: 100
+[18:37:10] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[18:38:41] [HomeKit] Update Feuchtigkeit Garten
+[18:43:54] [HomeKit] Update Temperatur Garten
+[18:47:36] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[18:49:07] [HomeKit] Update Temperatur Garten
+[18:52:49] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[18:54:20] [HomeKit] Update Feuchtigkeit Garten
+[18:59:33] [HomeKit] Update Temperatur Garten
+[18:59:33] [HomeKit] Update Feuchtigkeit Garten
+[19:00:00] [HomeKit] Update Gäste WC Rolllade
+[19:00:02] [HomeKit] Update Wohnzimmer Rolllade Fenster
+[19:00:03] [HomeKit] Update Küche Rolllade
+[19:00:05] [HomeKit] Update Wohnzimmer Rolllade Tür
+[19:00:10] [HomeKit] Update Nils Rolllade
+[19:00:11] [HomeKit] Update Arbeitszimmer Rolllade Garten
+[19:00:12] [HomeKit] Update Arbeitszimmer Rolllade Kindergarten
+[19:00:13] [HomeKit] Update Schlafzimmer Rolllade
+[19:04:46] [HomeKit] Update Temperatur Garten
+[19:04:46] [HomeKit] Update Feuchtigkeit Garten
+[19:08:28] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[19:09:59] [HomeKit] Update Feuchtigkeit Garten
+[19:10:58] [HomeKit] GET Anfrage für Feuchtigkeit Garten
+[19:10:58] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Fenster | Current Target State: 0
+[19:10:58] [HomeKit] GET Anfrage (CurrentPosition): Wohnzimmer Rolllade Fenster | Current State: 0
+[19:10:58] [HomeKit] GET Anfrage für Subwoofer Nils Zimmer
+[19:10:58] [HomeKit] GET Anfrage (CurrentPosition): Arbeitszimmer Rolllade Kindergarten | Current State: 0
+[19:10:58] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Kindergarten | Current Target State: 0
+[19:10:58] [HomeKit] GET Anfrage für LED Kette Nils
+[19:10:58] [HomeKit] GET Anfrage (CurrentPosition): Nils Rolllade | Current State: 0
+[19:10:58] [HomeKit] GET Anfrage (Target): Nils Rolllade | Current Target State: 0
+[19:10:58] [HomeKit] GET Anfrage für Feuchtigkeit Wohnzimmer
+[19:10:58] [HomeKit] GET Anfrage für Treppe Licht Pflanze
+[19:10:58] [HomeKit] GET Anfrage (CurrentPosition): Wohnzimmer Rolllade Tür | Current State: 0
+[19:10:58] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Tür | Current Target State: 0
+[19:10:58] [HomeKit] GET Anfrage (CurrentPosition): Küche Rolllade | Current State: 0
+[19:10:58] [HomeKit] GET Anfrage (Target): Küche Rolllade | Current Target State: 0
+[19:10:58] [HomeKit] GET Anfrage für Eingangs Flur Licht
+[19:10:58] [HomeKit] GET Anfrage für Nils Dachboden Licht
+[19:10:58] [HomeKit] GET Anfrage für Brunnen
+[19:10:58] [HomeKit] GET Anfrage für Arbeitszimmer Licht
+[19:10:58] [HomeKit] GET Anfrage (Target): Gäste WC Rolllade | Current Target State: 0
+[19:10:58] [HomeKit] GET Anfrage (CurrentPosition): Gäste WC Rolllade | Current State: 0
+[19:10:58] [HomeKit] GET Anfrage für Fernseher
+[19:10:58] [HomeKit] GET Anfrage für Kompressor
+[19:10:58] [HomeKit] GET Anfrage für Nils Zimmer Licht
+[19:10:58] [HomeKit] GET Anfrage für Keller Licht
+[19:10:58] [HomeKit] GET Anfrage (CurrentPosition): Arbeitszimmer Rolllade Garten | Current State: 0
+[19:10:58] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Garten | Current Target State: 0
+[19:10:58] [HomeKit] GET Anfrage für Temperatur Garten
+[19:10:58] [HomeKit] GET Anfrage (Target): Schlafzimmer Rolllade | Current Target State: 0
+[19:10:58] [HomeKit] GET Anfrage (CurrentPosition): Schlafzimmer Rolllade | Current State: 0
+[19:13:41] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[19:15:12] [HomeKit] Update Feuchtigkeit Garten
+[19:18:54] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[19:20:25] [HomeKit] Update Temperatur Garten
+[19:24:07] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[19:25:38] [HomeKit] Update Feuchtigkeit Garten
+[19:30:51] [HomeKit] Update Feuchtigkeit Garten
+[19:36:04] [HomeKit] Update Feuchtigkeit Garten
+[19:39:46] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[19:41:17] [HomeKit] Update Temperatur Garten
+[19:41:17] [HomeKit] Update Feuchtigkeit Garten
+[19:46:30] [HomeKit] Update Feuchtigkeit Garten
+[19:51:43] [HomeKit] Update Feuchtigkeit Garten
+[19:55:25] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[19:56:56] [HomeKit] Update Temperatur Garten
+[19:56:56] [HomeKit] Update Feuchtigkeit Garten
+[20:02:09] [HomeKit] Update Feuchtigkeit Garten
+[20:07:22] [HomeKit] Update Temperatur Garten
+[20:07:22] [HomeKit] Update Feuchtigkeit Garten
+[20:12:35] [HomeKit] Update Feuchtigkeit Garten
+[20:16:17] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[20:17:48] [HomeKit] Update Temperatur Garten
+[20:17:48] [HomeKit] Update Feuchtigkeit Garten
+[20:23:01] [HomeKit] Update Feuchtigkeit Garten
+[20:26:43] [HomeKit] Update Temperatur Wohnzimmer
+[20:26:43] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[20:28:14] [HomeKit] Update Temperatur Garten
+[20:28:14] [HomeKit] Update Feuchtigkeit Garten
+[20:31:56] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[20:33:27] [HomeKit] Update Temperatur Garten
+[20:33:27] [HomeKit] Update Feuchtigkeit Garten
+[20:37:09] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[20:38:40] [HomeKit] Update Temperatur Garten
+[20:38:40] [HomeKit] Update Feuchtigkeit Garten
+[20:42:22] [HomeKit] Update Temperatur Wohnzimmer
+[20:42:22] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[20:43:53] [HomeKit] Update Feuchtigkeit Garten
+[20:47:35] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[20:54:19] [HomeKit] Update Temperatur Garten
+[20:54:19] [HomeKit] Update Feuchtigkeit Garten
+[20:58:01] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[20:59:32] [HomeKit] Update Temperatur Garten
+[20:59:32] [HomeKit] Update Feuchtigkeit Garten
+[21:03:14] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[21:04:45] [HomeKit] Update Temperatur Garten
+[21:04:45] [HomeKit] Update Feuchtigkeit Garten
+[21:08:28] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[21:09:58] [HomeKit] Update Temperatur Garten
+[21:09:58] [HomeKit] Update Feuchtigkeit Garten
+[21:13:41] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[21:15:11] [HomeKit] Update Temperatur Garten
+[21:18:54] [HomeKit] Update Temperatur Wohnzimmer
+[21:20:24] [HomeKit] Update Temperatur Garten
+[21:20:24] [HomeKit] Update Feuchtigkeit Garten
+[21:25:37] [HomeKit] Update Feuchtigkeit Garten
+[21:29:20] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[21:34:33] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[21:36:03] [HomeKit] Update Temperatur Garten
+[21:36:03] [HomeKit] Update Feuchtigkeit Garten
+[21:39:46] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[21:41:16] [HomeKit] Update Temperatur Garten
+[21:41:16] [HomeKit] Update Feuchtigkeit Garten
+[21:46:29] [HomeKit] Update Temperatur Garten
+[21:46:29] [HomeKit] Update Feuchtigkeit Garten
+[21:50:12] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[21:51:42] [HomeKit] Update Temperatur Garten
+[21:51:42] [HomeKit] Update Feuchtigkeit Garten
+[21:55:25] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[21:56:55] [HomeKit] Update Temperatur Garten
+[21:56:55] [HomeKit] Update Feuchtigkeit Garten
+[22:00:38] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[22:02:08] [HomeKit] Update Temperatur Garten
+[22:02:08] [HomeKit] Update Feuchtigkeit Garten
+[22:05:51] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[22:07:21] [HomeKit] Update Temperatur Garten
+[22:07:21] [HomeKit] Update Feuchtigkeit Garten
+[22:12:34] [HomeKit] Update Temperatur Garten
+[22:12:34] [HomeKit] Update Feuchtigkeit Garten
+[22:17:47] [HomeKit] Update Temperatur Garten
+[22:17:47] [HomeKit] Update Feuchtigkeit Garten
+[22:23:00] [HomeKit] Update Temperatur Garten
+[22:26:43] [HomeKit] Update Temperatur Wohnzimmer
+[22:26:43] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[22:28:14] [HomeKit] Update Feuchtigkeit Garten
+[22:31:56] [HomeKit] Update Temperatur Wohnzimmer
+[22:31:56] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[22:33:27] [HomeKit] Update Temperatur Garten
+[22:33:27] [HomeKit] Update Feuchtigkeit Garten
+[22:37:09] [HomeKit] Update Temperatur Wohnzimmer
+[22:37:09] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[22:42:22] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[22:43:53] [HomeKit] Update Temperatur Garten
+[22:49:06] [HomeKit] Update Temperatur Garten
+[22:49:06] [HomeKit] Update Feuchtigkeit Garten
+[22:54:19] [HomeKit] Update Feuchtigkeit Garten
+[22:58:01] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[22:59:32] [HomeKit] Update Temperatur Garten
+[22:59:32] [HomeKit] Update Feuchtigkeit Garten
+[23:04:45] [HomeKit] Update Temperatur Garten
+[23:04:45] [HomeKit] Update Feuchtigkeit Garten
+[23:08:27] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[23:09:58] [HomeKit] Update Feuchtigkeit Garten
+[23:13:40] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[23:15:11] [HomeKit] Update Temperatur Garten
+[23:24:06] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[23:25:37] [HomeKit] Update Temperatur Garten
+[23:25:37] [HomeKit] Update Feuchtigkeit Garten
+[23:29:19] [HomeKit] Update Temperatur Wohnzimmer
+[23:29:19] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[23:30:50] [HomeKit] Update Temperatur Garten
+[23:34:32] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[23:36:03] [HomeKit] Update Temperatur Garten
+[23:39:45] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[23:46:29] [HomeKit] Update Temperatur Garten
+[23:50:11] [HomeKit] Update Feuchtigkeit Wohnzimmer
+[23:51:42] [HomeKit] Update Temperatur Garten
