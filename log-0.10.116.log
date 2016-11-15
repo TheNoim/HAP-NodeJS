@@ -3501,3 +3501,1971 @@
 [14:06:59] [HomeKit] Published: Eingangs Flur Licht Index: 29
 [14:06:59] [HomeKit] Publishe: Nils Zimmer Licht Index: 30
 [14:06:59] [HomeKit] Published: Nils Zimmer Licht Index: 30
+[14:10:26] [HomeKit] HAP-NodeJS starting...
+[14:10:26] [HomeKit] Verbinde zur Datenbank...
+[14:10:26] [HomeKit] Verbunden!
+[14:10:26] [HomeKit] Lade Pin...
+[14:10:26] [HomeKit]                        
+[14:10:26] [HomeKit]     ┌────────────┐     
+[14:10:26] [HomeKit]     │ 031-45-154 │     
+[14:10:26] [HomeKit]     └────────────┘     
+[14:10:26] [HomeKit]                        
+[14:10:26] [HomeKit] Lade alle Objekte die für HomeKit aktiviert sind...
+[14:10:26] [HomeKit] Username von Arbeitszimmer Rolllade Kindergarten 27:C3:E2:D2:E3:FE
+[14:10:26] [HomeKit] Registriere Objekte Arbeitszimmer Rolllade Kindergarten in HomeKit...
+[14:10:26] [HomeKit] Username von Subwoofer Nils Zimmer 73:66:36:32:E3:7C
+[14:10:26] [HomeKit] Registriere Objekte Subwoofer Nils Zimmer in HomeKit...
+[14:10:26] [HomeKit] Username von Treppe Licht Pflanze 7F:CD:FE:DC:77:6F
+[14:10:26] [HomeKit] Registriere Objekte Treppe Licht Pflanze in HomeKit...
+[14:10:26] [HomeKit] Username von Gäste WC Rolllade E6:F6:FD:36:D6:6D
+[14:10:26] [HomeKit] Registriere Objekte Gäste WC Rolllade in HomeKit...
+[14:10:26] [HomeKit] Username von Nils Rolllade 66:DC:DE:62:D6:CC
+[14:10:26] [HomeKit] Registriere Objekte Nils Rolllade in HomeKit...
+[14:10:26] [HomeKit] Username von Nils Dachboden Licht F7:77:DC:D7:66:ED
+[14:10:26] [HomeKit] Registriere Objekte Nils Dachboden Licht in HomeKit...
+[14:10:26] [HomeKit] Username von Keller Licht 77:FC:7C:CC:F6:CD
+[14:10:26] [HomeKit] Registriere Objekte Keller Licht in HomeKit...
+[14:10:26] [HomeKit] Username von Fernseher 67:66:FD:E7:EE:FE
+[14:10:26] [HomeKit] Registriere Objekte Fernseher in HomeKit...
+[14:10:26] [HomeKit] Username von Kompressor F6:C2:D7:DF:37:F7
+[14:10:26] [HomeKit] Registriere Objekte Kompressor in HomeKit...
+[14:10:26] [HomeKit] Username von Wohnzimmer Rolllade Tür C3:2F:2F:6E:62:D2
+[14:10:26] [HomeKit] Registriere Objekte Wohnzimmer Rolllade Tür in HomeKit...
+[14:10:26] [HomeKit] Username von Temperatur Garten CF:76:3C:CE:FD:E7
+[14:10:26] [HomeKit] Registriere Objekte Temperatur Garten in HomeKit...
+[14:10:26] [HomeKit] Username von Wohnzimmer Rolllade Fenster D3:36:27:F3:3E:6E
+[14:10:26] [HomeKit] Registriere Objekte Wohnzimmer Rolllade Fenster in HomeKit...
+[14:10:26] [HomeKit] Username von Brunnen 33:F2:37:EE:DD:27
+[14:10:26] [HomeKit] Registriere Objekte Brunnen in HomeKit...
+[14:10:26] [HomeKit] Username von Arbeitszimmer Licht DC:73:2D:E7:3F:FC
+[14:10:26] [HomeKit] Registriere Objekte Arbeitszimmer Licht in HomeKit...
+[14:10:26] [HomeKit] Username von Temperatur Wohnzimmer 2C:36:23:CE:73:32
+[14:10:26] [HomeKit] Registriere Objekte Temperatur Wohnzimmer in HomeKit...
+[14:10:26] [HomeKit] Username von Fake Temperature F6:F7:6C:2F:C6:FF
+[14:10:26] [HomeKit] Registriere Objekte Fake Temperature in HomeKit...
+[14:10:26] [HomeKit] Username von Feuchtigkeit Garten 72:FD:FE:6E:F2:C7
+[14:10:26] [HomeKit] Registriere Objekte Feuchtigkeit Garten in HomeKit...
+[14:10:26] [HomeKit] Username von Schlafzimmer Rolllade C7:DE:3F:F2:6F:EE
+[14:10:26] [HomeKit] Registriere Objekte Schlafzimmer Rolllade in HomeKit...
+[14:10:26] [HomeKit] Username von LED Kette Nils D7:FD:6C:6D:DE:67
+[14:10:26] [HomeKit] Registriere Objekte LED Kette Nils in HomeKit...
+[14:10:26] [HomeKit] Username von Arbeitszimmer Rolllade Garten F6:EF:76:F7:FE:D2
+[14:10:26] [HomeKit] Registriere Objekte Arbeitszimmer Rolllade Garten in HomeKit...
+[14:10:26] [HomeKit] Username von Feuchtigkeit Wohnzimmer CD:22:C3:67:F6:2D
+[14:10:26] [HomeKit] Registriere Objekte Feuchtigkeit Wohnzimmer in HomeKit...
+[14:10:26] [HomeKit] Username von Küche Rolllade 6D:D7:6E:D7:CC:DF
+[14:10:26] [HomeKit] Registriere Objekte Küche Rolllade in HomeKit...
+[14:10:26] [HomeKit] Username von Eingangs Flur Licht CE:F3:2C:2F:C7:DF
+[14:10:26] [HomeKit] Registriere Objekte Eingangs Flur Licht in HomeKit...
+[14:10:26] [HomeKit] Username von Nils Zimmer Licht ED:CD:F2:E3:EF:3F
+[14:10:26] [HomeKit] Registriere Objekte Nils Zimmer Licht in HomeKit...
+[14:10:26] [HomeKit] Registrations Vorgang wurde beendet.
+[14:10:30] [HomeKit] Update Wohnzimmer Rolllade Fenster
+[14:10:30] [HomeKit] Update Küche Rolllade
+[14:10:31] [HomeKit] Update Wohnzimmer Rolllade Tür
+[14:10:36] [HomeKit] Update Nils Rolllade
+[14:10:37] [HomeKit] Update Arbeitszimmer Rolllade Garten
+[14:10:37] [HomeKit] Update Nils Rolllade
+[14:10:38] [HomeKit] Update Arbeitszimmer Rolllade Kindergarten
+[14:10:38] [HomeKit] Update Arbeitszimmer Rolllade Garten
+[14:10:40] [HomeKit] Update Schlafzimmer Rolllade
+[14:10:40] [HomeKit] Update Arbeitszimmer Rolllade Kindergarten
+[14:10:41] [HomeKit] Update Schlafzimmer Rolllade
+[14:10:41] [HomeKit] Update Wohnzimmer Rolllade Tür
+[14:10:43] [HomeKit] Update Wohnzimmer Rolllade Fenster
+[14:10:44] [HomeKit] Update Küche Rolllade
+[14:11:13] [HomeKit] Update Temperatur Wohnzimmer
+[14:13:23] [HomeKit] Update Temperatur Garten
+[14:13:23] [HomeKit] Update Feuchtigkeit Garten
+[14:16:58] [HomeKit] GET Anfrage für Arbeitszimmer Licht
+[14:17:00] [HomeKit] GET Anfrage für Arbeitszimmer Licht
+[14:17:03] [HomeKit] GET Anfrage für Arbeitszimmer Licht
+[14:17:06] [HomeKit] GET Anfrage (CurrentPosition): Arbeitszimmer Rolllade Garten | Current State: 100
+[14:17:06] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Garten | Current Target State: 100
+[14:17:16] [HomeKit] GET Anfrage (CurrentPosition): Arbeitszimmer Rolllade Garten | Current State: 100
+[14:17:16] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Garten | Current Target State: 100
+[14:17:17] [HomeKit] GET Anfrage (CurrentPosition): Arbeitszimmer Rolllade Garten | Current State: 100
+[14:17:17] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Garten | Current Target State: 100
+[14:17:18] [HomeKit] GET Anfrage (CurrentPosition): Arbeitszimmer Rolllade Garten | Current State: 100
+[14:17:18] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Garten | Current Target State: 100
+[14:17:20] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Kindergarten | Current Target State: 100
+[14:17:20] [HomeKit] GET Anfrage (CurrentPosition): Arbeitszimmer Rolllade Kindergarten | Current State: 100
+[14:17:27] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Kindergarten | Current Target State: 100
+[14:17:27] [HomeKit] GET Anfrage (CurrentPosition): Arbeitszimmer Rolllade Kindergarten | Current State: 100
+[14:17:27] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Kindergarten | Current Target State: 100
+[14:17:27] [HomeKit] GET Anfrage (CurrentPosition): Arbeitszimmer Rolllade Kindergarten | Current State: 100
+[14:17:28] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Kindergarten | Current Target State: 100
+[14:17:28] [HomeKit] GET Anfrage (CurrentPosition): Arbeitszimmer Rolllade Kindergarten | Current State: 100
+[14:17:29] [HomeKit] GET Anfrage für Brunnen
+[14:17:31] [HomeKit] GET Anfrage für Brunnen
+[14:17:33] [HomeKit] GET Anfrage für Brunnen
+[14:17:38] [HomeKit] GET Anfrage für Eingangs Flur Licht
+[14:17:40] [HomeKit] GET Anfrage für Eingangs Flur Licht
+[14:17:41] [HomeKit] GET Anfrage für Eingangs Flur Licht
+[14:17:42] [HomeKit] GET Anfrage für Fake Temperature
+[14:17:48] [HomeKit] GET Anfrage für Fernseher
+[14:17:50] [HomeKit] GET Anfrage für Fernseher
+[14:17:51] [HomeKit] GET Anfrage für Fernseher
+[14:17:56] [HomeKit] GET Anfrage für Feuchtigkeit Garten
+[14:18:01] [HomeKit] GET Anfrage für Feuchtigkeit Garten
+[14:18:02] [HomeKit] GET Anfrage für Feuchtigkeit Garten
+[14:18:03] [HomeKit] GET Anfrage für Feuchtigkeit Garten
+[14:18:04] [HomeKit] GET Anfrage für Feuchtigkeit Garten
+[14:18:05] [HomeKit] GET Anfrage für Feuchtigkeit Wohnzimmer
+[14:18:10] [HomeKit] GET Anfrage für Feuchtigkeit Wohnzimmer
+[14:18:10] [HomeKit] GET Anfrage für Feuchtigkeit Wohnzimmer
+[14:18:12] [HomeKit] GET Anfrage für Feuchtigkeit Wohnzimmer
+[14:18:24] [HomeKit] GET Anfrage (Target): Gäste WC Rolllade | Current Target State: 100
+[14:18:24] [HomeKit] GET Anfrage (CurrentPosition): Gäste WC Rolllade | Current State: 100
+[14:18:26] [HomeKit] GET Anfrage (Target): Gäste WC Rolllade | Current Target State: 100
+[14:18:26] [HomeKit] GET Anfrage (CurrentPosition): Gäste WC Rolllade | Current State: 100
+[14:18:28] [HomeKit] GET Anfrage (Target): Gäste WC Rolllade | Current Target State: 100
+[14:18:28] [HomeKit] GET Anfrage (CurrentPosition): Gäste WC Rolllade | Current State: 100
+[14:18:30] [HomeKit] GET Anfrage für Keller Licht
+[14:18:31] [HomeKit] GET Anfrage für Keller Licht
+[14:18:32] [HomeKit] GET Anfrage für Keller Licht
+[14:18:33] [HomeKit] GET Anfrage für Kompressor
+[14:18:35] [HomeKit] GET Anfrage für Kompressor
+[14:18:36] [HomeKit] Update Temperatur Garten
+[14:18:36] [HomeKit] Update Feuchtigkeit Garten
+[14:18:37] [HomeKit] GET Anfrage für Kompressor
+[14:18:38] [HomeKit] GET Anfrage für Kompressor
+[14:18:39] [HomeKit] GET Anfrage für Kompressor
+[14:18:40] [HomeKit] GET Anfrage für Kompressor
+[14:18:42] [HomeKit] GET Anfrage (CurrentPosition): Küche Rolllade | Current State: 100
+[14:18:42] [HomeKit] GET Anfrage (Target): Küche Rolllade | Current Target State: 100
+[14:18:44] [HomeKit] GET Anfrage (CurrentPosition): Küche Rolllade | Current State: 100
+[14:18:44] [HomeKit] GET Anfrage (Target): Küche Rolllade | Current Target State: 100
+[14:18:45] [HomeKit] GET Anfrage (CurrentPosition): Küche Rolllade | Current State: 100
+[14:18:45] [HomeKit] GET Anfrage (Target): Küche Rolllade | Current Target State: 100
+[14:18:46] [HomeKit] GET Anfrage für LED Kette Nils
+[14:18:47] [HomeKit] GET Anfrage für LED Kette Nils
+[14:18:52] [HomeKit] GET Anfrage für LED Kette Nils
+[14:18:53] [HomeKit] GET Anfrage für LED Kette Nils
+[14:18:57] [HomeKit] GET Anfrage für LED Kette Nils
+[14:19:03] [HomeKit] GET Anfrage für Nils Dachboden Licht
+[14:19:11] [HomeKit] GET Anfrage für Nils Dachboden Licht
+[14:19:12] [HomeKit] GET Anfrage für Nils Dachboden Licht
+[14:19:14] [HomeKit] GET Anfrage für Nils Dachboden Licht
+[14:19:15] [HomeKit] GET Anfrage für Nils Dachboden Licht
+[14:19:16] [HomeKit] GET Anfrage für Nils Dachboden Licht
+[14:19:16] [HomeKit] GET Anfrage (CurrentPosition): Nils Rolllade | Current State: 100
+[14:19:16] [HomeKit] GET Anfrage (Target): Nils Rolllade | Current Target State: 100
+[14:19:26] [HomeKit] GET Anfrage (CurrentPosition): Nils Rolllade | Current State: 100
+[14:19:26] [HomeKit] GET Anfrage (Target): Nils Rolllade | Current Target State: 100
+[14:19:27] [HomeKit] GET Anfrage (CurrentPosition): Nils Rolllade | Current State: 100
+[14:19:27] [HomeKit] GET Anfrage (Target): Nils Rolllade | Current Target State: 100
+[14:19:37] [HomeKit] GET Anfrage (CurrentPosition): Nils Rolllade | Current State: 100
+[14:19:37] [HomeKit] GET Anfrage (Target): Nils Rolllade | Current Target State: 100
+[14:19:38] [HomeKit] GET Anfrage (CurrentPosition): Nils Rolllade | Current State: 100
+[14:19:38] [HomeKit] GET Anfrage (Target): Nils Rolllade | Current Target State: 100
+[14:19:40] [HomeKit] GET Anfrage für Nils Zimmer Licht
+[14:19:49] [HomeKit] GET Anfrage für Nils Zimmer Licht
+[14:19:50] [HomeKit] GET Anfrage für Nils Zimmer Licht
+[14:19:50] [HomeKit] GET Anfrage für Nils Zimmer Licht
+[14:19:51] [HomeKit] GET Anfrage für Nils Zimmer Licht
+[14:19:52] [HomeKit] GET Anfrage für Nils Zimmer Licht
+[14:19:55] [HomeKit] GET Anfrage (CurrentPosition): Schlafzimmer Rolllade | Current State: 100
+[14:19:55] [HomeKit] GET Anfrage (Target): Schlafzimmer Rolllade | Current Target State: 100
+[14:19:59] [HomeKit] GET Anfrage (CurrentPosition): Schlafzimmer Rolllade | Current State: 100
+[14:19:59] [HomeKit] GET Anfrage (Target): Schlafzimmer Rolllade | Current Target State: 100
+[14:20:00] [HomeKit] GET Anfrage (CurrentPosition): Schlafzimmer Rolllade | Current State: 100
+[14:20:00] [HomeKit] GET Anfrage (Target): Schlafzimmer Rolllade | Current Target State: 100
+[14:20:01] [HomeKit] GET Anfrage für Subwoofer Nils Zimmer
+[14:20:06] [HomeKit] GET Anfrage für Subwoofer Nils Zimmer
+[14:20:07] [HomeKit] GET Anfrage für Subwoofer Nils Zimmer
+[14:20:09] [HomeKit] GET Anfrage für Subwoofer Nils Zimmer
+[14:20:10] [HomeKit] GET Anfrage für Subwoofer Nils Zimmer
+[14:20:11] [HomeKit] GET Anfrage für Temperatur Garten
+[14:20:15] [HomeKit] GET Anfrage für Temperatur Garten
+[14:20:16] [HomeKit] GET Anfrage für Temperatur Garten
+[14:20:18] [HomeKit] GET Anfrage für Temperatur Garten
+[14:20:18] [HomeKit] GET Anfrage für Temperatur Garten
+[14:20:19] [HomeKit] GET Anfrage für Temperatur Garten
+[14:20:21] [HomeKit] GET Anfrage für Temperatur Garten
+[14:20:21] [HomeKit] GET Anfrage für Temperatur Wohnzimmer
+[14:20:25] [HomeKit] GET Anfrage für Temperatur Wohnzimmer
+[14:20:26] [HomeKit] GET Anfrage für Temperatur Wohnzimmer
+[14:20:29] [HomeKit] GET Anfrage für Temperatur Wohnzimmer
+[14:20:36] [HomeKit] GET Anfrage für Treppe Licht Pflanze
+[14:20:36] [HomeKit] GET Anfrage für Treppe Licht Pflanze
+[14:20:39] [HomeKit] GET Anfrage für Treppe Licht Pflanze
+[14:20:39] [HomeKit] GET Anfrage für Treppe Licht Pflanze
+[14:20:40] [HomeKit] GET Anfrage (CurrentPosition): Wohnzimmer Rolllade Fenster | Current State: 100
+[14:20:40] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Fenster | Current Target State: 100
+[14:20:48] [HomeKit] GET Anfrage (CurrentPosition): Wohnzimmer Rolllade Fenster | Current State: 100
+[14:20:48] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Fenster | Current Target State: 100
+[14:20:49] [HomeKit] GET Anfrage (CurrentPosition): Wohnzimmer Rolllade Fenster | Current State: 100
+[14:20:49] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Fenster | Current Target State: 100
+[14:20:52] [HomeKit] GET Anfrage (CurrentPosition): Wohnzimmer Rolllade Fenster | Current State: 100
+[14:20:52] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Fenster | Current Target State: 100
+[14:21:00] [HomeKit] GET Anfrage (CurrentPosition): Wohnzimmer Rolllade Tür | Current State: 100
+[14:21:00] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Tür | Current Target State: 100
+[14:21:07] [HomeKit] GET Anfrage (CurrentPosition): Wohnzimmer Rolllade Tür | Current State: 100
+[14:21:07] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Tür | Current Target State: 100
+[14:21:07] [HomeKit] GET Anfrage (CurrentPosition): Wohnzimmer Rolllade Tür | Current State: 100
+[14:21:07] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Tür | Current Target State: 100
+[14:21:09] [HomeKit] GET Anfrage (CurrentPosition): Wohnzimmer Rolllade Tür | Current State: 100
+[14:21:09] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Tür | Current Target State: 100
+[14:21:11] [HomeKit] GET Anfrage für Kompressor
+[14:21:11] [HomeKit] GET Anfrage für Nils Zimmer Licht
+[14:21:11] [HomeKit] GET Anfrage für Nils Dachboden Licht
+[14:21:11] [HomeKit] GET Anfrage für Temperatur Garten
+[14:21:11] [HomeKit] GET Anfrage für Treppe Licht Pflanze
+[14:21:11] [HomeKit] GET Anfrage für Subwoofer Nils Zimmer
+[14:21:11] [HomeKit] GET Anfrage für Feuchtigkeit Garten
+[14:21:11] [HomeKit] GET Anfrage für LED Kette Nils
+[14:21:11] [HomeKit] GET Anfrage (Target): Nils Rolllade | Current Target State: 100
+[14:21:11] [HomeKit] GET Anfrage (CurrentPosition): Nils Rolllade | Current State: 100
+[14:21:15] [HomeKit] GET Anfrage für Kompressor
+[14:21:15] [HomeKit] GET Anfrage für Nils Zimmer Licht
+[14:21:15] [HomeKit] GET Anfrage für Nils Dachboden Licht
+[14:21:15] [HomeKit] GET Anfrage für Temperatur Garten
+[14:21:15] [HomeKit] GET Anfrage für Treppe Licht Pflanze
+[14:21:15] [HomeKit] GET Anfrage für Subwoofer Nils Zimmer
+[14:21:15] [HomeKit] GET Anfrage für Feuchtigkeit Garten
+[14:21:15] [HomeKit] GET Anfrage für LED Kette Nils
+[14:21:15] [HomeKit] GET Anfrage (CurrentPosition): Nils Rolllade | Current State: 100
+[14:21:15] [HomeKit] GET Anfrage (Target): Nils Rolllade | Current Target State: 100
+[14:21:19] [HomeKit] GET Anfrage für Fernseher
+[14:21:19] [HomeKit] GET Anfrage für Brunnen
+[14:21:19] [HomeKit] GET Anfrage (Target): Nils Rolllade | Current Target State: 100
+[14:21:19] [HomeKit] GET Anfrage (CurrentPosition): Nils Rolllade | Current State: 100
+[14:21:19] [HomeKit] GET Anfrage für Nils Zimmer Licht
+[14:21:19] [HomeKit] GET Anfrage (CurrentPosition): Wohnzimmer Rolllade Fenster | Current State: 100
+[14:21:19] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Fenster | Current Target State: 100
+[14:21:19] [HomeKit] GET Anfrage (CurrentPosition): Arbeitszimmer Rolllade Garten | Current State: 100
+[14:21:19] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Garten | Current Target State: 100
+[14:21:19] [HomeKit] GET Anfrage für Arbeitszimmer Licht
+[14:21:19] [HomeKit] GET Anfrage (CurrentPosition): Wohnzimmer Rolllade Tür | Current State: 100
+[14:21:19] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Tür | Current Target State: 100
+[14:21:19] [HomeKit] GET Anfrage für Temperatur Garten
+[14:21:19] [HomeKit] GET Anfrage für Feuchtigkeit Wohnzimmer
+[14:21:19] [HomeKit] GET Anfrage für Kompressor
+[14:21:19] [HomeKit] GET Anfrage für Feuchtigkeit Garten
+[14:21:19] [HomeKit] GET Anfrage (Target): Schlafzimmer Rolllade | Current Target State: 100
+[14:21:19] [HomeKit] GET Anfrage (CurrentPosition): Schlafzimmer Rolllade | Current State: 100
+[14:21:19] [HomeKit] GET Anfrage (Target): Küche Rolllade | Current Target State: 100
+[14:21:19] [HomeKit] GET Anfrage (CurrentPosition): Küche Rolllade | Current State: 100
+[14:21:19] [HomeKit] GET Anfrage für Eingangs Flur Licht
+[14:21:19] [HomeKit] GET Anfrage für LED Kette Nils
+[14:21:19] [HomeKit] GET Anfrage für Nils Dachboden Licht
+[14:21:19] [HomeKit] GET Anfrage für Subwoofer Nils Zimmer
+[14:21:19] [HomeKit] GET Anfrage für Treppe Licht Pflanze
+[14:21:19] [HomeKit] GET Anfrage für Keller Licht
+[14:21:19] [HomeKit] GET Anfrage (CurrentPosition): Arbeitszimmer Rolllade Kindergarten | Current State: 100
+[14:21:19] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Kindergarten | Current Target State: 100
+[14:21:19] [HomeKit] GET Anfrage (Target): Gäste WC Rolllade | Current Target State: 100
+[14:21:19] [HomeKit] GET Anfrage (CurrentPosition): Gäste WC Rolllade | Current State: 100
+[14:23:49] [HomeKit] Update Feuchtigkeit Garten
+[14:27:47] [HomeKit] GET Anfrage für Fernseher
+[14:27:47] [HomeKit] GET Anfrage für Brunnen
+[14:27:47] [HomeKit] GET Anfrage (Target): Nils Rolllade | Current Target State: 100
+[14:27:47] [HomeKit] GET Anfrage (CurrentPosition): Nils Rolllade | Current State: 100
+[14:27:47] [HomeKit] GET Anfrage für Temperatur Garten
+[14:27:47] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Fenster | Current Target State: 100
+[14:27:47] [HomeKit] GET Anfrage (CurrentPosition): Wohnzimmer Rolllade Fenster | Current State: 100
+[14:27:47] [HomeKit] GET Anfrage (CurrentPosition): Arbeitszimmer Rolllade Garten | Current State: 100
+[14:27:47] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Garten | Current Target State: 100
+[14:27:47] [HomeKit] GET Anfrage für Nils Zimmer Licht
+[14:27:47] [HomeKit] GET Anfrage (CurrentPosition): Wohnzimmer Rolllade Tür | Current State: 100
+[14:27:47] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Tür | Current Target State: 100
+[14:27:47] [HomeKit] GET Anfrage für Arbeitszimmer Licht
+[14:27:47] [HomeKit] GET Anfrage für Feuchtigkeit Wohnzimmer
+[14:27:47] [HomeKit] GET Anfrage für Kompressor
+[14:27:47] [HomeKit] GET Anfrage für Feuchtigkeit Garten
+[14:27:47] [HomeKit] GET Anfrage (Target): Schlafzimmer Rolllade | Current Target State: 100
+[14:27:47] [HomeKit] GET Anfrage (CurrentPosition): Schlafzimmer Rolllade | Current State: 100
+[14:27:47] [HomeKit] GET Anfrage (Target): Küche Rolllade | Current Target State: 100
+[14:27:47] [HomeKit] GET Anfrage (CurrentPosition): Küche Rolllade | Current State: 100
+[14:27:47] [HomeKit] GET Anfrage für Eingangs Flur Licht
+[14:27:47] [HomeKit] GET Anfrage für LED Kette Nils
+[14:27:47] [HomeKit] GET Anfrage für Nils Dachboden Licht
+[14:27:47] [HomeKit] GET Anfrage für Subwoofer Nils Zimmer
+[14:27:47] [HomeKit] GET Anfrage für Treppe Licht Pflanze
+[14:27:47] [HomeKit] GET Anfrage für Keller Licht
+[14:27:47] [HomeKit] GET Anfrage (CurrentPosition): Arbeitszimmer Rolllade Kindergarten | Current State: 100
+[14:27:47] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Kindergarten | Current Target State: 100
+[14:27:47] [HomeKit] GET Anfrage (Target): Gäste WC Rolllade | Current Target State: 100
+[14:27:47] [HomeKit] GET Anfrage (CurrentPosition): Gäste WC Rolllade | Current State: 100
+[14:28:21] [HomeKit] GET Anfrage für Fernseher
+[14:28:21] [HomeKit] GET Anfrage für Brunnen
+[14:28:21] [HomeKit] GET Anfrage (Target): Nils Rolllade | Current Target State: 100
+[14:28:21] [HomeKit] GET Anfrage (CurrentPosition): Nils Rolllade | Current State: 100
+[14:28:21] [HomeKit] GET Anfrage für Temperatur Garten
+[14:28:21] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Fenster | Current Target State: 100
+[14:28:21] [HomeKit] GET Anfrage (CurrentPosition): Wohnzimmer Rolllade Fenster | Current State: 100
+[14:28:21] [HomeKit] GET Anfrage für Arbeitszimmer Licht
+[14:28:21] [HomeKit] GET Anfrage für Nils Zimmer Licht
+[14:28:21] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Tür | Current Target State: 100
+[14:28:21] [HomeKit] GET Anfrage (CurrentPosition): Wohnzimmer Rolllade Tür | Current State: 100
+[14:28:21] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Garten | Current Target State: 100
+[14:28:21] [HomeKit] GET Anfrage (CurrentPosition): Arbeitszimmer Rolllade Garten | Current State: 100
+[14:28:21] [HomeKit] GET Anfrage für Feuchtigkeit Wohnzimmer
+[14:28:21] [HomeKit] GET Anfrage für Kompressor
+[14:28:21] [HomeKit] GET Anfrage für Feuchtigkeit Garten
+[14:28:21] [HomeKit] GET Anfrage (CurrentPosition): Schlafzimmer Rolllade | Current State: 100
+[14:28:21] [HomeKit] GET Anfrage (Target): Schlafzimmer Rolllade | Current Target State: 100
+[14:28:21] [HomeKit] GET Anfrage (Target): Küche Rolllade | Current Target State: 100
+[14:28:21] [HomeKit] GET Anfrage (CurrentPosition): Küche Rolllade | Current State: 100
+[14:28:21] [HomeKit] GET Anfrage für Eingangs Flur Licht
+[14:28:21] [HomeKit] GET Anfrage für LED Kette Nils
+[14:28:21] [HomeKit] GET Anfrage für Nils Dachboden Licht
+[14:28:21] [HomeKit] GET Anfrage für Subwoofer Nils Zimmer
+[14:28:21] [HomeKit] GET Anfrage für Treppe Licht Pflanze
+[14:28:21] [HomeKit] GET Anfrage für Keller Licht
+[14:28:21] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Kindergarten | Current Target State: 100
+[14:28:21] [HomeKit] GET Anfrage (CurrentPosition): Arbeitszimmer Rolllade Kindergarten | Current State: 100
+[14:28:21] [HomeKit] GET Anfrage (CurrentPosition): Gäste WC Rolllade | Current State: 100
+[14:28:21] [HomeKit] GET Anfrage (Target): Gäste WC Rolllade | Current Target State: 100
+[14:29:00] [HomeKit] SET Befehlt: true
+[14:29:00] [HomeKit] ANNNNNNN
+[14:29:00] [HomeKit] Callback
+[14:29:02] [HomeKit] Update Feuchtigkeit Garten
+[14:29:15] [HomeKit] SET Befehlt: true
+[14:29:15] [HomeKit] ANNNNNNN
+[14:29:15] [HomeKit] Callback
+[14:29:26] [HomeKit] SET Befehlt: false
+[14:29:26] [HomeKit] AUSSSSSS
+[14:29:26] [HomeKit] SET Befehlt: false
+[14:29:26] [HomeKit] AUSSSSSS
+[14:29:26] [HomeKit] SET Befehlt: false
+[14:29:26] [HomeKit] AUSSSSSS
+[14:29:26] [HomeKit] SET Befehlt: false
+[14:29:26] [HomeKit] AUSSSSSS
+[14:29:26] [HomeKit] SET Befehlt: false
+[14:29:26] [HomeKit] AUSSSSSS
+[14:29:26] [HomeKit] SET Befehlt: false
+[14:29:26] [HomeKit] AUSSSSSS
+[14:29:26] [HomeKit] SET Befehlt: false
+[14:29:26] [HomeKit] AUSSSSSS
+[14:29:26] [HomeKit] Callback
+[14:29:26] [HomeKit] Callback
+[14:29:26] [HomeKit] Callback
+[14:29:26] [HomeKit] Callback
+[14:29:26] [HomeKit] Callback
+[14:29:26] [HomeKit] Callback
+[14:29:26] [HomeKit] Callback
+[14:31:27] [HomeKit] GET Anfrage für Nils Dachboden Licht
+[14:31:27] [HomeKit] GET Anfrage für Subwoofer Nils Zimmer
+[14:31:27] [HomeKit] GET Anfrage (Target): Nils Rolllade | Current Target State: 100
+[14:31:27] [HomeKit] GET Anfrage (CurrentPosition): Nils Rolllade | Current State: 100
+[14:31:27] [HomeKit] GET Anfrage für LED Kette Nils
+[14:31:27] [HomeKit] GET Anfrage für Nils Zimmer Licht
+[14:31:27] [HomeKit] GET Anfrage für Treppe Licht Pflanze
+[14:31:31] [HomeKit] GET Anfrage für Fernseher
+[14:31:31] [HomeKit] GET Anfrage für Brunnen
+[14:31:31] [HomeKit] GET Anfrage für Temperatur Garten
+[14:31:31] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Fenster | Current Target State: 100
+[14:31:31] [HomeKit] GET Anfrage (CurrentPosition): Wohnzimmer Rolllade Fenster | Current State: 100
+[14:31:31] [HomeKit] GET Anfrage für Arbeitszimmer Licht
+[14:31:31] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Garten | Current Target State: 100
+[14:31:31] [HomeKit] GET Anfrage (CurrentPosition): Arbeitszimmer Rolllade Garten | Current State: 100
+[14:31:31] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Tür | Current Target State: 100
+[14:31:31] [HomeKit] GET Anfrage (CurrentPosition): Wohnzimmer Rolllade Tür | Current State: 100
+[14:31:31] [HomeKit] GET Anfrage für Feuchtigkeit Wohnzimmer
+[14:31:31] [HomeKit] GET Anfrage für Kompressor
+[14:31:31] [HomeKit] GET Anfrage für Feuchtigkeit Garten
+[14:31:31] [HomeKit] GET Anfrage (CurrentPosition): Schlafzimmer Rolllade | Current State: 100
+[14:31:31] [HomeKit] GET Anfrage (Target): Schlafzimmer Rolllade | Current Target State: 100
+[14:31:31] [HomeKit] GET Anfrage (Target): Küche Rolllade | Current Target State: 100
+[14:31:31] [HomeKit] GET Anfrage (CurrentPosition): Küche Rolllade | Current State: 100
+[14:31:31] [HomeKit] GET Anfrage für Eingangs Flur Licht
+[14:31:31] [HomeKit] GET Anfrage für Keller Licht
+[14:31:31] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Kindergarten | Current Target State: 100
+[14:31:31] [HomeKit] GET Anfrage (CurrentPosition): Arbeitszimmer Rolllade Kindergarten | Current State: 100
+[14:31:31] [HomeKit] GET Anfrage (CurrentPosition): Gäste WC Rolllade | Current State: 100
+[14:31:31] [HomeKit] GET Anfrage (Target): Gäste WC Rolllade | Current Target State: 100
+[14:31:32] [HomeKit] SET Befehlt: 1
+[14:31:32] [HomeKit] ANNNNNNN
+[14:31:32] [HomeKit] Callback
+[14:31:33] [HomeKit] SET Befehlt: 0
+[14:31:33] [HomeKit] AUSSSSSS
+[14:31:34] [HomeKit] Callback
+[14:34:15] [HomeKit] Update Feuchtigkeit Garten
+[14:39:28] [HomeKit] Update Feuchtigkeit Garten
+[14:44:42] [HomeKit] Update Temperatur Garten
+[14:49:55] [HomeKit] Update Temperatur Garten
+[14:49:55] [HomeKit] Update Feuchtigkeit Garten
+[14:55:08] [HomeKit] Update Feuchtigkeit Garten
+[14:58:10] [HomeKit] Update Temperatur Wohnzimmer
+[15:00:21] [HomeKit] Update Temperatur Garten
+[15:00:21] [HomeKit] Update Feuchtigkeit Garten
+[15:05:34] [HomeKit] Update Temperatur Garten
+[15:05:34] [HomeKit] Update Feuchtigkeit Garten
+[15:10:47] [HomeKit] Update Temperatur Garten
+[15:10:47] [HomeKit] Update Feuchtigkeit Garten
+[15:16:00] [HomeKit] Update Temperatur Garten
+[15:16:00] [HomeKit] Update Feuchtigkeit Garten
+[15:21:13] [HomeKit] Update Temperatur Garten
+[15:21:13] [HomeKit] Update Feuchtigkeit Garten
+[15:24:15] [HomeKit] Update Temperatur Wohnzimmer
+[15:26:26] [HomeKit] Update Temperatur Garten
+[15:26:26] [HomeKit] Update Feuchtigkeit Garten
+[15:28:25] [HomeKit] Update Arbeitszimmer Rolllade Garten
+[15:28:28] [HomeKit] Update Arbeitszimmer Rolllade Garten
+[15:28:35] [HomeKit] Update Wohnzimmer Rolllade Fenster
+[15:28:38] [HomeKit] Update Wohnzimmer Rolllade Fenster
+[15:31:39] [HomeKit] Update Temperatur Garten
+[15:36:52] [HomeKit] Update Temperatur Garten
+[15:42:05] [HomeKit] Update Temperatur Garten
+[15:42:05] [HomeKit] Update Feuchtigkeit Garten
+[15:47:18] [HomeKit] Update Temperatur Garten
+[15:47:18] [HomeKit] Update Feuchtigkeit Garten
+[15:52:31] [HomeKit] Update Temperatur Garten
+[15:52:31] [HomeKit] Update Feuchtigkeit Garten
+[15:57:44] [HomeKit] Update Temperatur Garten
+[15:57:44] [HomeKit] Update Feuchtigkeit Garten
+[16:02:57] [HomeKit] Update Temperatur Garten
+[16:02:57] [HomeKit] Update Feuchtigkeit Garten
+[16:08:10] [HomeKit] Update Temperatur Garten
+[16:08:10] [HomeKit] Update Feuchtigkeit Garten
+[16:14:05] [HomeKit] HAP-NodeJS starting...
+[16:14:06] [HomeKit] Verbinde zur Datenbank...
+[16:14:06] [HomeKit] Verbunden!
+[16:14:06] [HomeKit] Lade Pin...
+[16:14:06] [HomeKit]                        
+[16:14:06] [HomeKit]     ┌────────────┐     
+[16:14:06] [HomeKit]     │ 031-45-154 │     
+[16:14:06] [HomeKit]     └────────────┘     
+[16:14:06] [HomeKit]                        
+[16:14:06] [HomeKit] Lade alle Objekte die für HomeKit aktiviert sind...
+[16:14:06] [HomeKit] Username von Arbeitszimmer Rolllade Kindergarten 27:C3:E2:D2:E3:FE
+[16:14:06] [HomeKit] Registriere Objekte Arbeitszimmer Rolllade Kindergarten in HomeKit...
+[16:14:06] [HomeKit] Username von Subwoofer Nils Zimmer 73:66:36:32:E3:7C
+[16:14:06] [HomeKit] Registriere Objekte Subwoofer Nils Zimmer in HomeKit...
+[16:14:06] [HomeKit] Username von Treppe Licht Pflanze 7F:CD:FE:DC:77:6F
+[16:14:06] [HomeKit] Registriere Objekte Treppe Licht Pflanze in HomeKit...
+[16:14:06] [HomeKit] Username von Gäste WC Rolllade E6:F6:FD:36:D6:6D
+[16:14:06] [HomeKit] Registriere Objekte Gäste WC Rolllade in HomeKit...
+[16:14:06] [HomeKit] Username von Nils Rolllade 66:DC:DE:62:D6:CC
+[16:14:06] [HomeKit] Registriere Objekte Nils Rolllade in HomeKit...
+[16:14:06] [HomeKit] Username von Nils Dachboden Licht F7:77:DC:D7:66:ED
+[16:14:06] [HomeKit] Registriere Objekte Nils Dachboden Licht in HomeKit...
+[16:14:06] [HomeKit] Username von Keller Licht 77:FC:7C:CC:F6:CD
+[16:14:06] [HomeKit] Registriere Objekte Keller Licht in HomeKit...
+[16:14:06] [HomeKit] Username von Fernseher 67:66:FD:E7:EE:FE
+[16:14:06] [HomeKit] Registriere Objekte Fernseher in HomeKit...
+[16:14:06] [HomeKit] Username von Kompressor F6:C2:D7:DF:37:F7
+[16:14:06] [HomeKit] Registriere Objekte Kompressor in HomeKit...
+[16:14:06] [HomeKit] Username von Wohnzimmer Rolllade Tür C3:2F:2F:6E:62:D2
+[16:14:06] [HomeKit] Registriere Objekte Wohnzimmer Rolllade Tür in HomeKit...
+[16:14:06] [HomeKit] Username von Temperatur Garten CF:76:3C:CE:FD:E7
+[16:14:06] [HomeKit] Registriere Objekte Temperatur Garten in HomeKit...
+[16:14:06] [HomeKit] Username von Wohnzimmer Rolllade Fenster D3:36:27:F3:3E:6E
+[16:14:06] [HomeKit] Registriere Objekte Wohnzimmer Rolllade Fenster in HomeKit...
+[16:14:06] [HomeKit] Username von Brunnen 33:F2:37:EE:DD:27
+[16:14:06] [HomeKit] Registriere Objekte Brunnen in HomeKit...
+[16:14:06] [HomeKit] Username von Arbeitszimmer Licht DC:73:2D:E7:3F:FC
+[16:14:06] [HomeKit] Registriere Objekte Arbeitszimmer Licht in HomeKit...
+[16:14:06] [HomeKit] Username von Temperatur Wohnzimmer 2C:36:23:CE:73:32
+[16:14:06] [HomeKit] Registriere Objekte Temperatur Wohnzimmer in HomeKit...
+[16:14:06] [HomeKit] Username von Fake Temperature F6:F7:6C:2F:C6:FF
+[16:14:06] [HomeKit] Registriere Objekte Fake Temperature in HomeKit...
+[16:14:06] [HomeKit] Username von Feuchtigkeit Garten 72:FD:FE:6E:F2:C7
+[16:14:06] [HomeKit] Registriere Objekte Feuchtigkeit Garten in HomeKit...
+[16:14:06] [HomeKit] Username von Schlafzimmer Rolllade C7:DE:3F:F2:6F:EE
+[16:14:06] [HomeKit] Registriere Objekte Schlafzimmer Rolllade in HomeKit...
+[16:14:06] [HomeKit] Username von LED Kette Nils D7:FD:6C:6D:DE:67
+[16:14:06] [HomeKit] Registriere Objekte LED Kette Nils in HomeKit...
+[16:14:06] [HomeKit] Username von Arbeitszimmer Rolllade Garten F6:EF:76:F7:FE:D2
+[16:14:06] [HomeKit] Registriere Objekte Arbeitszimmer Rolllade Garten in HomeKit...
+[16:14:06] [HomeKit] Username von Feuchtigkeit Wohnzimmer CD:22:C3:67:F6:2D
+[16:14:06] [HomeKit] Registriere Objekte Feuchtigkeit Wohnzimmer in HomeKit...
+[16:14:06] [HomeKit] Username von Küche Rolllade 6D:D7:6E:D7:CC:DF
+[16:14:06] [HomeKit] Registriere Objekte Küche Rolllade in HomeKit...
+[16:14:06] [HomeKit] Username von Eingangs Flur Licht CE:F3:2C:2F:C7:DF
+[16:14:06] [HomeKit] Registriere Objekte Eingangs Flur Licht in HomeKit...
+[16:14:06] [HomeKit] Username von Nils Zimmer Licht ED:CD:F2:E3:EF:3F
+[16:14:06] [HomeKit] Registriere Objekte Nils Zimmer Licht in HomeKit...
+[16:14:06] [HomeKit] Registrations Vorgang wurde beendet.
+[16:14:08] [HomeKit] Update Küche Rolllade
+[16:14:10] [HomeKit] Update Wohnzimmer Rolllade Tür
+[16:14:15] [HomeKit] Update Nils Rolllade
+[16:14:16] [HomeKit] Update Arbeitszimmer Rolllade Garten
+[16:14:17] [HomeKit] Update Wohnzimmer Rolllade Tür
+[16:14:17] [HomeKit] Update Arbeitszimmer Rolllade Kindergarten
+[16:14:19] [HomeKit] Update Schlafzimmer Rolllade
+[16:14:19] [HomeKit] Update Nils Rolllade
+[16:14:20] [HomeKit] Update Küche Rolllade
+[16:14:20] [HomeKit] Update Arbeitszimmer Rolllade Garten
+[16:14:21] [HomeKit] Update Arbeitszimmer Rolllade Kindergarten
+[16:14:22] [HomeKit] Update Gäste WC Rolllade
+[16:14:22] [HomeKit] Update Schlafzimmer Rolllade
+[16:18:36] [HomeKit] Update Temperatur Garten
+[16:18:36] [HomeKit] Update Feuchtigkeit Garten
+[16:23:49] [HomeKit] Update Temperatur Garten
+[16:23:49] [HomeKit] Update Feuchtigkeit Garten
+[16:29:02] [HomeKit] Update Temperatur Garten
+[16:29:02] [HomeKit] Update Feuchtigkeit Garten
+[16:29:18] [HomeKit] Update Gäste WC Rolllade
+[16:30:57] [HomeKit] GET Anfrage für Kompressor
+[16:30:57] [HomeKit] GET Anfrage für Nils Zimmer Licht
+[16:30:57] [HomeKit] GET Anfrage für Nils Dachboden Licht
+[16:30:57] [HomeKit] GET Anfrage für Temperatur Garten
+[16:30:57] [HomeKit] GET Anfrage für Treppe Licht Pflanze
+[16:30:57] [HomeKit] GET Anfrage für Subwoofer Nils Zimmer
+[16:30:57] [HomeKit] GET Anfrage für Feuchtigkeit Garten
+[16:30:57] [HomeKit] GET Anfrage für LED Kette Nils
+[16:30:57] [HomeKit] GET Anfrage (CurrentPosition): Nils Rolllade | Current State: 100
+[16:30:57] [HomeKit] GET Anfrage (Target): Nils Rolllade | Current Target State: 100
+[16:30:59] [HomeKit] SET Befehlt: 0
+[16:30:59] [HomeKit] AUSSSSSS
+[16:30:59] [HomeKit] Callback
+[16:32:57] [HomeKit] GET Anfrage für Fernseher
+[16:32:57] [HomeKit] GET Anfrage für Brunnen
+[16:32:57] [HomeKit] GET Anfrage (Target): Nils Rolllade | Current Target State: 100
+[16:32:57] [HomeKit] GET Anfrage (CurrentPosition): Nils Rolllade | Current State: 100
+[16:32:57] [HomeKit] GET Anfrage für Temperatur Garten
+[16:32:57] [HomeKit] GET Anfrage (CurrentPosition): Wohnzimmer Rolllade Fenster | Current State: 100
+[16:32:57] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Fenster | Current Target State: 100
+[16:32:57] [HomeKit] GET Anfrage für Arbeitszimmer Licht
+[16:32:57] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Garten | Current Target State: 100
+[16:32:57] [HomeKit] GET Anfrage (CurrentPosition): Arbeitszimmer Rolllade Garten | Current State: 100
+[16:32:57] [HomeKit] GET Anfrage für Nils Zimmer Licht
+[16:32:57] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Tür | Current Target State: 100
+[16:32:57] [HomeKit] GET Anfrage (CurrentPosition): Wohnzimmer Rolllade Tür | Current State: 100
+[16:32:57] [HomeKit] GET Anfrage für Feuchtigkeit Wohnzimmer
+[16:32:57] [HomeKit] GET Anfrage für Kompressor
+[16:32:57] [HomeKit] GET Anfrage für Feuchtigkeit Garten
+[16:32:57] [HomeKit] GET Anfrage (CurrentPosition): Schlafzimmer Rolllade | Current State: 100
+[16:32:57] [HomeKit] GET Anfrage (Target): Schlafzimmer Rolllade | Current Target State: 100
+[16:32:57] [HomeKit] GET Anfrage (CurrentPosition): Küche Rolllade | Current State: 100
+[16:32:57] [HomeKit] GET Anfrage (Target): Küche Rolllade | Current Target State: 100
+[16:32:57] [HomeKit] GET Anfrage für Eingangs Flur Licht
+[16:32:57] [HomeKit] GET Anfrage für LED Kette Nils
+[16:32:57] [HomeKit] GET Anfrage für Nils Dachboden Licht
+[16:32:57] [HomeKit] GET Anfrage für Subwoofer Nils Zimmer
+[16:32:57] [HomeKit] GET Anfrage für Treppe Licht Pflanze
+[16:32:57] [HomeKit] GET Anfrage für Keller Licht
+[16:32:57] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Kindergarten | Current Target State: 100
+[16:32:57] [HomeKit] GET Anfrage (CurrentPosition): Arbeitszimmer Rolllade Kindergarten | Current State: 100
+[16:32:57] [HomeKit] GET Anfrage (CurrentPosition): Gäste WC Rolllade | Current State: 100
+[16:32:57] [HomeKit] GET Anfrage (Target): Gäste WC Rolllade | Current Target State: 100
+[16:32:58] [HomeKit] SET Befehlt: 1
+[16:32:58] [HomeKit] ANNNNNNN
+[16:32:58] [HomeKit] Callback
+[16:33:00] [HomeKit] SET Befehlt: 0
+[16:33:00] [HomeKit] AUSSSSSS
+[16:33:00] [HomeKit] Callback
+[16:34:15] [HomeKit] Update Temperatur Garten
+[16:34:15] [HomeKit] Update Feuchtigkeit Garten
+[16:36:09] [HomeKit] GET Anfrage für Nils Dachboden Licht
+[16:36:09] [HomeKit] GET Anfrage für Treppe Licht Pflanze
+[16:36:09] [HomeKit] GET Anfrage (Target): Nils Rolllade | Current Target State: 100
+[16:36:09] [HomeKit] GET Anfrage (CurrentPosition): Nils Rolllade | Current State: 100
+[16:36:09] [HomeKit] GET Anfrage für LED Kette Nils
+[16:36:09] [HomeKit] GET Anfrage für Nils Zimmer Licht
+[16:36:09] [HomeKit] GET Anfrage für Subwoofer Nils Zimmer
+[16:39:28] [HomeKit] Update Temperatur Garten
+[16:39:28] [HomeKit] Update Feuchtigkeit Garten
+[16:41:00] [HomeKit] GET Anfrage für Nils Dachboden Licht
+[16:41:00] [HomeKit] GET Anfrage für Treppe Licht Pflanze
+[16:41:00] [HomeKit] GET Anfrage (Target): Nils Rolllade | Current Target State: 100
+[16:41:00] [HomeKit] GET Anfrage (CurrentPosition): Nils Rolllade | Current State: 100
+[16:41:00] [HomeKit] GET Anfrage für LED Kette Nils
+[16:41:00] [HomeKit] GET Anfrage für Nils Zimmer Licht
+[16:41:00] [HomeKit] GET Anfrage für Subwoofer Nils Zimmer
+[16:41:12] [HomeKit] GET Anfrage für Fernseher
+[16:41:12] [HomeKit] GET Anfrage für Temperatur Garten
+[16:41:12] [HomeKit] GET Anfrage (CurrentPosition): Wohnzimmer Rolllade Fenster | Current State: 100
+[16:41:12] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Fenster | Current Target State: 100
+[16:41:12] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Garten | Current Target State: 100
+[16:41:12] [HomeKit] GET Anfrage (CurrentPosition): Arbeitszimmer Rolllade Garten | Current State: 100
+[16:41:12] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Tür | Current Target State: 100
+[16:41:12] [HomeKit] GET Anfrage (CurrentPosition): Wohnzimmer Rolllade Tür | Current State: 100
+[16:41:12] [HomeKit] GET Anfrage für Feuchtigkeit Wohnzimmer
+[16:41:12] [HomeKit] GET Anfrage für Kompressor
+[16:41:12] [HomeKit] GET Anfrage für Feuchtigkeit Garten
+[16:41:12] [HomeKit] GET Anfrage (CurrentPosition): Schlafzimmer Rolllade | Current State: 100
+[16:41:12] [HomeKit] GET Anfrage (Target): Schlafzimmer Rolllade | Current Target State: 100
+[16:41:12] [HomeKit] GET Anfrage (CurrentPosition): Küche Rolllade | Current State: 100
+[16:41:12] [HomeKit] GET Anfrage (Target): Küche Rolllade | Current Target State: 100
+[16:41:12] [HomeKit] GET Anfrage für Eingangs Flur Licht
+[16:41:12] [HomeKit] GET Anfrage für Keller Licht
+[16:41:12] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Kindergarten | Current Target State: 100
+[16:41:12] [HomeKit] GET Anfrage (CurrentPosition): Arbeitszimmer Rolllade Kindergarten | Current State: 100
+[16:41:12] [HomeKit] GET Anfrage (CurrentPosition): Gäste WC Rolllade | Current State: 100
+[16:41:12] [HomeKit] GET Anfrage (Target): Gäste WC Rolllade | Current Target State: 100
+[16:44:41] [HomeKit] Update Temperatur Garten
+[16:44:41] [HomeKit] Update Feuchtigkeit Garten
+[16:49:54] [HomeKit] Update Temperatur Garten
+[16:49:54] [HomeKit] Update Feuchtigkeit Garten
+[16:55:07] [HomeKit] Update Temperatur Garten
+[16:55:07] [HomeKit] Update Feuchtigkeit Garten
+[17:00:20] [HomeKit] Update Temperatur Garten
+[17:00:20] [HomeKit] Update Feuchtigkeit Garten
+[17:00:24] [HomeKit] Update Gäste WC Rolllade
+[17:01:43] [HomeKit] SET Befehlt: false
+[17:01:43] [HomeKit] AUSSSSSS
+[17:01:43] [HomeKit] SET Befehlt: false
+[17:01:43] [HomeKit] AUSSSSSS
+[17:01:43] [HomeKit] SET Befehltrue
+[17:01:43] [HomeKit] ANNNNNNN
+[17:01:43] [HomeKit] SET Befehlt: 1
+[17:01:43] [HomeKit] ANNNNNNN
+[17:01:43] [HomeKit] Callback
+[17:01:43] [HomeKit] Callback
+[17:01:43] [HomeKit] Callback
+[17:03:27] [HomeKit] Update Gäste WC Rolllade
+[17:03:59] [HomeKit] Update Gäste WC Rolllade
+[17:05:33] [HomeKit] Update Feuchtigkeit Garten
+[17:10:46] [HomeKit] Update Temperatur Garten
+[17:10:46] [HomeKit] Update Feuchtigkeit Garten
+[17:12:40] [HomeKit] Update Gäste WC Rolllade
+[17:12:44] [HomeKit] Update Gäste WC Rolllade
+[17:12:46] [HomeKit] Update Gäste WC Rolllade
+[17:15:59] [HomeKit] Update Feuchtigkeit Garten
+[17:17:39] [HomeKit] GET Anfrage für Fernseher
+[17:17:39] [HomeKit] GET Anfrage für Brunnen
+[17:17:39] [HomeKit] GET Anfrage (Target): Nils Rolllade | Current Target State: 100
+[17:17:39] [HomeKit] GET Anfrage (CurrentPosition): Nils Rolllade | Current State: 100
+[17:17:39] [HomeKit] GET Anfrage für Temperatur Garten
+[17:17:39] [HomeKit] GET Anfrage (CurrentPosition): Wohnzimmer Rolllade Fenster | Current State: 100
+[17:17:39] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Fenster | Current Target State: 100
+[17:17:39] [HomeKit] GET Anfrage für Arbeitszimmer Licht
+[17:17:39] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Garten | Current Target State: 100
+[17:17:39] [HomeKit] GET Anfrage (CurrentPosition): Arbeitszimmer Rolllade Garten | Current State: 100
+[17:17:39] [HomeKit] GET Anfrage für Nils Zimmer Licht
+[17:17:39] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Tür | Current Target State: 100
+[17:17:39] [HomeKit] GET Anfrage (CurrentPosition): Wohnzimmer Rolllade Tür | Current State: 100
+[17:17:39] [HomeKit] GET Anfrage für Feuchtigkeit Wohnzimmer
+[17:17:39] [HomeKit] GET Anfrage für Kompressor
+[17:17:39] [HomeKit] GET Anfrage für Feuchtigkeit Garten
+[17:17:39] [HomeKit] GET Anfrage (CurrentPosition): Schlafzimmer Rolllade | Current State: 100
+[17:17:39] [HomeKit] GET Anfrage (Target): Schlafzimmer Rolllade | Current Target State: 100
+[17:17:39] [HomeKit] GET Anfrage (CurrentPosition): Küche Rolllade | Current State: 100
+[17:17:39] [HomeKit] GET Anfrage (Target): Küche Rolllade | Current Target State: 100
+[17:17:39] [HomeKit] GET Anfrage für Eingangs Flur Licht
+[17:17:39] [HomeKit] GET Anfrage für LED Kette Nils
+[17:17:39] [HomeKit] GET Anfrage für Nils Dachboden Licht
+[17:17:39] [HomeKit] GET Anfrage für Subwoofer Nils Zimmer
+[17:17:39] [HomeKit] GET Anfrage für Treppe Licht Pflanze
+[17:17:39] [HomeKit] GET Anfrage für Keller Licht
+[17:17:39] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Kindergarten | Current Target State: 100
+[17:17:39] [HomeKit] GET Anfrage (CurrentPosition): Arbeitszimmer Rolllade Kindergarten | Current State: 100
+[17:17:39] [HomeKit] GET Anfrage (CurrentPosition): Gäste WC Rolllade | Current State: 100
+[17:17:39] [HomeKit] GET Anfrage (Target): Gäste WC Rolllade | Current Target State: 100
+[17:21:12] [HomeKit] Update Temperatur Garten
+[17:21:12] [HomeKit] Update Feuchtigkeit Garten
+[17:26:25] [HomeKit] Update Feuchtigkeit Garten
+[17:31:38] [HomeKit] Update Feuchtigkeit Garten
+[17:36:51] [HomeKit] Update Feuchtigkeit Garten
+[17:38:02] [HomeKit] Update Wohnzimmer Rolllade Tür
+[17:38:04] [HomeKit] Update Wohnzimmer Rolllade Fenster
+[17:38:05] [HomeKit] Update Küche Rolllade
+[17:38:07] [HomeKit] Update Gäste WC Rolllade
+[17:42:04] [HomeKit] Update Temperatur Garten
+[17:42:04] [HomeKit] Update Feuchtigkeit Garten
+[17:42:55] [HomeKit] Update Wohnzimmer Rolllade Tür
+[17:42:57] [HomeKit] Update Wohnzimmer Rolllade Fenster
+[17:42:59] [HomeKit] Update Küche Rolllade
+[17:43:02] [HomeKit] Update Gäste WC Rolllade
+[17:43:03] [HomeKit] Update Gäste WC Rolllade
+[17:43:05] [HomeKit] Update Wohnzimmer Rolllade Fenster
+[17:43:06] [HomeKit] Update Küche Rolllade
+[17:43:08] [HomeKit] Update Wohnzimmer Rolllade Tür
+[17:43:12] [HomeKit] Update Wohnzimmer Rolllade Tür
+[17:43:13] [HomeKit] Update Nils Rolllade
+[17:43:13] [HomeKit] Update Wohnzimmer Rolllade Tür
+[17:43:14] [HomeKit] Update Arbeitszimmer Rolllade Garten
+[17:43:15] [HomeKit] Update Arbeitszimmer Rolllade Kindergarten
+[17:43:15] [HomeKit] Update Wohnzimmer Rolllade Fenster
+[17:43:16] [HomeKit] Update Schlafzimmer Rolllade
+[17:43:19] [HomeKit] Update Gäste WC Rolllade
+[17:43:23] [HomeKit] Update Wohnzimmer Rolllade Fenster
+[17:43:25] [HomeKit] Update Gäste WC Rolllade
+[17:47:17] [HomeKit] Update Feuchtigkeit Garten
+[17:48:57] [HomeKit] Update Wohnzimmer Rolllade Fenster
+[17:48:58] [HomeKit] Update Wohnzimmer Rolllade Tür
+[17:48:59] [HomeKit] Update Küche Rolllade
+[17:49:00] [HomeKit] Update Gäste WC Rolllade
+[17:49:44] [HomeKit] Update Gäste WC Rolllade
+[17:52:30] [HomeKit] Update Temperatur Garten
+[17:52:30] [HomeKit] Update Feuchtigkeit Garten
+[17:57:44] [HomeKit] Update Temperatur Garten
+[17:57:44] [HomeKit] Update Feuchtigkeit Garten
+[18:02:57] [HomeKit] Update Temperatur Garten
+[18:02:57] [HomeKit] Update Feuchtigkeit Garten
+[18:08:10] [HomeKit] Update Temperatur Garten
+[18:08:10] [HomeKit] Update Feuchtigkeit Garten
+[18:12:20] [HomeKit] Update Gäste WC Rolllade
+[18:13:23] [HomeKit] Update Feuchtigkeit Garten
+[18:15:15] [HomeKit] Update Gäste WC Rolllade
+[18:15:26] [HomeKit] Update Gäste WC Rolllade
+[18:15:27] [HomeKit] Update Gäste WC Rolllade
+[18:34:15] [HomeKit] Update Temperatur Garten
+[18:34:15] [HomeKit] Update Feuchtigkeit Garten
+[18:47:19] [HomeKit] HAP-NodeJS starting...
+[18:47:19] [HomeKit] Verbinde zur Datenbank...
+[18:47:19] [HomeKit] Verbunden!
+[18:47:19] [HomeKit] Lade Pin...
+[18:47:19] [HomeKit]                        
+[18:47:19] [HomeKit]     ┌────────────┐     
+[18:47:19] [HomeKit]     │ 031-45-154 │     
+[18:47:19] [HomeKit]     └────────────┘     
+[18:47:19] [HomeKit]                        
+[18:47:19] [HomeKit] Lade alle Objekte die für HomeKit aktiviert sind...
+[18:47:19] [HomeKit] Username von Arbeitszimmer Rolllade Kindergarten 27:C3:E2:D2:E3:FE
+[18:47:19] [HomeKit] Registriere Objekte Arbeitszimmer Rolllade Kindergarten in HomeKit...
+[18:47:19] [HomeKit] Username von Subwoofer Nils Zimmer 73:66:36:32:E3:7C
+[18:47:19] [HomeKit] Registriere Objekte Subwoofer Nils Zimmer in HomeKit...
+[18:47:19] [HomeKit] Username von Treppe Licht Pflanze 7F:CD:FE:DC:77:6F
+[18:47:19] [HomeKit] Registriere Objekte Treppe Licht Pflanze in HomeKit...
+[18:47:19] [HomeKit] Username von Gäste WC Rolllade E6:F6:FD:36:D6:6D
+[18:47:19] [HomeKit] Registriere Objekte Gäste WC Rolllade in HomeKit...
+[18:47:19] [HomeKit] Username von Nils Rolllade 66:DC:DE:62:D6:CC
+[18:47:19] [HomeKit] Registriere Objekte Nils Rolllade in HomeKit...
+[18:47:19] [HomeKit] Username von Nils Dachboden Licht F7:77:DC:D7:66:ED
+[18:47:19] [HomeKit] Registriere Objekte Nils Dachboden Licht in HomeKit...
+[18:47:19] [HomeKit] Username von Keller Licht 77:FC:7C:CC:F6:CD
+[18:47:19] [HomeKit] Registriere Objekte Keller Licht in HomeKit...
+[18:47:19] [HomeKit] Username von Fernseher 67:66:FD:E7:EE:FE
+[18:47:19] [HomeKit] Registriere Objekte Fernseher in HomeKit...
+[18:47:19] [HomeKit] Username von Kompressor F6:C2:D7:DF:37:F7
+[18:47:19] [HomeKit] Registriere Objekte Kompressor in HomeKit...
+[18:47:19] [HomeKit] Username von Wohnzimmer Rolllade Tür C3:2F:2F:6E:62:D2
+[18:47:19] [HomeKit] Registriere Objekte Wohnzimmer Rolllade Tür in HomeKit...
+[18:47:19] [HomeKit] Username von Temperatur Garten CF:76:3C:CE:FD:E7
+[18:47:19] [HomeKit] Registriere Objekte Temperatur Garten in HomeKit...
+[18:47:19] [HomeKit] Username von Wohnzimmer Rolllade Fenster D3:36:27:F3:3E:6E
+[18:47:19] [HomeKit] Registriere Objekte Wohnzimmer Rolllade Fenster in HomeKit...
+[18:47:19] [HomeKit] Username von Brunnen 33:F2:37:EE:DD:27
+[18:47:19] [HomeKit] Registriere Objekte Brunnen in HomeKit...
+[18:47:19] [HomeKit] Username von Arbeitszimmer Licht DC:73:2D:E7:3F:FC
+[18:47:19] [HomeKit] Registriere Objekte Arbeitszimmer Licht in HomeKit...
+[18:47:19] [HomeKit] Username von Temperatur Wohnzimmer 2C:36:23:CE:73:32
+[18:47:19] [HomeKit] Registriere Objekte Temperatur Wohnzimmer in HomeKit...
+[18:47:19] [HomeKit] Username von Fake Temperature F6:F7:6C:2F:C6:FF
+[18:47:19] [HomeKit] Registriere Objekte Fake Temperature in HomeKit...
+[18:47:19] [HomeKit] Username von Feuchtigkeit Garten 72:FD:FE:6E:F2:C7
+[18:47:19] [HomeKit] Registriere Objekte Feuchtigkeit Garten in HomeKit...
+[18:47:19] [HomeKit] Username von Schlafzimmer Rolllade C7:DE:3F:F2:6F:EE
+[18:47:19] [HomeKit] Registriere Objekte Schlafzimmer Rolllade in HomeKit...
+[18:47:19] [HomeKit] Username von LED Kette Nils D7:FD:6C:6D:DE:67
+[18:47:19] [HomeKit] Registriere Objekte LED Kette Nils in HomeKit...
+[18:47:19] [HomeKit] Username von Arbeitszimmer Rolllade Garten F6:EF:76:F7:FE:D2
+[18:47:19] [HomeKit] Registriere Objekte Arbeitszimmer Rolllade Garten in HomeKit...
+[18:47:19] [HomeKit] Username von Feuchtigkeit Wohnzimmer CD:22:C3:67:F6:2D
+[18:47:19] [HomeKit] Registriere Objekte Feuchtigkeit Wohnzimmer in HomeKit...
+[18:47:19] [HomeKit] Username von Küche Rolllade 6D:D7:6E:D7:CC:DF
+[18:47:19] [HomeKit] Registriere Objekte Küche Rolllade in HomeKit...
+[18:47:19] [HomeKit] Username von Eingangs Flur Licht CE:F3:2C:2F:C7:DF
+[18:47:19] [HomeKit] Registriere Objekte Eingangs Flur Licht in HomeKit...
+[18:47:19] [HomeKit] Username von Nils Zimmer Licht ED:CD:F2:E3:EF:3F
+[18:47:19] [HomeKit] Registriere Objekte Nils Zimmer Licht in HomeKit...
+[18:47:19] [HomeKit] Registrations Vorgang wurde beendet.
+[18:49:23] [HomeKit] HAP-NodeJS starting...
+[18:49:24] [HomeKit] Verbinde zur Datenbank...
+[18:49:24] [HomeKit] Verbunden!
+[18:49:24] [HomeKit] Lade Pin...
+[18:49:24] [HomeKit]                        
+[18:49:24] [HomeKit]     ┌────────────┐     
+[18:49:24] [HomeKit]     │ 031-45-154 │     
+[18:49:24] [HomeKit]     └────────────┘     
+[18:49:24] [HomeKit]                        
+[18:49:24] [HomeKit] Lade alle Objekte die für HomeKit aktiviert sind...
+[18:49:24] [HomeKit] Username von Arbeitszimmer Rolllade Kindergarten 27:C3:E2:D2:E3:FE
+[18:49:24] [HomeKit] Registriere Objekte Arbeitszimmer Rolllade Kindergarten in HomeKit...
+[18:49:24] [HomeKit] Username von Subwoofer Nils Zimmer 73:66:36:32:E3:7C
+[18:49:24] [HomeKit] Registriere Objekte Subwoofer Nils Zimmer in HomeKit...
+[18:49:24] [HomeKit] Username von Treppe Licht Pflanze 7F:CD:FE:DC:77:6F
+[18:49:24] [HomeKit] Registriere Objekte Treppe Licht Pflanze in HomeKit...
+[18:49:24] [HomeKit] Username von Gäste WC Rolllade E6:F6:FD:36:D6:6D
+[18:49:24] [HomeKit] Registriere Objekte Gäste WC Rolllade in HomeKit...
+[18:49:24] [HomeKit] Username von Nils Rolllade 66:DC:DE:62:D6:CC
+[18:49:24] [HomeKit] Registriere Objekte Nils Rolllade in HomeKit...
+[18:49:24] [HomeKit] Username von Nils Dachboden Licht F7:77:DC:D7:66:ED
+[18:49:24] [HomeKit] Registriere Objekte Nils Dachboden Licht in HomeKit...
+[18:49:24] [HomeKit] Username von Keller Licht 77:FC:7C:CC:F6:CD
+[18:49:24] [HomeKit] Registriere Objekte Keller Licht in HomeKit...
+[18:49:24] [HomeKit] Username von Fernseher 67:66:FD:E7:EE:FE
+[18:49:24] [HomeKit] Registriere Objekte Fernseher in HomeKit...
+[18:49:24] [HomeKit] Username von Kompressor F6:C2:D7:DF:37:F7
+[18:49:24] [HomeKit] Registriere Objekte Kompressor in HomeKit...
+[18:49:24] [HomeKit] Username von Wohnzimmer Rolllade Tür C3:2F:2F:6E:62:D2
+[18:49:24] [HomeKit] Registriere Objekte Wohnzimmer Rolllade Tür in HomeKit...
+[18:49:24] [HomeKit] Username von Temperatur Garten CF:76:3C:CE:FD:E7
+[18:49:24] [HomeKit] Registriere Objekte Temperatur Garten in HomeKit...
+[18:49:24] [HomeKit] Username von Wohnzimmer Rolllade Fenster D3:36:27:F3:3E:6E
+[18:49:24] [HomeKit] Registriere Objekte Wohnzimmer Rolllade Fenster in HomeKit...
+[18:49:24] [HomeKit] Username von Brunnen 33:F2:37:EE:DD:27
+[18:49:24] [HomeKit] Registriere Objekte Brunnen in HomeKit...
+[18:49:24] [HomeKit] Username von Arbeitszimmer Licht DC:73:2D:E7:3F:FC
+[18:49:24] [HomeKit] Registriere Objekte Arbeitszimmer Licht in HomeKit...
+[18:49:24] [HomeKit] Username von Temperatur Wohnzimmer 2C:36:23:CE:73:32
+[18:49:24] [HomeKit] Registriere Objekte Temperatur Wohnzimmer in HomeKit...
+[18:49:24] [HomeKit] Username von Fake Temperature F6:F7:6C:2F:C6:FF
+[18:49:24] [HomeKit] Registriere Objekte Fake Temperature in HomeKit...
+[18:49:24] [HomeKit] Username von Feuchtigkeit Garten 72:FD:FE:6E:F2:C7
+[18:49:24] [HomeKit] Registriere Objekte Feuchtigkeit Garten in HomeKit...
+[18:49:24] [HomeKit] Username von Schlafzimmer Rolllade C7:DE:3F:F2:6F:EE
+[18:49:24] [HomeKit] Registriere Objekte Schlafzimmer Rolllade in HomeKit...
+[18:49:24] [HomeKit] Username von LED Kette Nils D7:FD:6C:6D:DE:67
+[18:49:24] [HomeKit] Registriere Objekte LED Kette Nils in HomeKit...
+[18:49:24] [HomeKit] Username von Arbeitszimmer Rolllade Garten F6:EF:76:F7:FE:D2
+[18:49:24] [HomeKit] Registriere Objekte Arbeitszimmer Rolllade Garten in HomeKit...
+[18:49:24] [HomeKit] Username von Feuchtigkeit Wohnzimmer CD:22:C3:67:F6:2D
+[18:49:24] [HomeKit] Registriere Objekte Feuchtigkeit Wohnzimmer in HomeKit...
+[18:49:24] [HomeKit] Username von Küche Rolllade 6D:D7:6E:D7:CC:DF
+[18:49:24] [HomeKit] Registriere Objekte Küche Rolllade in HomeKit...
+[18:49:24] [HomeKit] Username von Eingangs Flur Licht CE:F3:2C:2F:C7:DF
+[18:49:24] [HomeKit] Registriere Objekte Eingangs Flur Licht in HomeKit...
+[18:49:24] [HomeKit] Username von Nils Zimmer Licht ED:CD:F2:E3:EF:3F
+[18:49:24] [HomeKit] Registriere Objekte Nils Zimmer Licht in HomeKit...
+[18:49:24] [HomeKit] Registrations Vorgang wurde beendet.
+[18:49:27] [HomeKit] Update Wohnzimmer Rolllade Tür
+[18:49:27] [HomeKit] Update Gäste WC Rolllade
+[18:49:46] [HomeKit] Update Wohnzimmer Rolllade Tür
+[18:49:47] [HomeKit] Update Küche Rolllade
+[18:49:54] [HomeKit] Update Temperatur Garten
+[18:49:54] [HomeKit] Update Feuchtigkeit Garten
+[18:55:07] [HomeKit] Update Feuchtigkeit Garten
+[19:08:35] [HomeKit] HAP-NodeJS starting...
+[19:08:35] [HomeKit] Verbinde zur Datenbank...
+[19:08:35] [HomeKit] Verbunden!
+[19:08:35] [HomeKit] Lade Pin...
+[19:08:35] [HomeKit]                        
+[19:08:35] [HomeKit]     ┌────────────┐     
+[19:08:35] [HomeKit]     │ 031-45-154 │     
+[19:08:35] [HomeKit]     └────────────┘     
+[19:08:35] [HomeKit]                        
+[19:08:35] [HomeKit] Lade alle Objekte die für HomeKit aktiviert sind...
+[19:08:35] [HomeKit] Username von Arbeitszimmer Rolllade Kindergarten 27:C3:E2:D2:E3:FE
+[19:08:35] [HomeKit] Registriere Objekte Arbeitszimmer Rolllade Kindergarten in HomeKit...
+[19:08:35] [HomeKit] Username von Subwoofer Nils Zimmer 73:66:36:32:E3:7C
+[19:08:35] [HomeKit] Registriere Objekte Subwoofer Nils Zimmer in HomeKit...
+[19:08:35] [HomeKit] Username von Treppe Licht Pflanze 7F:CD:FE:DC:77:6F
+[19:08:35] [HomeKit] Registriere Objekte Treppe Licht Pflanze in HomeKit...
+[19:08:35] [HomeKit] Username von Gäste WC Rolllade E6:F6:FD:36:D6:6D
+[19:08:35] [HomeKit] Registriere Objekte Gäste WC Rolllade in HomeKit...
+[19:08:35] [HomeKit] Username von Nils Rolllade 66:DC:DE:62:D6:CC
+[19:08:35] [HomeKit] Registriere Objekte Nils Rolllade in HomeKit...
+[19:08:35] [HomeKit] Username von Nils Dachboden Licht F7:77:DC:D7:66:ED
+[19:08:35] [HomeKit] Registriere Objekte Nils Dachboden Licht in HomeKit...
+[19:08:35] [HomeKit] Username von Keller Licht 77:FC:7C:CC:F6:CD
+[19:08:35] [HomeKit] Registriere Objekte Keller Licht in HomeKit...
+[19:08:35] [HomeKit] Username von Fernseher 67:66:FD:E7:EE:FE
+[19:08:35] [HomeKit] Registriere Objekte Fernseher in HomeKit...
+[19:08:35] [HomeKit] Username von Kompressor F6:C2:D7:DF:37:F7
+[19:08:35] [HomeKit] Registriere Objekte Kompressor in HomeKit...
+[19:08:35] [HomeKit] Username von Wohnzimmer Rolllade Tür C3:2F:2F:6E:62:D2
+[19:08:35] [HomeKit] Registriere Objekte Wohnzimmer Rolllade Tür in HomeKit...
+[19:08:35] [HomeKit] Username von Temperatur Garten CF:76:3C:CE:FD:E7
+[19:08:35] [HomeKit] Registriere Objekte Temperatur Garten in HomeKit...
+[19:08:35] [HomeKit] Username von Wohnzimmer Rolllade Fenster D3:36:27:F3:3E:6E
+[19:08:35] [HomeKit] Registriere Objekte Wohnzimmer Rolllade Fenster in HomeKit...
+[19:08:35] [HomeKit] Username von Brunnen 33:F2:37:EE:DD:27
+[19:08:35] [HomeKit] Registriere Objekte Brunnen in HomeKit...
+[19:08:35] [HomeKit] Username von Arbeitszimmer Licht DC:73:2D:E7:3F:FC
+[19:08:35] [HomeKit] Registriere Objekte Arbeitszimmer Licht in HomeKit...
+[19:08:35] [HomeKit] Username von Temperatur Wohnzimmer 2C:36:23:CE:73:32
+[19:08:35] [HomeKit] Registriere Objekte Temperatur Wohnzimmer in HomeKit...
+[19:08:35] [HomeKit] Username von Fake Temperature F6:F7:6C:2F:C6:FF
+[19:08:35] [HomeKit] Registriere Objekte Fake Temperature in HomeKit...
+[19:08:35] [HomeKit] Username von Feuchtigkeit Garten 72:FD:FE:6E:F2:C7
+[19:08:35] [HomeKit] Registriere Objekte Feuchtigkeit Garten in HomeKit...
+[19:08:35] [HomeKit] Username von Schlafzimmer Rolllade C7:DE:3F:F2:6F:EE
+[19:08:35] [HomeKit] Registriere Objekte Schlafzimmer Rolllade in HomeKit...
+[19:08:35] [HomeKit] Username von LED Kette Nils D7:FD:6C:6D:DE:67
+[19:08:35] [HomeKit] Registriere Objekte LED Kette Nils in HomeKit...
+[19:08:35] [HomeKit] Username von Arbeitszimmer Rolllade Garten F6:EF:76:F7:FE:D2
+[19:08:35] [HomeKit] Registriere Objekte Arbeitszimmer Rolllade Garten in HomeKit...
+[19:08:35] [HomeKit] Username von Feuchtigkeit Wohnzimmer CD:22:C3:67:F6:2D
+[19:08:35] [HomeKit] Registriere Objekte Feuchtigkeit Wohnzimmer in HomeKit...
+[19:08:35] [HomeKit] Username von Küche Rolllade 6D:D7:6E:D7:CC:DF
+[19:08:35] [HomeKit] Registriere Objekte Küche Rolllade in HomeKit...
+[19:08:35] [HomeKit] Username von Eingangs Flur Licht CE:F3:2C:2F:C7:DF
+[19:08:35] [HomeKit] Registriere Objekte Eingangs Flur Licht in HomeKit...
+[19:08:35] [HomeKit] Username von Nils Zimmer Licht ED:CD:F2:E3:EF:3F
+[19:08:35] [HomeKit] Registriere Objekte Nils Zimmer Licht in HomeKit...
+[19:08:35] [HomeKit] Registrations Vorgang wurde beendet.
+[19:08:38] [HomeKit] Update Wohnzimmer Rolllade Tür
+[19:08:38] [HomeKit] Update Küche Rolllade
+[19:10:46] [HomeKit] Update Temperatur Garten
+[19:15:59] [HomeKit] Update Temperatur Garten
+[19:19:16] [HomeKit] HAP-NodeJS starting...
+[19:19:17] [HomeKit] Verbinde zur Datenbank...
+[19:19:17] [HomeKit] Verbunden!
+[19:19:17] [HomeKit] Lade Pin...
+[19:19:17] [HomeKit]                        
+[19:19:17] [HomeKit]     ┌────────────┐     
+[19:19:17] [HomeKit]     │ 031-45-154 │     
+[19:19:17] [HomeKit]     └────────────┘     
+[19:19:17] [HomeKit]                        
+[19:19:17] [HomeKit] Lade alle Objekte die für HomeKit aktiviert sind...
+[19:19:17] [HomeKit] Username von Arbeitszimmer Rolllade Kindergarten 27:C3:E2:D2:E3:FE
+[19:19:17] [HomeKit] Registriere Objekte Arbeitszimmer Rolllade Kindergarten in HomeKit...
+[19:19:17] [HomeKit] Username von Subwoofer Nils Zimmer 73:66:36:32:E3:7C
+[19:19:17] [HomeKit] Registriere Objekte Subwoofer Nils Zimmer in HomeKit...
+[19:19:17] [HomeKit] Username von Treppe Licht Pflanze 7F:CD:FE:DC:77:6F
+[19:19:17] [HomeKit] Registriere Objekte Treppe Licht Pflanze in HomeKit...
+[19:19:17] [HomeKit] Username von Gäste WC Rolllade E6:F6:FD:36:D6:6D
+[19:19:17] [HomeKit] Registriere Objekte Gäste WC Rolllade in HomeKit...
+[19:19:17] [HomeKit] Username von Nils Rolllade 66:DC:DE:62:D6:CC
+[19:19:17] [HomeKit] Registriere Objekte Nils Rolllade in HomeKit...
+[19:19:17] [HomeKit] Username von Nils Dachboden Licht F7:77:DC:D7:66:ED
+[19:19:17] [HomeKit] Registriere Objekte Nils Dachboden Licht in HomeKit...
+[19:19:17] [HomeKit] Username von Keller Licht 77:FC:7C:CC:F6:CD
+[19:19:17] [HomeKit] Registriere Objekte Keller Licht in HomeKit...
+[19:19:17] [HomeKit] Username von Fernseher 67:66:FD:E7:EE:FE
+[19:19:17] [HomeKit] Registriere Objekte Fernseher in HomeKit...
+[19:19:17] [HomeKit] Username von Kompressor F6:C2:D7:DF:37:F7
+[19:19:17] [HomeKit] Registriere Objekte Kompressor in HomeKit...
+[19:19:17] [HomeKit] Username von Wohnzimmer Rolllade Tür C3:2F:2F:6E:62:D2
+[19:19:17] [HomeKit] Registriere Objekte Wohnzimmer Rolllade Tür in HomeKit...
+[19:19:17] [HomeKit] Username von Temperatur Garten CF:76:3C:CE:FD:E7
+[19:19:17] [HomeKit] Registriere Objekte Temperatur Garten in HomeKit...
+[19:19:17] [HomeKit] Username von Wohnzimmer Rolllade Fenster D3:36:27:F3:3E:6E
+[19:19:17] [HomeKit] Registriere Objekte Wohnzimmer Rolllade Fenster in HomeKit...
+[19:19:17] [HomeKit] Username von Brunnen 33:F2:37:EE:DD:27
+[19:19:17] [HomeKit] Registriere Objekte Brunnen in HomeKit...
+[19:19:17] [HomeKit] Username von Arbeitszimmer Licht DC:73:2D:E7:3F:FC
+[19:19:17] [HomeKit] Registriere Objekte Arbeitszimmer Licht in HomeKit...
+[19:19:17] [HomeKit] Username von Temperatur Wohnzimmer 2C:36:23:CE:73:32
+[19:19:17] [HomeKit] Registriere Objekte Temperatur Wohnzimmer in HomeKit...
+[19:19:17] [HomeKit] Username von Fake Temperature F6:F7:6C:2F:C6:FF
+[19:19:17] [HomeKit] Registriere Objekte Fake Temperature in HomeKit...
+[19:19:17] [HomeKit] Username von Feuchtigkeit Garten 72:FD:FE:6E:F2:C7
+[19:19:17] [HomeKit] Registriere Objekte Feuchtigkeit Garten in HomeKit...
+[19:19:17] [HomeKit] Username von Schlafzimmer Rolllade C7:DE:3F:F2:6F:EE
+[19:19:17] [HomeKit] Registriere Objekte Schlafzimmer Rolllade in HomeKit...
+[19:19:17] [HomeKit] Username von LED Kette Nils D7:FD:6C:6D:DE:67
+[19:19:17] [HomeKit] Registriere Objekte LED Kette Nils in HomeKit...
+[19:19:17] [HomeKit] Username von Arbeitszimmer Rolllade Garten F6:EF:76:F7:FE:D2
+[19:19:17] [HomeKit] Registriere Objekte Arbeitszimmer Rolllade Garten in HomeKit...
+[19:19:17] [HomeKit] Username von Feuchtigkeit Wohnzimmer CD:22:C3:67:F6:2D
+[19:19:17] [HomeKit] Registriere Objekte Feuchtigkeit Wohnzimmer in HomeKit...
+[19:19:17] [HomeKit] Username von Küche Rolllade 6D:D7:6E:D7:CC:DF
+[19:19:17] [HomeKit] Registriere Objekte Küche Rolllade in HomeKit...
+[19:19:17] [HomeKit] Username von Eingangs Flur Licht CE:F3:2C:2F:C7:DF
+[19:19:17] [HomeKit] Registriere Objekte Eingangs Flur Licht in HomeKit...
+[19:19:17] [HomeKit] Username von Nils Zimmer Licht ED:CD:F2:E3:EF:3F
+[19:19:17] [HomeKit] Registriere Objekte Nils Zimmer Licht in HomeKit...
+[19:19:17] [HomeKit] Registrations Vorgang wurde beendet.
+[19:21:12] [HomeKit] Update Temperatur Garten
+[19:21:12] [HomeKit] Update Feuchtigkeit Garten
+[19:25:21] [HomeKit] Update Wohnzimmer Rolllade Tür
+[19:25:27] [HomeKit] Update Wohnzimmer Rolllade Tür
+[19:26:25] [HomeKit] Update Feuchtigkeit Garten
+[19:28:27] [HomeKit] Update Wohnzimmer Rolllade Tür
+[19:28:29] [HomeKit] Update Wohnzimmer Rolllade Fenster
+[19:28:30] [HomeKit] Update Küche Rolllade
+[19:28:32] [HomeKit] Update Gäste WC Rolllade
+[19:30:25] [HomeKit] HAP-NodeJS starting...
+[19:30:25] [HomeKit] Verbinde zur Datenbank...
+[19:30:25] [HomeKit] Verbunden!
+[19:30:25] [HomeKit] Lade Pin...
+[19:30:25] [HomeKit]                        
+[19:30:25] [HomeKit]     ┌────────────┐     
+[19:30:25] [HomeKit]     │ 031-45-154 │     
+[19:30:25] [HomeKit]     └────────────┘     
+[19:30:25] [HomeKit]                        
+[19:30:25] [HomeKit] Lade alle Objekte die für HomeKit aktiviert sind...
+[19:30:25] [HomeKit] Username von Arbeitszimmer Rolllade Kindergarten 27:C3:E2:D2:E3:FE
+[19:30:25] [HomeKit] Registriere Objekte Arbeitszimmer Rolllade Kindergarten in HomeKit...
+[19:30:25] [HomeKit] Username von Subwoofer Nils Zimmer 73:66:36:32:E3:7C
+[19:30:25] [HomeKit] Registriere Objekte Subwoofer Nils Zimmer in HomeKit...
+[19:30:25] [HomeKit] Username von Treppe Licht Pflanze 7F:CD:FE:DC:77:6F
+[19:30:25] [HomeKit] Registriere Objekte Treppe Licht Pflanze in HomeKit...
+[19:30:25] [HomeKit] Username von Gäste WC Rolllade E6:F6:FD:36:D6:6D
+[19:30:25] [HomeKit] Registriere Objekte Gäste WC Rolllade in HomeKit...
+[19:30:25] [HomeKit] Username von Nils Rolllade 66:DC:DE:62:D6:CC
+[19:30:25] [HomeKit] Registriere Objekte Nils Rolllade in HomeKit...
+[19:30:25] [HomeKit] Username von Nils Dachboden Licht F7:77:DC:D7:66:ED
+[19:30:25] [HomeKit] Registriere Objekte Nils Dachboden Licht in HomeKit...
+[19:30:25] [HomeKit] Username von Keller Licht 77:FC:7C:CC:F6:CD
+[19:30:25] [HomeKit] Registriere Objekte Keller Licht in HomeKit...
+[19:30:25] [HomeKit] Username von Fernseher 67:66:FD:E7:EE:FE
+[19:30:25] [HomeKit] Registriere Objekte Fernseher in HomeKit...
+[19:30:25] [HomeKit] Username von Kompressor F6:C2:D7:DF:37:F7
+[19:30:25] [HomeKit] Registriere Objekte Kompressor in HomeKit...
+[19:30:25] [HomeKit] Username von Wohnzimmer Rolllade Tür C3:2F:2F:6E:62:D2
+[19:30:25] [HomeKit] Registriere Objekte Wohnzimmer Rolllade Tür in HomeKit...
+[19:30:25] [HomeKit] Username von Temperatur Garten CF:76:3C:CE:FD:E7
+[19:30:25] [HomeKit] Registriere Objekte Temperatur Garten in HomeKit...
+[19:30:25] [HomeKit] Username von Wohnzimmer Rolllade Fenster D3:36:27:F3:3E:6E
+[19:30:25] [HomeKit] Registriere Objekte Wohnzimmer Rolllade Fenster in HomeKit...
+[19:30:25] [HomeKit] Username von Brunnen 33:F2:37:EE:DD:27
+[19:30:25] [HomeKit] Registriere Objekte Brunnen in HomeKit...
+[19:30:25] [HomeKit] Username von Arbeitszimmer Licht DC:73:2D:E7:3F:FC
+[19:30:25] [HomeKit] Registriere Objekte Arbeitszimmer Licht in HomeKit...
+[19:30:25] [HomeKit] Username von Temperatur Wohnzimmer 2C:36:23:CE:73:32
+[19:30:25] [HomeKit] Registriere Objekte Temperatur Wohnzimmer in HomeKit...
+[19:30:25] [HomeKit] Username von Fake Temperature F6:F7:6C:2F:C6:FF
+[19:30:25] [HomeKit] Registriere Objekte Fake Temperature in HomeKit...
+[19:30:25] [HomeKit] Username von Feuchtigkeit Garten 72:FD:FE:6E:F2:C7
+[19:30:25] [HomeKit] Registriere Objekte Feuchtigkeit Garten in HomeKit...
+[19:30:25] [HomeKit] Username von Schlafzimmer Rolllade C7:DE:3F:F2:6F:EE
+[19:30:25] [HomeKit] Registriere Objekte Schlafzimmer Rolllade in HomeKit...
+[19:30:25] [HomeKit] Username von LED Kette Nils D7:FD:6C:6D:DE:67
+[19:30:25] [HomeKit] Registriere Objekte LED Kette Nils in HomeKit...
+[19:30:25] [HomeKit] Username von Arbeitszimmer Rolllade Garten F6:EF:76:F7:FE:D2
+[19:30:25] [HomeKit] Registriere Objekte Arbeitszimmer Rolllade Garten in HomeKit...
+[19:30:25] [HomeKit] Username von Feuchtigkeit Wohnzimmer CD:22:C3:67:F6:2D
+[19:30:25] [HomeKit] Registriere Objekte Feuchtigkeit Wohnzimmer in HomeKit...
+[19:30:25] [HomeKit] Username von Küche Rolllade 6D:D7:6E:D7:CC:DF
+[19:30:25] [HomeKit] Registriere Objekte Küche Rolllade in HomeKit...
+[19:30:25] [HomeKit] Username von Eingangs Flur Licht CE:F3:2C:2F:C7:DF
+[19:30:25] [HomeKit] Registriere Objekte Eingangs Flur Licht in HomeKit...
+[19:30:25] [HomeKit] Username von Nils Zimmer Licht ED:CD:F2:E3:EF:3F
+[19:30:25] [HomeKit] Registriere Objekte Nils Zimmer Licht in HomeKit...
+[19:30:25] [HomeKit] Registrations Vorgang wurde beendet.
+[19:30:28] [HomeKit] Update Wohnzimmer Rolllade Tür
+[19:30:28] [HomeKit] Update Küche Rolllade
+[19:30:28] [HomeKit] Update Küche Rolllade
+[19:30:28] [HomeKit] Update Gäste WC Rolllade
+[19:30:30] [HomeKit] Update Wohnzimmer Rolllade Tür
+[19:31:38] [HomeKit] Update Temperatur Garten
+[19:31:38] [HomeKit] Update Feuchtigkeit Garten
+[19:34:46] [HomeKit] HAP-NodeJS starting...
+[19:34:47] [HomeKit] Verbinde zur Datenbank...
+[19:34:47] [HomeKit] Verbunden!
+[19:34:47] [HomeKit] Lade Pin...
+[19:34:47] [HomeKit]                        
+[19:34:47] [HomeKit]     ┌────────────┐     
+[19:34:47] [HomeKit]     │ 031-45-154 │     
+[19:34:47] [HomeKit]     └────────────┘     
+[19:34:47] [HomeKit]                        
+[19:34:47] [HomeKit] Lade alle Objekte die für HomeKit aktiviert sind...
+[19:34:47] [HomeKit] Username von Arbeitszimmer Rolllade Kindergarten 27:C3:E2:D2:E3:FE
+[19:34:47] [HomeKit] Registriere Objekte Arbeitszimmer Rolllade Kindergarten in HomeKit...
+[19:34:47] [HomeKit] Username von Subwoofer Nils Zimmer 73:66:36:32:E3:7C
+[19:34:47] [HomeKit] Registriere Objekte Subwoofer Nils Zimmer in HomeKit...
+[19:34:47] [HomeKit] Username von Treppe Licht Pflanze 7F:CD:FE:DC:77:6F
+[19:34:47] [HomeKit] Registriere Objekte Treppe Licht Pflanze in HomeKit...
+[19:34:47] [HomeKit] Username von Gäste WC Rolllade E6:F6:FD:36:D6:6D
+[19:34:47] [HomeKit] Registriere Objekte Gäste WC Rolllade in HomeKit...
+[19:34:47] [HomeKit] Username von Nils Rolllade 66:DC:DE:62:D6:CC
+[19:34:47] [HomeKit] Registriere Objekte Nils Rolllade in HomeKit...
+[19:34:47] [HomeKit] Username von Nils Dachboden Licht F7:77:DC:D7:66:ED
+[19:34:47] [HomeKit] Registriere Objekte Nils Dachboden Licht in HomeKit...
+[19:34:47] [HomeKit] Username von Keller Licht 77:FC:7C:CC:F6:CD
+[19:34:47] [HomeKit] Registriere Objekte Keller Licht in HomeKit...
+[19:34:47] [HomeKit] Username von Fernseher 67:66:FD:E7:EE:FE
+[19:34:47] [HomeKit] Registriere Objekte Fernseher in HomeKit...
+[19:34:47] [HomeKit] Username von Kompressor F6:C2:D7:DF:37:F7
+[19:34:47] [HomeKit] Registriere Objekte Kompressor in HomeKit...
+[19:34:47] [HomeKit] Username von Wohnzimmer Rolllade Tür C3:2F:2F:6E:62:D2
+[19:34:47] [HomeKit] Registriere Objekte Wohnzimmer Rolllade Tür in HomeKit...
+[19:34:47] [HomeKit] Username von Temperatur Garten CF:76:3C:CE:FD:E7
+[19:34:47] [HomeKit] Registriere Objekte Temperatur Garten in HomeKit...
+[19:34:47] [HomeKit] Username von Wohnzimmer Rolllade Fenster D3:36:27:F3:3E:6E
+[19:34:47] [HomeKit] Registriere Objekte Wohnzimmer Rolllade Fenster in HomeKit...
+[19:34:47] [HomeKit] Username von Brunnen 33:F2:37:EE:DD:27
+[19:34:47] [HomeKit] Registriere Objekte Brunnen in HomeKit...
+[19:34:47] [HomeKit] Username von Arbeitszimmer Licht DC:73:2D:E7:3F:FC
+[19:34:47] [HomeKit] Registriere Objekte Arbeitszimmer Licht in HomeKit...
+[19:34:47] [HomeKit] Username von Temperatur Wohnzimmer 2C:36:23:CE:73:32
+[19:34:47] [HomeKit] Registriere Objekte Temperatur Wohnzimmer in HomeKit...
+[19:34:47] [HomeKit] Username von Fake Temperature F6:F7:6C:2F:C6:FF
+[19:34:47] [HomeKit] Registriere Objekte Fake Temperature in HomeKit...
+[19:34:47] [HomeKit] Username von Feuchtigkeit Garten 72:FD:FE:6E:F2:C7
+[19:34:47] [HomeKit] Registriere Objekte Feuchtigkeit Garten in HomeKit...
+[19:34:47] [HomeKit] Username von Schlafzimmer Rolllade C7:DE:3F:F2:6F:EE
+[19:34:47] [HomeKit] Registriere Objekte Schlafzimmer Rolllade in HomeKit...
+[19:34:47] [HomeKit] Username von LED Kette Nils D7:FD:6C:6D:DE:67
+[19:34:47] [HomeKit] Registriere Objekte LED Kette Nils in HomeKit...
+[19:34:47] [HomeKit] Username von Arbeitszimmer Rolllade Garten F6:EF:76:F7:FE:D2
+[19:34:47] [HomeKit] Registriere Objekte Arbeitszimmer Rolllade Garten in HomeKit...
+[19:34:47] [HomeKit] Username von Feuchtigkeit Wohnzimmer CD:22:C3:67:F6:2D
+[19:34:47] [HomeKit] Registriere Objekte Feuchtigkeit Wohnzimmer in HomeKit...
+[19:34:47] [HomeKit] Username von Küche Rolllade 6D:D7:6E:D7:CC:DF
+[19:34:47] [HomeKit] Registriere Objekte Küche Rolllade in HomeKit...
+[19:34:47] [HomeKit] Username von Eingangs Flur Licht CE:F3:2C:2F:C7:DF
+[19:34:47] [HomeKit] Registriere Objekte Eingangs Flur Licht in HomeKit...
+[19:34:47] [HomeKit] Username von Nils Zimmer Licht ED:CD:F2:E3:EF:3F
+[19:34:47] [HomeKit] Registriere Objekte Nils Zimmer Licht in HomeKit...
+[19:34:47] [HomeKit] Registrations Vorgang wurde beendet.
+[19:34:50] [HomeKit] Update Wohnzimmer Rolllade Tür
+[19:34:50] [HomeKit] Update Küche Rolllade
+[19:34:50] [HomeKit] Update Küche Rolllade
+[19:34:50] [HomeKit] Update Gäste WC Rolllade
+[19:34:51] [HomeKit] Update Wohnzimmer Rolllade Tür
+[19:36:51] [HomeKit] Update Temperatur Garten
+[19:36:51] [HomeKit] Update Feuchtigkeit Garten
+[19:37:13] [HomeKit] Update Gäste WC Rolllade
+[19:38:33] [HomeKit] HAP-NodeJS starting...
+[19:38:34] [HomeKit] Verbinde zur Datenbank...
+[19:38:34] [HomeKit] Verbunden!
+[19:38:34] [HomeKit] Lade Pin...
+[19:38:34] [HomeKit]                        
+[19:38:34] [HomeKit]     ┌────────────┐     
+[19:38:34] [HomeKit]     │ 031-45-154 │     
+[19:38:34] [HomeKit]     └────────────┘     
+[19:38:34] [HomeKit]                        
+[19:38:34] [HomeKit] Lade alle Objekte die für HomeKit aktiviert sind...
+[19:38:34] [HomeKit] Username von Arbeitszimmer Rolllade Kindergarten 27:C3:E2:D2:E3:FE
+[19:38:34] [HomeKit] Registriere Objekte Arbeitszimmer Rolllade Kindergarten in HomeKit...
+[19:38:34] [HomeKit] Username von Subwoofer Nils Zimmer 73:66:36:32:E3:7C
+[19:38:34] [HomeKit] Registriere Objekte Subwoofer Nils Zimmer in HomeKit...
+[19:38:34] [HomeKit] Username von Treppe Licht Pflanze 7F:CD:FE:DC:77:6F
+[19:38:34] [HomeKit] Registriere Objekte Treppe Licht Pflanze in HomeKit...
+[19:38:34] [HomeKit] Username von Gäste WC Rolllade E6:F6:FD:36:D6:6D
+[19:38:34] [HomeKit] Registriere Objekte Gäste WC Rolllade in HomeKit...
+[19:38:34] [HomeKit] Username von Nils Rolllade 66:DC:DE:62:D6:CC
+[19:38:34] [HomeKit] Registriere Objekte Nils Rolllade in HomeKit...
+[19:38:34] [HomeKit] Username von Nils Dachboden Licht F7:77:DC:D7:66:ED
+[19:38:34] [HomeKit] Registriere Objekte Nils Dachboden Licht in HomeKit...
+[19:38:34] [HomeKit] Username von Keller Licht 77:FC:7C:CC:F6:CD
+[19:38:34] [HomeKit] Registriere Objekte Keller Licht in HomeKit...
+[19:38:34] [HomeKit] Username von Fernseher 67:66:FD:E7:EE:FE
+[19:38:34] [HomeKit] Registriere Objekte Fernseher in HomeKit...
+[19:38:34] [HomeKit] Username von Kompressor F6:C2:D7:DF:37:F7
+[19:38:34] [HomeKit] Registriere Objekte Kompressor in HomeKit...
+[19:38:34] [HomeKit] Username von Wohnzimmer Rolllade Tür C3:2F:2F:6E:62:D2
+[19:38:34] [HomeKit] Registriere Objekte Wohnzimmer Rolllade Tür in HomeKit...
+[19:38:34] [HomeKit] Username von Temperatur Garten CF:76:3C:CE:FD:E7
+[19:38:34] [HomeKit] Registriere Objekte Temperatur Garten in HomeKit...
+[19:38:34] [HomeKit] Username von Wohnzimmer Rolllade Fenster D3:36:27:F3:3E:6E
+[19:38:34] [HomeKit] Registriere Objekte Wohnzimmer Rolllade Fenster in HomeKit...
+[19:38:34] [HomeKit] Username von Brunnen 33:F2:37:EE:DD:27
+[19:38:34] [HomeKit] Registriere Objekte Brunnen in HomeKit...
+[19:38:34] [HomeKit] Username von Arbeitszimmer Licht DC:73:2D:E7:3F:FC
+[19:38:34] [HomeKit] Registriere Objekte Arbeitszimmer Licht in HomeKit...
+[19:38:34] [HomeKit] Username von Temperatur Wohnzimmer 2C:36:23:CE:73:32
+[19:38:34] [HomeKit] Registriere Objekte Temperatur Wohnzimmer in HomeKit...
+[19:38:34] [HomeKit] Username von Fake Temperature F6:F7:6C:2F:C6:FF
+[19:38:34] [HomeKit] Registriere Objekte Fake Temperature in HomeKit...
+[19:38:34] [HomeKit] Username von Feuchtigkeit Garten 72:FD:FE:6E:F2:C7
+[19:38:34] [HomeKit] Registriere Objekte Feuchtigkeit Garten in HomeKit...
+[19:38:34] [HomeKit] Username von Schlafzimmer Rolllade C7:DE:3F:F2:6F:EE
+[19:38:34] [HomeKit] Registriere Objekte Schlafzimmer Rolllade in HomeKit...
+[19:38:34] [HomeKit] Username von LED Kette Nils D7:FD:6C:6D:DE:67
+[19:38:34] [HomeKit] Registriere Objekte LED Kette Nils in HomeKit...
+[19:38:34] [HomeKit] Username von Arbeitszimmer Rolllade Garten F6:EF:76:F7:FE:D2
+[19:38:34] [HomeKit] Registriere Objekte Arbeitszimmer Rolllade Garten in HomeKit...
+[19:38:34] [HomeKit] Username von Feuchtigkeit Wohnzimmer CD:22:C3:67:F6:2D
+[19:38:34] [HomeKit] Registriere Objekte Feuchtigkeit Wohnzimmer in HomeKit...
+[19:38:34] [HomeKit] Username von Küche Rolllade 6D:D7:6E:D7:CC:DF
+[19:38:34] [HomeKit] Registriere Objekte Küche Rolllade in HomeKit...
+[19:38:34] [HomeKit] Username von Eingangs Flur Licht CE:F3:2C:2F:C7:DF
+[19:38:34] [HomeKit] Registriere Objekte Eingangs Flur Licht in HomeKit...
+[19:38:34] [HomeKit] Username von Nils Zimmer Licht ED:CD:F2:E3:EF:3F
+[19:38:34] [HomeKit] Registriere Objekte Nils Zimmer Licht in HomeKit...
+[19:38:34] [HomeKit] Registrations Vorgang wurde beendet.
+[19:38:37] [HomeKit] Update Wohnzimmer Rolllade Tür
+[19:38:37] [HomeKit] Update Küche Rolllade
+[19:38:37] [HomeKit] Update Küche Rolllade
+[19:38:37] [HomeKit] Update Gäste WC Rolllade
+[19:38:38] [HomeKit] Update Wohnzimmer Rolllade Tür
+[19:38:42] [HomeKit] Update Gäste WC Rolllade
+[19:42:04] [HomeKit] Update Temperatur Garten
+[19:42:04] [HomeKit] Update Feuchtigkeit Garten
+[19:47:17] [HomeKit] Update Feuchtigkeit Garten
+[19:52:30] [HomeKit] Update Temperatur Garten
+[19:52:30] [HomeKit] Update Feuchtigkeit Garten
+[19:56:53] [HomeKit] HAP-NodeJS starting...
+[19:56:53] [HomeKit] Verbinde zur Datenbank...
+[19:56:53] [HomeKit] Verbunden!
+[19:56:53] [HomeKit] Lade Pin...
+[19:56:53] [HomeKit]                        
+[19:56:53] [HomeKit]     ┌────────────┐     
+[19:56:53] [HomeKit]     │ 031-45-154 │     
+[19:56:53] [HomeKit]     └────────────┘     
+[19:56:53] [HomeKit]                        
+[19:56:53] [HomeKit] Lade alle Objekte die für HomeKit aktiviert sind...
+[19:56:53] [HomeKit] Username von Arbeitszimmer Rolllade Kindergarten 27:C3:E2:D2:E3:FE
+[19:56:53] [HomeKit] Registriere Objekte Arbeitszimmer Rolllade Kindergarten in HomeKit...
+[19:56:53] [HomeKit] Username von Subwoofer Nils Zimmer 73:66:36:32:E3:7C
+[19:56:53] [HomeKit] Registriere Objekte Subwoofer Nils Zimmer in HomeKit...
+[19:56:53] [HomeKit] Username von Treppe Licht Pflanze 7F:CD:FE:DC:77:6F
+[19:56:53] [HomeKit] Registriere Objekte Treppe Licht Pflanze in HomeKit...
+[19:56:53] [HomeKit] Username von Gäste WC Rolllade E6:F6:FD:36:D6:6D
+[19:56:53] [HomeKit] Registriere Objekte Gäste WC Rolllade in HomeKit...
+[19:56:53] [HomeKit] Username von Nils Rolllade 66:DC:DE:62:D6:CC
+[19:56:53] [HomeKit] Registriere Objekte Nils Rolllade in HomeKit...
+[19:56:53] [HomeKit] Username von Nils Dachboden Licht F7:77:DC:D7:66:ED
+[19:56:53] [HomeKit] Registriere Objekte Nils Dachboden Licht in HomeKit...
+[19:56:53] [HomeKit] Username von Keller Licht 77:FC:7C:CC:F6:CD
+[19:56:53] [HomeKit] Registriere Objekte Keller Licht in HomeKit...
+[19:56:53] [HomeKit] Username von Fernseher 67:66:FD:E7:EE:FE
+[19:56:53] [HomeKit] Registriere Objekte Fernseher in HomeKit...
+[19:56:53] [HomeKit] Username von Kompressor F6:C2:D7:DF:37:F7
+[19:56:53] [HomeKit] Registriere Objekte Kompressor in HomeKit...
+[19:56:53] [HomeKit] Username von Wohnzimmer Rolllade Tür C3:2F:2F:6E:62:D2
+[19:56:53] [HomeKit] Registriere Objekte Wohnzimmer Rolllade Tür in HomeKit...
+[19:56:53] [HomeKit] Username von Temperatur Garten CF:76:3C:CE:FD:E7
+[19:56:53] [HomeKit] Registriere Objekte Temperatur Garten in HomeKit...
+[19:56:53] [HomeKit] Username von Wohnzimmer Rolllade Fenster D3:36:27:F3:3E:6E
+[19:56:53] [HomeKit] Registriere Objekte Wohnzimmer Rolllade Fenster in HomeKit...
+[19:56:53] [HomeKit] Username von Brunnen 33:F2:37:EE:DD:27
+[19:56:53] [HomeKit] Registriere Objekte Brunnen in HomeKit...
+[19:56:53] [HomeKit] Username von Arbeitszimmer Licht DC:73:2D:E7:3F:FC
+[19:56:53] [HomeKit] Registriere Objekte Arbeitszimmer Licht in HomeKit...
+[19:56:53] [HomeKit] Username von Temperatur Wohnzimmer 2C:36:23:CE:73:32
+[19:56:53] [HomeKit] Registriere Objekte Temperatur Wohnzimmer in HomeKit...
+[19:56:53] [HomeKit] Username von Fake Temperature F6:F7:6C:2F:C6:FF
+[19:56:53] [HomeKit] Registriere Objekte Fake Temperature in HomeKit...
+[19:56:53] [HomeKit] Username von Feuchtigkeit Garten 72:FD:FE:6E:F2:C7
+[19:56:53] [HomeKit] Registriere Objekte Feuchtigkeit Garten in HomeKit...
+[19:56:53] [HomeKit] Username von Schlafzimmer Rolllade C7:DE:3F:F2:6F:EE
+[19:56:53] [HomeKit] Registriere Objekte Schlafzimmer Rolllade in HomeKit...
+[19:56:53] [HomeKit] Username von LED Kette Nils D7:FD:6C:6D:DE:67
+[19:56:53] [HomeKit] Registriere Objekte LED Kette Nils in HomeKit...
+[19:56:53] [HomeKit] Username von Arbeitszimmer Rolllade Garten F6:EF:76:F7:FE:D2
+[19:56:53] [HomeKit] Registriere Objekte Arbeitszimmer Rolllade Garten in HomeKit...
+[19:56:53] [HomeKit] Username von Feuchtigkeit Wohnzimmer CD:22:C3:67:F6:2D
+[19:56:53] [HomeKit] Registriere Objekte Feuchtigkeit Wohnzimmer in HomeKit...
+[19:56:53] [HomeKit] Username von Küche Rolllade 6D:D7:6E:D7:CC:DF
+[19:56:53] [HomeKit] Registriere Objekte Küche Rolllade in HomeKit...
+[19:56:53] [HomeKit] Username von Eingangs Flur Licht CE:F3:2C:2F:C7:DF
+[19:56:53] [HomeKit] Registriere Objekte Eingangs Flur Licht in HomeKit...
+[19:56:53] [HomeKit] Username von Nils Zimmer Licht ED:CD:F2:E3:EF:3F
+[19:56:53] [HomeKit] Registriere Objekte Nils Zimmer Licht in HomeKit...
+[19:56:53] [HomeKit] Registrations Vorgang wurde beendet.
+[19:57:43] [HomeKit] Update Feuchtigkeit Garten
+[20:02:33] [HomeKit] HAP-NodeJS starting...
+[20:02:33] [HomeKit] Verbinde zur Datenbank...
+[20:02:33] [HomeKit] Verbunden!
+[20:02:33] [HomeKit] Lade Pin...
+[20:02:33] [HomeKit]                        
+[20:02:33] [HomeKit]     ┌────────────┐     
+[20:02:33] [HomeKit]     │ 031-45-154 │     
+[20:02:33] [HomeKit]     └────────────┘     
+[20:02:33] [HomeKit]                        
+[20:02:33] [HomeKit] Lade alle Objekte die für HomeKit aktiviert sind...
+[20:02:33] [HomeKit] Username von Arbeitszimmer Rolllade Kindergarten 27:C3:E2:D2:E3:FE
+[20:02:33] [HomeKit] Registriere Objekte Arbeitszimmer Rolllade Kindergarten in HomeKit...
+[20:02:33] [HomeKit] Username von Subwoofer Nils Zimmer 73:66:36:32:E3:7C
+[20:02:33] [HomeKit] Registriere Objekte Subwoofer Nils Zimmer in HomeKit...
+[20:02:33] [HomeKit] Username von Treppe Licht Pflanze 7F:CD:FE:DC:77:6F
+[20:02:33] [HomeKit] Registriere Objekte Treppe Licht Pflanze in HomeKit...
+[20:02:33] [HomeKit] Username von Gäste WC Rolllade E6:F6:FD:36:D6:6D
+[20:02:33] [HomeKit] Registriere Objekte Gäste WC Rolllade in HomeKit...
+[20:02:33] [HomeKit] Username von Nils Rolllade 66:DC:DE:62:D6:CC
+[20:02:33] [HomeKit] Registriere Objekte Nils Rolllade in HomeKit...
+[20:02:33] [HomeKit] Username von Nils Dachboden Licht F7:77:DC:D7:66:ED
+[20:02:33] [HomeKit] Registriere Objekte Nils Dachboden Licht in HomeKit...
+[20:02:33] [HomeKit] Username von Keller Licht 77:FC:7C:CC:F6:CD
+[20:02:33] [HomeKit] Registriere Objekte Keller Licht in HomeKit...
+[20:02:33] [HomeKit] Username von Fernseher 67:66:FD:E7:EE:FE
+[20:02:33] [HomeKit] Registriere Objekte Fernseher in HomeKit...
+[20:02:33] [HomeKit] Username von Kompressor F6:C2:D7:DF:37:F7
+[20:02:33] [HomeKit] Registriere Objekte Kompressor in HomeKit...
+[20:02:33] [HomeKit] Username von Wohnzimmer Rolllade Tür C3:2F:2F:6E:62:D2
+[20:02:33] [HomeKit] Registriere Objekte Wohnzimmer Rolllade Tür in HomeKit...
+[20:02:33] [HomeKit] Username von Temperatur Garten CF:76:3C:CE:FD:E7
+[20:02:33] [HomeKit] Registriere Objekte Temperatur Garten in HomeKit...
+[20:02:33] [HomeKit] Username von Wohnzimmer Rolllade Fenster D3:36:27:F3:3E:6E
+[20:02:33] [HomeKit] Registriere Objekte Wohnzimmer Rolllade Fenster in HomeKit...
+[20:02:33] [HomeKit] Username von Brunnen 33:F2:37:EE:DD:27
+[20:02:33] [HomeKit] Registriere Objekte Brunnen in HomeKit...
+[20:02:33] [HomeKit] Username von Arbeitszimmer Licht DC:73:2D:E7:3F:FC
+[20:02:33] [HomeKit] Registriere Objekte Arbeitszimmer Licht in HomeKit...
+[20:02:33] [HomeKit] Username von Temperatur Wohnzimmer 2C:36:23:CE:73:32
+[20:02:33] [HomeKit] Registriere Objekte Temperatur Wohnzimmer in HomeKit...
+[20:02:33] [HomeKit] Username von Fake Temperature F6:F7:6C:2F:C6:FF
+[20:02:33] [HomeKit] Registriere Objekte Fake Temperature in HomeKit...
+[20:02:33] [HomeKit] Username von Feuchtigkeit Garten 72:FD:FE:6E:F2:C7
+[20:02:33] [HomeKit] Registriere Objekte Feuchtigkeit Garten in HomeKit...
+[20:02:33] [HomeKit] Username von Schlafzimmer Rolllade C7:DE:3F:F2:6F:EE
+[20:02:33] [HomeKit] Registriere Objekte Schlafzimmer Rolllade in HomeKit...
+[20:02:33] [HomeKit] Username von LED Kette Nils D7:FD:6C:6D:DE:67
+[20:02:33] [HomeKit] Registriere Objekte LED Kette Nils in HomeKit...
+[20:02:33] [HomeKit] Username von Arbeitszimmer Rolllade Garten F6:EF:76:F7:FE:D2
+[20:02:33] [HomeKit] Registriere Objekte Arbeitszimmer Rolllade Garten in HomeKit...
+[20:02:33] [HomeKit] Username von Feuchtigkeit Wohnzimmer CD:22:C3:67:F6:2D
+[20:02:33] [HomeKit] Registriere Objekte Feuchtigkeit Wohnzimmer in HomeKit...
+[20:02:33] [HomeKit] Username von Küche Rolllade 6D:D7:6E:D7:CC:DF
+[20:02:33] [HomeKit] Registriere Objekte Küche Rolllade in HomeKit...
+[20:02:33] [HomeKit] Username von Eingangs Flur Licht CE:F3:2C:2F:C7:DF
+[20:02:33] [HomeKit] Registriere Objekte Eingangs Flur Licht in HomeKit...
+[20:02:33] [HomeKit] Username von Nils Zimmer Licht ED:CD:F2:E3:EF:3F
+[20:02:33] [HomeKit] Registriere Objekte Nils Zimmer Licht in HomeKit...
+[20:02:33] [HomeKit] Registrations Vorgang wurde beendet.
+[20:02:57] [HomeKit] Update Feuchtigkeit Garten
+[20:08:09] [HomeKit] Update Temperatur Garten
+[20:08:09] [HomeKit] Update Feuchtigkeit Garten
+[20:08:21] [HomeKit] HAP-NodeJS starting...
+[20:08:22] [HomeKit] Verbinde zur Datenbank...
+[20:08:22] [HomeKit] Verbunden!
+[20:08:22] [HomeKit] Lade Pin...
+[20:08:22] [HomeKit]                        
+[20:08:22] [HomeKit]     ┌────────────┐     
+[20:08:22] [HomeKit]     │ 031-45-154 │     
+[20:08:22] [HomeKit]     └────────────┘     
+[20:08:22] [HomeKit]                        
+[20:08:22] [HomeKit] Lade alle Objekte die für HomeKit aktiviert sind...
+[20:08:22] [HomeKit] Username von Arbeitszimmer Rolllade Kindergarten 27:C3:E2:D2:E3:FE
+[20:08:22] [HomeKit] Registriere Objekte Arbeitszimmer Rolllade Kindergarten in HomeKit...
+[20:08:22] [HomeKit] Username von Subwoofer Nils Zimmer 73:66:36:32:E3:7C
+[20:08:22] [HomeKit] Registriere Objekte Subwoofer Nils Zimmer in HomeKit...
+[20:08:22] [HomeKit] Username von Treppe Licht Pflanze 7F:CD:FE:DC:77:6F
+[20:08:22] [HomeKit] Registriere Objekte Treppe Licht Pflanze in HomeKit...
+[20:08:22] [HomeKit] Username von Gäste WC Rolllade E6:F6:FD:36:D6:6D
+[20:08:22] [HomeKit] Registriere Objekte Gäste WC Rolllade in HomeKit...
+[20:08:22] [HomeKit] Username von Nils Rolllade 66:DC:DE:62:D6:CC
+[20:08:22] [HomeKit] Registriere Objekte Nils Rolllade in HomeKit...
+[20:08:22] [HomeKit] Username von Nils Dachboden Licht F7:77:DC:D7:66:ED
+[20:08:22] [HomeKit] Registriere Objekte Nils Dachboden Licht in HomeKit...
+[20:08:22] [HomeKit] Username von Keller Licht 77:FC:7C:CC:F6:CD
+[20:08:22] [HomeKit] Registriere Objekte Keller Licht in HomeKit...
+[20:08:22] [HomeKit] Username von Fernseher 67:66:FD:E7:EE:FE
+[20:08:22] [HomeKit] Registriere Objekte Fernseher in HomeKit...
+[20:08:22] [HomeKit] Username von Kompressor F6:C2:D7:DF:37:F7
+[20:08:22] [HomeKit] Registriere Objekte Kompressor in HomeKit...
+[20:08:22] [HomeKit] Username von Wohnzimmer Rolllade Tür C3:2F:2F:6E:62:D2
+[20:08:22] [HomeKit] Registriere Objekte Wohnzimmer Rolllade Tür in HomeKit...
+[20:08:22] [HomeKit] Username von Temperatur Garten CF:76:3C:CE:FD:E7
+[20:08:22] [HomeKit] Registriere Objekte Temperatur Garten in HomeKit...
+[20:08:22] [HomeKit] Username von Wohnzimmer Rolllade Fenster D3:36:27:F3:3E:6E
+[20:08:22] [HomeKit] Registriere Objekte Wohnzimmer Rolllade Fenster in HomeKit...
+[20:08:22] [HomeKit] Username von Brunnen 33:F2:37:EE:DD:27
+[20:08:22] [HomeKit] Registriere Objekte Brunnen in HomeKit...
+[20:08:22] [HomeKit] Username von Arbeitszimmer Licht DC:73:2D:E7:3F:FC
+[20:08:22] [HomeKit] Registriere Objekte Arbeitszimmer Licht in HomeKit...
+[20:08:22] [HomeKit] Username von Temperatur Wohnzimmer 2C:36:23:CE:73:32
+[20:08:22] [HomeKit] Registriere Objekte Temperatur Wohnzimmer in HomeKit...
+[20:08:22] [HomeKit] Username von Fake Temperature F6:F7:6C:2F:C6:FF
+[20:08:22] [HomeKit] Registriere Objekte Fake Temperature in HomeKit...
+[20:08:22] [HomeKit] Username von Feuchtigkeit Garten 72:FD:FE:6E:F2:C7
+[20:08:22] [HomeKit] Registriere Objekte Feuchtigkeit Garten in HomeKit...
+[20:08:22] [HomeKit] Username von Schlafzimmer Rolllade C7:DE:3F:F2:6F:EE
+[20:08:22] [HomeKit] Registriere Objekte Schlafzimmer Rolllade in HomeKit...
+[20:08:22] [HomeKit] Username von LED Kette Nils D7:FD:6C:6D:DE:67
+[20:08:22] [HomeKit] Registriere Objekte LED Kette Nils in HomeKit...
+[20:08:22] [HomeKit] Username von Arbeitszimmer Rolllade Garten F6:EF:76:F7:FE:D2
+[20:08:22] [HomeKit] Registriere Objekte Arbeitszimmer Rolllade Garten in HomeKit...
+[20:08:22] [HomeKit] Username von Feuchtigkeit Wohnzimmer CD:22:C3:67:F6:2D
+[20:08:22] [HomeKit] Registriere Objekte Feuchtigkeit Wohnzimmer in HomeKit...
+[20:08:22] [HomeKit] Username von Küche Rolllade 6D:D7:6E:D7:CC:DF
+[20:08:22] [HomeKit] Registriere Objekte Küche Rolllade in HomeKit...
+[20:08:22] [HomeKit] Username von Eingangs Flur Licht CE:F3:2C:2F:C7:DF
+[20:08:22] [HomeKit] Registriere Objekte Eingangs Flur Licht in HomeKit...
+[20:08:22] [HomeKit] Username von Nils Zimmer Licht ED:CD:F2:E3:EF:3F
+[20:08:22] [HomeKit] Registriere Objekte Nils Zimmer Licht in HomeKit...
+[20:08:22] [HomeKit] Registrations Vorgang wurde beendet.
+[20:11:11] [HomeKit] Update Temperatur Wohnzimmer
+[20:13:22] [HomeKit] Update Temperatur Garten
+[20:13:22] [HomeKit] Update Feuchtigkeit Garten
+[20:15:14] [HomeKit] HAP-NodeJS starting...
+[20:15:14] [HomeKit] Verbinde zur Datenbank...
+[20:15:14] [HomeKit] Verbunden!
+[20:15:14] [HomeKit] Lade Pin...
+[20:15:14] [HomeKit]                        
+[20:15:14] [HomeKit]     ┌────────────┐     
+[20:15:14] [HomeKit]     │ 031-45-154 │     
+[20:15:14] [HomeKit]     └────────────┘     
+[20:15:14] [HomeKit]                        
+[20:15:14] [HomeKit] Lade alle Objekte die für HomeKit aktiviert sind...
+[20:15:14] [HomeKit] Username von Arbeitszimmer Rolllade Kindergarten 27:C3:E2:D2:E3:FE
+[20:15:14] [HomeKit] Registriere Objekte Arbeitszimmer Rolllade Kindergarten in HomeKit...
+[20:15:14] [HomeKit] Username von Subwoofer Nils Zimmer 73:66:36:32:E3:7C
+[20:15:14] [HomeKit] Registriere Objekte Subwoofer Nils Zimmer in HomeKit...
+[20:15:14] [HomeKit] Username von Treppe Licht Pflanze 7F:CD:FE:DC:77:6F
+[20:15:14] [HomeKit] Registriere Objekte Treppe Licht Pflanze in HomeKit...
+[20:15:14] [HomeKit] Username von Gäste WC Rolllade E6:F6:FD:36:D6:6D
+[20:15:14] [HomeKit] Registriere Objekte Gäste WC Rolllade in HomeKit...
+[20:15:14] [HomeKit] Username von Nils Rolllade 66:DC:DE:62:D6:CC
+[20:15:14] [HomeKit] Registriere Objekte Nils Rolllade in HomeKit...
+[20:15:14] [HomeKit] Username von Nils Dachboden Licht F7:77:DC:D7:66:ED
+[20:15:14] [HomeKit] Registriere Objekte Nils Dachboden Licht in HomeKit...
+[20:15:14] [HomeKit] Username von Keller Licht 77:FC:7C:CC:F6:CD
+[20:15:14] [HomeKit] Registriere Objekte Keller Licht in HomeKit...
+[20:15:14] [HomeKit] Username von Fernseher 67:66:FD:E7:EE:FE
+[20:15:14] [HomeKit] Registriere Objekte Fernseher in HomeKit...
+[20:15:14] [HomeKit] Username von Kompressor F6:C2:D7:DF:37:F7
+[20:15:14] [HomeKit] Registriere Objekte Kompressor in HomeKit...
+[20:15:14] [HomeKit] Username von Wohnzimmer Rolllade Tür C3:2F:2F:6E:62:D2
+[20:15:14] [HomeKit] Registriere Objekte Wohnzimmer Rolllade Tür in HomeKit...
+[20:15:14] [HomeKit] Username von Temperatur Garten CF:76:3C:CE:FD:E7
+[20:15:14] [HomeKit] Registriere Objekte Temperatur Garten in HomeKit...
+[20:15:14] [HomeKit] Username von Wohnzimmer Rolllade Fenster D3:36:27:F3:3E:6E
+[20:15:14] [HomeKit] Registriere Objekte Wohnzimmer Rolllade Fenster in HomeKit...
+[20:15:14] [HomeKit] Username von Brunnen 33:F2:37:EE:DD:27
+[20:15:14] [HomeKit] Registriere Objekte Brunnen in HomeKit...
+[20:15:14] [HomeKit] Username von Arbeitszimmer Licht DC:73:2D:E7:3F:FC
+[20:15:14] [HomeKit] Registriere Objekte Arbeitszimmer Licht in HomeKit...
+[20:15:14] [HomeKit] Username von Temperatur Wohnzimmer 2C:36:23:CE:73:32
+[20:15:14] [HomeKit] Registriere Objekte Temperatur Wohnzimmer in HomeKit...
+[20:15:14] [HomeKit] Username von Fake Temperature F6:F7:6C:2F:C6:FF
+[20:15:14] [HomeKit] Registriere Objekte Fake Temperature in HomeKit...
+[20:15:14] [HomeKit] Username von Feuchtigkeit Garten 72:FD:FE:6E:F2:C7
+[20:15:14] [HomeKit] Registriere Objekte Feuchtigkeit Garten in HomeKit...
+[20:15:14] [HomeKit] Username von Schlafzimmer Rolllade C7:DE:3F:F2:6F:EE
+[20:15:14] [HomeKit] Registriere Objekte Schlafzimmer Rolllade in HomeKit...
+[20:15:14] [HomeKit] Username von LED Kette Nils D7:FD:6C:6D:DE:67
+[20:15:14] [HomeKit] Registriere Objekte LED Kette Nils in HomeKit...
+[20:15:14] [HomeKit] Username von Arbeitszimmer Rolllade Garten F6:EF:76:F7:FE:D2
+[20:15:14] [HomeKit] Registriere Objekte Arbeitszimmer Rolllade Garten in HomeKit...
+[20:15:14] [HomeKit] Username von Feuchtigkeit Wohnzimmer CD:22:C3:67:F6:2D
+[20:15:14] [HomeKit] Registriere Objekte Feuchtigkeit Wohnzimmer in HomeKit...
+[20:15:14] [HomeKit] Username von Küche Rolllade 6D:D7:6E:D7:CC:DF
+[20:15:14] [HomeKit] Registriere Objekte Küche Rolllade in HomeKit...
+[20:15:14] [HomeKit] Username von Eingangs Flur Licht CE:F3:2C:2F:C7:DF
+[20:15:14] [HomeKit] Registriere Objekte Eingangs Flur Licht in HomeKit...
+[20:15:14] [HomeKit] Username von Nils Zimmer Licht ED:CD:F2:E3:EF:3F
+[20:15:14] [HomeKit] Registriere Objekte Nils Zimmer Licht in HomeKit...
+[20:15:14] [HomeKit] Registrations Vorgang wurde beendet.
+[20:16:24] [HomeKit] HAP-NodeJS starting...
+[20:16:24] [HomeKit] Verbinde zur Datenbank...
+[20:16:24] [HomeKit] Verbunden!
+[20:16:24] [HomeKit] Lade Pin...
+[20:16:24] [HomeKit]                        
+[20:16:24] [HomeKit]     ┌────────────┐     
+[20:16:24] [HomeKit]     │ 031-45-154 │     
+[20:16:24] [HomeKit]     └────────────┘     
+[20:16:24] [HomeKit]                        
+[20:16:24] [HomeKit] Lade alle Objekte die für HomeKit aktiviert sind...
+[20:16:24] [HomeKit] Username von Arbeitszimmer Rolllade Kindergarten 27:C3:E2:D2:E3:FE
+[20:16:24] [HomeKit] Registriere Objekte Arbeitszimmer Rolllade Kindergarten in HomeKit...
+[20:16:24] [HomeKit] Username von Subwoofer Nils Zimmer 73:66:36:32:E3:7C
+[20:16:24] [HomeKit] Registriere Objekte Subwoofer Nils Zimmer in HomeKit...
+[20:16:24] [HomeKit] Username von Treppe Licht Pflanze 7F:CD:FE:DC:77:6F
+[20:16:24] [HomeKit] Registriere Objekte Treppe Licht Pflanze in HomeKit...
+[20:16:24] [HomeKit] Username von Gäste WC Rolllade E6:F6:FD:36:D6:6D
+[20:16:24] [HomeKit] Registriere Objekte Gäste WC Rolllade in HomeKit...
+[20:16:24] [HomeKit] Username von Nils Rolllade 66:DC:DE:62:D6:CC
+[20:16:24] [HomeKit] Registriere Objekte Nils Rolllade in HomeKit...
+[20:16:24] [HomeKit] Username von Nils Dachboden Licht F7:77:DC:D7:66:ED
+[20:16:24] [HomeKit] Registriere Objekte Nils Dachboden Licht in HomeKit...
+[20:16:24] [HomeKit] Username von Keller Licht 77:FC:7C:CC:F6:CD
+[20:16:24] [HomeKit] Registriere Objekte Keller Licht in HomeKit...
+[20:16:24] [HomeKit] Username von Fernseher 67:66:FD:E7:EE:FE
+[20:16:24] [HomeKit] Registriere Objekte Fernseher in HomeKit...
+[20:16:24] [HomeKit] Username von Kompressor F6:C2:D7:DF:37:F7
+[20:16:24] [HomeKit] Registriere Objekte Kompressor in HomeKit...
+[20:16:24] [HomeKit] Username von Wohnzimmer Rolllade Tür C3:2F:2F:6E:62:D2
+[20:16:24] [HomeKit] Registriere Objekte Wohnzimmer Rolllade Tür in HomeKit...
+[20:16:24] [HomeKit] Username von Temperatur Garten CF:76:3C:CE:FD:E7
+[20:16:24] [HomeKit] Registriere Objekte Temperatur Garten in HomeKit...
+[20:16:24] [HomeKit] Username von Wohnzimmer Rolllade Fenster D3:36:27:F3:3E:6E
+[20:16:24] [HomeKit] Registriere Objekte Wohnzimmer Rolllade Fenster in HomeKit...
+[20:16:24] [HomeKit] Username von Brunnen 33:F2:37:EE:DD:27
+[20:16:24] [HomeKit] Registriere Objekte Brunnen in HomeKit...
+[20:16:24] [HomeKit] Username von Arbeitszimmer Licht DC:73:2D:E7:3F:FC
+[20:16:24] [HomeKit] Registriere Objekte Arbeitszimmer Licht in HomeKit...
+[20:16:24] [HomeKit] Username von Temperatur Wohnzimmer 2C:36:23:CE:73:32
+[20:16:24] [HomeKit] Registriere Objekte Temperatur Wohnzimmer in HomeKit...
+[20:16:24] [HomeKit] Username von Fake Temperature F6:F7:6C:2F:C6:FF
+[20:16:24] [HomeKit] Registriere Objekte Fake Temperature in HomeKit...
+[20:16:24] [HomeKit] Username von Feuchtigkeit Garten 72:FD:FE:6E:F2:C7
+[20:16:24] [HomeKit] Registriere Objekte Feuchtigkeit Garten in HomeKit...
+[20:16:24] [HomeKit] Username von Schlafzimmer Rolllade C7:DE:3F:F2:6F:EE
+[20:16:24] [HomeKit] Registriere Objekte Schlafzimmer Rolllade in HomeKit...
+[20:16:24] [HomeKit] Username von LED Kette Nils D7:FD:6C:6D:DE:67
+[20:16:24] [HomeKit] Registriere Objekte LED Kette Nils in HomeKit...
+[20:16:24] [HomeKit] Username von Arbeitszimmer Rolllade Garten F6:EF:76:F7:FE:D2
+[20:16:24] [HomeKit] Registriere Objekte Arbeitszimmer Rolllade Garten in HomeKit...
+[20:16:24] [HomeKit] Username von Feuchtigkeit Wohnzimmer CD:22:C3:67:F6:2D
+[20:16:24] [HomeKit] Registriere Objekte Feuchtigkeit Wohnzimmer in HomeKit...
+[20:16:24] [HomeKit] Username von Küche Rolllade 6D:D7:6E:D7:CC:DF
+[20:16:24] [HomeKit] Registriere Objekte Küche Rolllade in HomeKit...
+[20:16:24] [HomeKit] Username von Eingangs Flur Licht CE:F3:2C:2F:C7:DF
+[20:16:24] [HomeKit] Registriere Objekte Eingangs Flur Licht in HomeKit...
+[20:16:24] [HomeKit] Username von Nils Zimmer Licht ED:CD:F2:E3:EF:3F
+[20:16:24] [HomeKit] Registriere Objekte Nils Zimmer Licht in HomeKit...
+[20:16:24] [HomeKit] Registrations Vorgang wurde beendet.
+[20:18:35] [HomeKit] Update Temperatur Garten
+[20:18:35] [HomeKit] Update Feuchtigkeit Garten
+[20:19:15] [HomeKit] HAP-NodeJS starting...
+[20:19:15] [HomeKit] Verbinde zur Datenbank...
+[20:19:16] [HomeKit] Verbunden!
+[20:19:16] [HomeKit] Lade Pin...
+[20:19:16] [HomeKit]                        
+[20:19:16] [HomeKit]     ┌────────────┐     
+[20:19:16] [HomeKit]     │ 031-45-154 │     
+[20:19:16] [HomeKit]     └────────────┘     
+[20:19:16] [HomeKit]                        
+[20:19:16] [HomeKit] Lade alle Objekte die für HomeKit aktiviert sind...
+[20:19:16] [HomeKit] Username von Arbeitszimmer Rolllade Kindergarten 27:C3:E2:D2:E3:FE
+[20:19:16] [HomeKit] Registriere Objekte Arbeitszimmer Rolllade Kindergarten in HomeKit...
+[20:19:16] [HomeKit] Username von Subwoofer Nils Zimmer 73:66:36:32:E3:7C
+[20:19:16] [HomeKit] Registriere Objekte Subwoofer Nils Zimmer in HomeKit...
+[20:19:16] [HomeKit] Username von Treppe Licht Pflanze 7F:CD:FE:DC:77:6F
+[20:19:16] [HomeKit] Registriere Objekte Treppe Licht Pflanze in HomeKit...
+[20:19:16] [HomeKit] Username von Gäste WC Rolllade E6:F6:FD:36:D6:6D
+[20:19:16] [HomeKit] Registriere Objekte Gäste WC Rolllade in HomeKit...
+[20:19:16] [HomeKit] Username von Nils Rolllade 66:DC:DE:62:D6:CC
+[20:19:16] [HomeKit] Registriere Objekte Nils Rolllade in HomeKit...
+[20:19:16] [HomeKit] Username von Nils Dachboden Licht F7:77:DC:D7:66:ED
+[20:19:16] [HomeKit] Registriere Objekte Nils Dachboden Licht in HomeKit...
+[20:19:16] [HomeKit] Username von Keller Licht 77:FC:7C:CC:F6:CD
+[20:19:16] [HomeKit] Registriere Objekte Keller Licht in HomeKit...
+[20:19:16] [HomeKit] Username von Fernseher 67:66:FD:E7:EE:FE
+[20:19:16] [HomeKit] Registriere Objekte Fernseher in HomeKit...
+[20:19:16] [HomeKit] Username von Kompressor F6:C2:D7:DF:37:F7
+[20:19:16] [HomeKit] Registriere Objekte Kompressor in HomeKit...
+[20:19:16] [HomeKit] Username von Wohnzimmer Rolllade Tür C3:2F:2F:6E:62:D2
+[20:19:16] [HomeKit] Registriere Objekte Wohnzimmer Rolllade Tür in HomeKit...
+[20:19:16] [HomeKit] Username von Temperatur Garten CF:76:3C:CE:FD:E7
+[20:19:16] [HomeKit] Registriere Objekte Temperatur Garten in HomeKit...
+[20:19:16] [HomeKit] Username von Wohnzimmer Rolllade Fenster D3:36:27:F3:3E:6E
+[20:19:16] [HomeKit] Registriere Objekte Wohnzimmer Rolllade Fenster in HomeKit...
+[20:19:16] [HomeKit] Username von Brunnen 33:F2:37:EE:DD:27
+[20:19:16] [HomeKit] Registriere Objekte Brunnen in HomeKit...
+[20:19:16] [HomeKit] Username von Arbeitszimmer Licht DC:73:2D:E7:3F:FC
+[20:19:16] [HomeKit] Registriere Objekte Arbeitszimmer Licht in HomeKit...
+[20:19:16] [HomeKit] Username von Temperatur Wohnzimmer 2C:36:23:CE:73:32
+[20:19:16] [HomeKit] Registriere Objekte Temperatur Wohnzimmer in HomeKit...
+[20:19:16] [HomeKit] Username von Fake Temperature F6:F7:6C:2F:C6:FF
+[20:19:16] [HomeKit] Registriere Objekte Fake Temperature in HomeKit...
+[20:19:16] [HomeKit] Username von Feuchtigkeit Garten 72:FD:FE:6E:F2:C7
+[20:19:16] [HomeKit] Registriere Objekte Feuchtigkeit Garten in HomeKit...
+[20:19:16] [HomeKit] Username von Schlafzimmer Rolllade C7:DE:3F:F2:6F:EE
+[20:19:16] [HomeKit] Registriere Objekte Schlafzimmer Rolllade in HomeKit...
+[20:19:16] [HomeKit] Username von LED Kette Nils D7:FD:6C:6D:DE:67
+[20:19:16] [HomeKit] Registriere Objekte LED Kette Nils in HomeKit...
+[20:19:16] [HomeKit] Username von Arbeitszimmer Rolllade Garten F6:EF:76:F7:FE:D2
+[20:19:16] [HomeKit] Registriere Objekte Arbeitszimmer Rolllade Garten in HomeKit...
+[20:19:16] [HomeKit] Username von Feuchtigkeit Wohnzimmer CD:22:C3:67:F6:2D
+[20:19:16] [HomeKit] Registriere Objekte Feuchtigkeit Wohnzimmer in HomeKit...
+[20:19:16] [HomeKit] Username von Küche Rolllade 6D:D7:6E:D7:CC:DF
+[20:19:16] [HomeKit] Registriere Objekte Küche Rolllade in HomeKit...
+[20:19:16] [HomeKit] Username von Eingangs Flur Licht CE:F3:2C:2F:C7:DF
+[20:19:16] [HomeKit] Registriere Objekte Eingangs Flur Licht in HomeKit...
+[20:19:16] [HomeKit] Username von Nils Zimmer Licht ED:CD:F2:E3:EF:3F
+[20:19:16] [HomeKit] Registriere Objekte Nils Zimmer Licht in HomeKit...
+[20:19:16] [HomeKit] Registrations Vorgang wurde beendet.
+[20:20:44] [HomeKit] HAP-NodeJS starting...
+[20:20:44] [HomeKit] Verbinde zur Datenbank...
+[20:20:45] [HomeKit] Verbunden!
+[20:20:45] [HomeKit] Lade Pin...
+[20:20:45] [HomeKit]                        
+[20:20:45] [HomeKit]     ┌────────────┐     
+[20:20:45] [HomeKit]     │ 031-45-154 │     
+[20:20:45] [HomeKit]     └────────────┘     
+[20:20:45] [HomeKit]                        
+[20:20:45] [HomeKit] Lade alle Objekte die für HomeKit aktiviert sind...
+[20:20:45] [HomeKit] Username von Arbeitszimmer Rolllade Kindergarten 27:C3:E2:D2:E3:FE
+[20:20:45] [HomeKit] Registriere Objekte Arbeitszimmer Rolllade Kindergarten in HomeKit...
+[20:20:45] [HomeKit] Username von Subwoofer Nils Zimmer 73:66:36:32:E3:7C
+[20:20:45] [HomeKit] Registriere Objekte Subwoofer Nils Zimmer in HomeKit...
+[20:20:45] [HomeKit] Username von Treppe Licht Pflanze 7F:CD:FE:DC:77:6F
+[20:20:45] [HomeKit] Registriere Objekte Treppe Licht Pflanze in HomeKit...
+[20:20:45] [HomeKit] Username von Gäste WC Rolllade E6:F6:FD:36:D6:6D
+[20:20:45] [HomeKit] Registriere Objekte Gäste WC Rolllade in HomeKit...
+[20:20:45] [HomeKit] Username von Nils Rolllade 66:DC:DE:62:D6:CC
+[20:20:45] [HomeKit] Registriere Objekte Nils Rolllade in HomeKit...
+[20:20:45] [HomeKit] Username von Nils Dachboden Licht F7:77:DC:D7:66:ED
+[20:20:45] [HomeKit] Registriere Objekte Nils Dachboden Licht in HomeKit...
+[20:20:45] [HomeKit] Username von Keller Licht 77:FC:7C:CC:F6:CD
+[20:20:45] [HomeKit] Registriere Objekte Keller Licht in HomeKit...
+[20:20:45] [HomeKit] Username von Fernseher 67:66:FD:E7:EE:FE
+[20:20:45] [HomeKit] Registriere Objekte Fernseher in HomeKit...
+[20:20:45] [HomeKit] Username von Kompressor F6:C2:D7:DF:37:F7
+[20:20:45] [HomeKit] Registriere Objekte Kompressor in HomeKit...
+[20:20:45] [HomeKit] Username von Wohnzimmer Rolllade Tür C3:2F:2F:6E:62:D2
+[20:20:45] [HomeKit] Registriere Objekte Wohnzimmer Rolllade Tür in HomeKit...
+[20:20:45] [HomeKit] Username von Temperatur Garten CF:76:3C:CE:FD:E7
+[20:20:45] [HomeKit] Registriere Objekte Temperatur Garten in HomeKit...
+[20:20:45] [HomeKit] Username von Wohnzimmer Rolllade Fenster D3:36:27:F3:3E:6E
+[20:20:45] [HomeKit] Registriere Objekte Wohnzimmer Rolllade Fenster in HomeKit...
+[20:20:45] [HomeKit] Username von Brunnen 33:F2:37:EE:DD:27
+[20:20:45] [HomeKit] Registriere Objekte Brunnen in HomeKit...
+[20:20:45] [HomeKit] Username von Arbeitszimmer Licht DC:73:2D:E7:3F:FC
+[20:20:45] [HomeKit] Registriere Objekte Arbeitszimmer Licht in HomeKit...
+[20:20:45] [HomeKit] Username von Temperatur Wohnzimmer 2C:36:23:CE:73:32
+[20:20:45] [HomeKit] Registriere Objekte Temperatur Wohnzimmer in HomeKit...
+[20:20:45] [HomeKit] Username von Fake Temperature F6:F7:6C:2F:C6:FF
+[20:20:45] [HomeKit] Registriere Objekte Fake Temperature in HomeKit...
+[20:20:45] [HomeKit] Username von Feuchtigkeit Garten 72:FD:FE:6E:F2:C7
+[20:20:45] [HomeKit] Registriere Objekte Feuchtigkeit Garten in HomeKit...
+[20:20:45] [HomeKit] Username von Schlafzimmer Rolllade C7:DE:3F:F2:6F:EE
+[20:20:45] [HomeKit] Registriere Objekte Schlafzimmer Rolllade in HomeKit...
+[20:20:45] [HomeKit] Username von LED Kette Nils D7:FD:6C:6D:DE:67
+[20:20:45] [HomeKit] Registriere Objekte LED Kette Nils in HomeKit...
+[20:20:45] [HomeKit] Username von Arbeitszimmer Rolllade Garten F6:EF:76:F7:FE:D2
+[20:20:45] [HomeKit] Registriere Objekte Arbeitszimmer Rolllade Garten in HomeKit...
+[20:20:45] [HomeKit] Username von Feuchtigkeit Wohnzimmer CD:22:C3:67:F6:2D
+[20:20:45] [HomeKit] Registriere Objekte Feuchtigkeit Wohnzimmer in HomeKit...
+[20:20:45] [HomeKit] Username von Küche Rolllade 6D:D7:6E:D7:CC:DF
+[20:20:45] [HomeKit] Registriere Objekte Küche Rolllade in HomeKit...
+[20:20:45] [HomeKit] Username von Eingangs Flur Licht CE:F3:2C:2F:C7:DF
+[20:20:45] [HomeKit] Registriere Objekte Eingangs Flur Licht in HomeKit...
+[20:20:45] [HomeKit] Username von Nils Zimmer Licht ED:CD:F2:E3:EF:3F
+[20:20:45] [HomeKit] Registriere Objekte Nils Zimmer Licht in HomeKit...
+[20:20:45] [HomeKit] Registrations Vorgang wurde beendet.
+[20:23:48] [HomeKit] Update Feuchtigkeit Garten
+[20:29:01] [HomeKit] Update Temperatur Garten
+[20:29:01] [HomeKit] Update Feuchtigkeit Garten
+[20:30:03] [HomeKit] GET Anfrage für Fernseher
+[20:30:03] [HomeKit] GET Anfrage für Brunnen
+[20:30:03] [HomeKit] GET Anfrage (Target): Nils Rolllade | Current Target State: 0
+[20:30:03] [HomeKit] GET Anfrage (CurrentPosition): Nils Rolllade | Current State: 0
+[20:30:03] [HomeKit] GET Anfrage (CurrentPosition): Wohnzimmer Rolllade Fenster | Current State: 0
+[20:30:03] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Fenster | Current Target State: 0
+[20:30:03] [HomeKit] GET Anfrage für Arbeitszimmer Licht
+[20:30:03] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Garten | Current Target State: 0
+[20:30:03] [HomeKit] GET Anfrage (CurrentPosition): Arbeitszimmer Rolllade Garten | Current State: 0
+[20:30:03] [HomeKit] GET Anfrage für Nils Zimmer Licht
+[20:30:03] [HomeKit] GET Anfrage (CurrentPosition): Wohnzimmer Rolllade Tür | Current State: 0
+[20:30:03] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Tür | Current Target State: 0
+[20:30:03] [HomeKit] GET Anfrage für Temperatur Garten
+[20:30:03] [HomeKit] GET Anfrage für Feuchtigkeit Wohnzimmer
+[20:30:03] [HomeKit] GET Anfrage für Kompressor
+[20:30:03] [HomeKit] GET Anfrage für Feuchtigkeit Garten
+[20:30:03] [HomeKit] GET Anfrage (CurrentPosition): Schlafzimmer Rolllade | Current State: 0
+[20:30:03] [HomeKit] GET Anfrage (Target): Schlafzimmer Rolllade | Current Target State: 0
+[20:30:03] [HomeKit] GET Anfrage (CurrentPosition): Küche Rolllade | Current State: 0
+[20:30:03] [HomeKit] GET Anfrage (Target): Küche Rolllade | Current Target State: 0
+[20:30:03] [HomeKit] GET Anfrage für Eingangs Flur Licht
+[20:30:03] [HomeKit] GET Anfrage für LED Kette Nils
+[20:30:03] [HomeKit] GET Anfrage für Nils Dachboden Licht
+[20:30:03] [HomeKit] GET Anfrage für Subwoofer Nils Zimmer
+[20:30:03] [HomeKit] GET Anfrage für Treppe Licht Pflanze
+[20:30:03] [HomeKit] GET Anfrage für Keller Licht
+[20:30:03] [HomeKit] GET Anfrage (CurrentPosition): Arbeitszimmer Rolllade Kindergarten | Current State: 0
+[20:30:03] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Kindergarten | Current Target State: 0
+[20:30:03] [HomeKit] GET Anfrage (CurrentPosition): Gäste WC Rolllade | Current State: 0
+[20:30:03] [HomeKit] GET Anfrage (Target): Gäste WC Rolllade | Current Target State: 0
+[20:30:10] [HomeKit] SET Befehlt: false
+[20:30:10] [HomeKit] AUSSSSSS
+[20:30:10] [HomeKit] SET Befehlt: 1
+[20:30:10] [HomeKit] ANNNNNNN
+[20:30:10] [HomeKit] SET Befehltrue
+[20:30:10] [HomeKit] ANNNNNNN
+[20:30:10] [HomeKit] SET Befehlt: 0
+[20:30:10] [HomeKit] AUSSSSSS
+[20:30:11] [HomeKit] Callback
+[20:30:11] [HomeKit] Callback
+[20:30:11] [HomeKit] Callback
+[20:33:01] [HomeKit] GET Anfrage für Fernseher
+[20:33:01] [HomeKit] GET Anfrage für Brunnen
+[20:33:01] [HomeKit] GET Anfrage (Target): Nils Rolllade | Current Target State: 0
+[20:33:01] [HomeKit] GET Anfrage (CurrentPosition): Nils Rolllade | Current State: 0
+[20:33:01] [HomeKit] GET Anfrage (CurrentPosition): Wohnzimmer Rolllade Fenster | Current State: 0
+[20:33:01] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Fenster | Current Target State: 0
+[20:33:01] [HomeKit] GET Anfrage für Arbeitszimmer Licht
+[20:33:01] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Garten | Current Target State: 0
+[20:33:01] [HomeKit] GET Anfrage (CurrentPosition): Arbeitszimmer Rolllade Garten | Current State: 0
+[20:33:01] [HomeKit] GET Anfrage für Nils Zimmer Licht
+[20:33:01] [HomeKit] GET Anfrage (CurrentPosition): Wohnzimmer Rolllade Tür | Current State: 0
+[20:33:01] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Tür | Current Target State: 0
+[20:33:01] [HomeKit] GET Anfrage für Temperatur Garten
+[20:33:01] [HomeKit] GET Anfrage für Feuchtigkeit Wohnzimmer
+[20:33:01] [HomeKit] GET Anfrage für Kompressor
+[20:33:01] [HomeKit] GET Anfrage für Feuchtigkeit Garten
+[20:33:01] [HomeKit] GET Anfrage (CurrentPosition): Schlafzimmer Rolllade | Current State: 0
+[20:33:01] [HomeKit] GET Anfrage (Target): Schlafzimmer Rolllade | Current Target State: 0
+[20:33:01] [HomeKit] GET Anfrage (CurrentPosition): Küche Rolllade | Current State: 0
+[20:33:01] [HomeKit] GET Anfrage (Target): Küche Rolllade | Current Target State: 0
+[20:33:01] [HomeKit] GET Anfrage für Eingangs Flur Licht
+[20:33:01] [HomeKit] GET Anfrage für LED Kette Nils
+[20:33:01] [HomeKit] GET Anfrage für Nils Dachboden Licht
+[20:33:01] [HomeKit] GET Anfrage für Subwoofer Nils Zimmer
+[20:33:01] [HomeKit] GET Anfrage für Treppe Licht Pflanze
+[20:33:01] [HomeKit] GET Anfrage für Keller Licht
+[20:33:01] [HomeKit] GET Anfrage (CurrentPosition): Arbeitszimmer Rolllade Kindergarten | Current State: 0
+[20:33:01] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Kindergarten | Current Target State: 0
+[20:33:01] [HomeKit] GET Anfrage (CurrentPosition): Gäste WC Rolllade | Current State: 0
+[20:33:01] [HomeKit] GET Anfrage (Target): Gäste WC Rolllade | Current Target State: 0
+[20:34:14] [HomeKit] Update Feuchtigkeit Garten
+[20:39:22] [HomeKit] HAP-NodeJS starting...
+[20:39:22] [HomeKit] Verbinde zur Datenbank...
+[20:39:22] [HomeKit] Verbunden!
+[20:39:22] [HomeKit] Lade Pin...
+[20:39:22] [HomeKit]                        
+[20:39:22] [HomeKit]     ┌────────────┐     
+[20:39:22] [HomeKit]     │ 031-45-154 │     
+[20:39:22] [HomeKit]     └────────────┘     
+[20:39:22] [HomeKit]                        
+[20:39:22] [HomeKit] Lade alle Objekte die für HomeKit aktiviert sind...
+[20:39:22] [HomeKit] Username von Arbeitszimmer Rolllade Kindergarten 27:C3:E2:D2:E3:FE
+[20:39:22] [HomeKit] Registriere Objekte Arbeitszimmer Rolllade Kindergarten in HomeKit...
+[20:39:22] [HomeKit] Username von Subwoofer Nils Zimmer 73:66:36:32:E3:7C
+[20:39:22] [HomeKit] Registriere Objekte Subwoofer Nils Zimmer in HomeKit...
+[20:39:22] [HomeKit] Username von Treppe Licht Pflanze 7F:CD:FE:DC:77:6F
+[20:39:22] [HomeKit] Registriere Objekte Treppe Licht Pflanze in HomeKit...
+[20:39:22] [HomeKit] Username von Gäste WC Rolllade E6:F6:FD:36:D6:6D
+[20:39:22] [HomeKit] Registriere Objekte Gäste WC Rolllade in HomeKit...
+[20:39:22] [HomeKit] Username von Nils Rolllade 66:DC:DE:62:D6:CC
+[20:39:22] [HomeKit] Registriere Objekte Nils Rolllade in HomeKit...
+[20:39:22] [HomeKit] Username von Nils Dachboden Licht F7:77:DC:D7:66:ED
+[20:39:22] [HomeKit] Registriere Objekte Nils Dachboden Licht in HomeKit...
+[20:39:22] [HomeKit] Username von Keller Licht 77:FC:7C:CC:F6:CD
+[20:39:22] [HomeKit] Registriere Objekte Keller Licht in HomeKit...
+[20:39:22] [HomeKit] Username von Fernseher 67:66:FD:E7:EE:FE
+[20:39:22] [HomeKit] Registriere Objekte Fernseher in HomeKit...
+[20:39:22] [HomeKit] Username von Kompressor F6:C2:D7:DF:37:F7
+[20:39:22] [HomeKit] Registriere Objekte Kompressor in HomeKit...
+[20:39:22] [HomeKit] Username von Wohnzimmer Rolllade Tür C3:2F:2F:6E:62:D2
+[20:39:22] [HomeKit] Registriere Objekte Wohnzimmer Rolllade Tür in HomeKit...
+[20:39:22] [HomeKit] Username von Temperatur Garten CF:76:3C:CE:FD:E7
+[20:39:22] [HomeKit] Registriere Objekte Temperatur Garten in HomeKit...
+[20:39:22] [HomeKit] Username von Wohnzimmer Rolllade Fenster D3:36:27:F3:3E:6E
+[20:39:22] [HomeKit] Registriere Objekte Wohnzimmer Rolllade Fenster in HomeKit...
+[20:39:22] [HomeKit] Username von Brunnen 33:F2:37:EE:DD:27
+[20:39:22] [HomeKit] Registriere Objekte Brunnen in HomeKit...
+[20:39:22] [HomeKit] Username von Arbeitszimmer Licht DC:73:2D:E7:3F:FC
+[20:39:22] [HomeKit] Registriere Objekte Arbeitszimmer Licht in HomeKit...
+[20:39:22] [HomeKit] Username von Temperatur Wohnzimmer 2C:36:23:CE:73:32
+[20:39:22] [HomeKit] Registriere Objekte Temperatur Wohnzimmer in HomeKit...
+[20:39:22] [HomeKit] Username von Fake Temperature F6:F7:6C:2F:C6:FF
+[20:39:22] [HomeKit] Registriere Objekte Fake Temperature in HomeKit...
+[20:39:22] [HomeKit] Username von Feuchtigkeit Garten 72:FD:FE:6E:F2:C7
+[20:39:22] [HomeKit] Registriere Objekte Feuchtigkeit Garten in HomeKit...
+[20:39:22] [HomeKit] Username von Schlafzimmer Rolllade C7:DE:3F:F2:6F:EE
+[20:39:22] [HomeKit] Registriere Objekte Schlafzimmer Rolllade in HomeKit...
+[20:39:22] [HomeKit] Username von LED Kette Nils D7:FD:6C:6D:DE:67
+[20:39:22] [HomeKit] Registriere Objekte LED Kette Nils in HomeKit...
+[20:39:22] [HomeKit] Username von Arbeitszimmer Rolllade Garten F6:EF:76:F7:FE:D2
+[20:39:22] [HomeKit] Registriere Objekte Arbeitszimmer Rolllade Garten in HomeKit...
+[20:39:22] [HomeKit] Username von Feuchtigkeit Wohnzimmer CD:22:C3:67:F6:2D
+[20:39:22] [HomeKit] Registriere Objekte Feuchtigkeit Wohnzimmer in HomeKit...
+[20:39:22] [HomeKit] Username von Küche Rolllade 6D:D7:6E:D7:CC:DF
+[20:39:22] [HomeKit] Registriere Objekte Küche Rolllade in HomeKit...
+[20:39:22] [HomeKit] Username von Eingangs Flur Licht CE:F3:2C:2F:C7:DF
+[20:39:22] [HomeKit] Registriere Objekte Eingangs Flur Licht in HomeKit...
+[20:39:22] [HomeKit] Username von Nils Zimmer Licht ED:CD:F2:E3:EF:3F
+[20:39:22] [HomeKit] Registriere Objekte Nils Zimmer Licht in HomeKit...
+[20:39:22] [HomeKit] Registrations Vorgang wurde beendet.
+[20:39:27] [HomeKit] Update Temperatur Garten
+[20:39:27] [HomeKit] Update Feuchtigkeit Garten
+[20:44:40] [HomeKit] Update Temperatur Garten
+[20:44:40] [HomeKit] Update Feuchtigkeit Garten
+[20:46:00] [HomeKit] GET Anfrage für Kompressor
+[20:46:00] [HomeKit] GET Anfrage für Nils Zimmer Licht
+[20:46:00] [HomeKit] GET Anfrage für Nils Dachboden Licht
+[20:46:00] [HomeKit] GET Anfrage für Temperatur Garten
+[20:46:00] [HomeKit] GET Anfrage für Treppe Licht Pflanze
+[20:46:00] [HomeKit] GET Anfrage für Subwoofer Nils Zimmer
+[20:46:00] [HomeKit] GET Anfrage für Feuchtigkeit Garten
+[20:46:00] [HomeKit] GET Anfrage für LED Kette Nils
+[20:46:00] [HomeKit] GET Anfrage (CurrentPosition): Nils Rolllade | Current State: 0
+[20:46:00] [HomeKit] GET Anfrage (Target): Nils Rolllade | Current Target State: 0
+[20:49:53] [HomeKit] Update Feuchtigkeit Garten
+[20:55:06] [HomeKit] Update Temperatur Garten
+[20:55:06] [HomeKit] Update Feuchtigkeit Garten
+[21:00:19] [HomeKit] Update Temperatur Garten
+[21:00:19] [HomeKit] Update Feuchtigkeit Garten
+[21:05:32] [HomeKit] Update Temperatur Garten
+[21:05:32] [HomeKit] Update Feuchtigkeit Garten
+[21:15:58] [HomeKit] Update Temperatur Garten
+[21:15:58] [HomeKit] Update Feuchtigkeit Garten
+[21:19:00] [HomeKit] Update Temperatur Wohnzimmer
+[21:21:11] [HomeKit] Update Feuchtigkeit Garten
+[21:26:24] [HomeKit] Update Temperatur Garten
+[21:26:24] [HomeKit] Update Feuchtigkeit Garten
+[21:34:39] [HomeKit] Update Temperatur Wohnzimmer
+[21:36:08] [HomeKit] GET Anfrage (CurrentPosition): Nils Rolllade | Current State: 0
+[21:36:08] [HomeKit] GET Anfrage (Target): Nils Rolllade | Current Target State: 0
+[21:36:10] [HomeKit] GET Anfrage für Temperatur Garten
+[21:36:12] [HomeKit] GET Anfrage für Temperatur Garten
+[21:36:13] [HomeKit] GET Anfrage für Temperatur Garten
+[21:36:14] [HomeKit] GET Anfrage für Nils Zimmer Licht
+[21:36:15] [HomeKit] GET Anfrage für Treppe Licht Pflanze
+[21:36:15] [HomeKit] GET Anfrage für Subwoofer Nils Zimmer
+[21:36:16] [HomeKit] GET Anfrage für Nils Dachboden Licht
+[21:36:16] [HomeKit] GET Anfrage für Feuchtigkeit Garten
+[21:36:17] [HomeKit] GET Anfrage für Kompressor
+[21:36:17] [HomeKit] GET Anfrage für LED Kette Nils
+[21:36:18] [HomeKit] GET Anfrage für Temperatur Garten
+[21:36:19] [HomeKit] GET Anfrage für Temperatur Garten
+[21:36:19] [HomeKit] GET Anfrage für Temperatur Garten
+[21:36:19] [HomeKit] GET Anfrage für Temperatur Garten
+[21:36:19] [HomeKit] GET Anfrage für Temperatur Garten
+[21:36:19] [HomeKit] GET Anfrage für Temperatur Garten
+[21:36:19] [HomeKit] GET Anfrage für Temperatur Garten
+[21:36:20] [HomeKit] GET Anfrage für Temperatur Garten
+[21:36:20] [HomeKit] GET Anfrage für Temperatur Garten
+[21:36:20] [HomeKit] GET Anfrage für Temperatur Garten
+[21:36:20] [HomeKit] GET Anfrage für Temperatur Garten
+[21:36:20] [HomeKit] GET Anfrage für Temperatur Garten
+[21:36:20] [HomeKit] GET Anfrage für Temperatur Garten
+[21:36:21] [HomeKit] GET Anfrage für Temperatur Garten
+[21:36:21] [HomeKit] GET Anfrage für Temperatur Garten
+[21:36:21] [HomeKit] GET Anfrage für Temperatur Garten
+[21:36:21] [HomeKit] GET Anfrage für Temperatur Garten
+[21:36:21] [HomeKit] GET Anfrage für Temperatur Garten
+[21:36:22] [HomeKit] GET Anfrage für Temperatur Garten
+[21:36:22] [HomeKit] GET Anfrage für Temperatur Garten
+[21:36:22] [HomeKit] GET Anfrage für Temperatur Garten
+[21:36:22] [HomeKit] GET Anfrage für Temperatur Garten
+[21:36:23] [HomeKit] GET Anfrage für Temperatur Garten
+[21:36:23] [HomeKit] GET Anfrage für Temperatur Garten
+[21:36:29] [HomeKit] GET Anfrage für Temperatur Garten
+[21:36:29] [HomeKit] GET Anfrage für Temperatur Garten
+[21:36:29] [HomeKit] GET Anfrage für Temperatur Garten
+[21:36:29] [HomeKit] GET Anfrage für Temperatur Garten
+[21:36:29] [HomeKit] GET Anfrage für Temperatur Garten
+[21:36:30] [HomeKit] GET Anfrage für Temperatur Garten
+[21:36:50] [HomeKit] Update Feuchtigkeit Garten
+[21:39:28] [HomeKit] HAP-NodeJS starting...
+[21:39:28] [HomeKit] Verbinde zur Datenbank...
+[21:39:28] [HomeKit] Verbunden!
+[21:39:28] [HomeKit] Lade Pin...
+[21:39:29] [HomeKit]                        
+[21:39:29] [HomeKit]     ┌────────────┐     
+[21:39:29] [HomeKit]     │ 031-45-154 │     
+[21:39:29] [HomeKit]     └────────────┘     
+[21:39:29] [HomeKit]                        
+[21:39:29] [HomeKit] Lade alle Objekte die für HomeKit aktiviert sind...
+[21:39:29] [HomeKit] Username von Arbeitszimmer Rolllade Kindergarten 27:C3:E2:D2:E3:FE
+[21:39:29] [HomeKit] Registriere Objekte Arbeitszimmer Rolllade Kindergarten in HomeKit...
+[21:39:29] [HomeKit] Username von Subwoofer Nils Zimmer 73:66:36:32:E3:7C
+[21:39:29] [HomeKit] Registriere Objekte Subwoofer Nils Zimmer in HomeKit...
+[21:39:29] [HomeKit] Username von Treppe Licht Pflanze 7F:CD:FE:DC:77:6F
+[21:39:29] [HomeKit] Registriere Objekte Treppe Licht Pflanze in HomeKit...
+[21:39:29] [HomeKit] Username von Gäste WC Rolllade E6:F6:FD:36:D6:6D
+[21:39:29] [HomeKit] Registriere Objekte Gäste WC Rolllade in HomeKit...
+[21:39:29] [HomeKit] Username von Nils Rolllade 66:DC:DE:62:D6:CC
+[21:39:29] [HomeKit] Registriere Objekte Nils Rolllade in HomeKit...
+[21:39:29] [HomeKit] Username von Nils Dachboden Licht F7:77:DC:D7:66:ED
+[21:39:29] [HomeKit] Registriere Objekte Nils Dachboden Licht in HomeKit...
+[21:39:29] [HomeKit] Username von Keller Licht 77:FC:7C:CC:F6:CD
+[21:39:29] [HomeKit] Registriere Objekte Keller Licht in HomeKit...
+[21:39:29] [HomeKit] Username von Fernseher 67:66:FD:E7:EE:FE
+[21:39:29] [HomeKit] Registriere Objekte Fernseher in HomeKit...
+[21:39:29] [HomeKit] Username von Kompressor F6:C2:D7:DF:37:F7
+[21:39:29] [HomeKit] Registriere Objekte Kompressor in HomeKit...
+[21:39:29] [HomeKit] Username von Wohnzimmer Rolllade Tür C3:2F:2F:6E:62:D2
+[21:39:29] [HomeKit] Registriere Objekte Wohnzimmer Rolllade Tür in HomeKit...
+[21:39:29] [HomeKit] Username von Temperatur Garten CF:76:3C:CE:FD:E7
+[21:39:29] [HomeKit] Registriere Objekte Temperatur Garten in HomeKit...
+[21:39:29] [HomeKit] Username von Wohnzimmer Rolllade Fenster D3:36:27:F3:3E:6E
+[21:39:29] [HomeKit] Registriere Objekte Wohnzimmer Rolllade Fenster in HomeKit...
+[21:39:29] [HomeKit] Username von Brunnen 33:F2:37:EE:DD:27
+[21:39:29] [HomeKit] Registriere Objekte Brunnen in HomeKit...
+[21:39:29] [HomeKit] Username von Arbeitszimmer Licht DC:73:2D:E7:3F:FC
+[21:39:29] [HomeKit] Registriere Objekte Arbeitszimmer Licht in HomeKit...
+[21:39:29] [HomeKit] Username von Temperatur Wohnzimmer 2C:36:23:CE:73:32
+[21:39:29] [HomeKit] Registriere Objekte Temperatur Wohnzimmer in HomeKit...
+[21:39:29] [HomeKit] Username von Fake Temperature F6:F7:6C:2F:C6:FF
+[21:39:29] [HomeKit] Registriere Objekte Fake Temperature in HomeKit...
+[21:39:29] [HomeKit] Username von Feuchtigkeit Garten 72:FD:FE:6E:F2:C7
+[21:39:29] [HomeKit] Registriere Objekte Feuchtigkeit Garten in HomeKit...
+[21:39:29] [HomeKit] Username von Schlafzimmer Rolllade C7:DE:3F:F2:6F:EE
+[21:39:29] [HomeKit] Registriere Objekte Schlafzimmer Rolllade in HomeKit...
+[21:39:29] [HomeKit] Username von LED Kette Nils D7:FD:6C:6D:DE:67
+[21:39:29] [HomeKit] Registriere Objekte LED Kette Nils in HomeKit...
+[21:39:29] [HomeKit] Username von Arbeitszimmer Rolllade Garten F6:EF:76:F7:FE:D2
+[21:39:29] [HomeKit] Registriere Objekte Arbeitszimmer Rolllade Garten in HomeKit...
+[21:39:29] [HomeKit] Username von Feuchtigkeit Wohnzimmer CD:22:C3:67:F6:2D
+[21:39:29] [HomeKit] Registriere Objekte Feuchtigkeit Wohnzimmer in HomeKit...
+[21:39:29] [HomeKit] Username von Küche Rolllade 6D:D7:6E:D7:CC:DF
+[21:39:29] [HomeKit] Registriere Objekte Küche Rolllade in HomeKit...
+[21:39:29] [HomeKit] Username von Eingangs Flur Licht CE:F3:2C:2F:C7:DF
+[21:39:29] [HomeKit] Registriere Objekte Eingangs Flur Licht in HomeKit...
+[21:39:29] [HomeKit] Username von Nils Zimmer Licht ED:CD:F2:E3:EF:3F
+[21:39:29] [HomeKit] Registriere Objekte Nils Zimmer Licht in HomeKit...
+[21:39:29] [HomeKit] Registrations Vorgang wurde beendet.
+[21:39:35] [HomeKit] GET Anfrage für Arbeitszimmer Licht
+[21:39:35] [HomeKit] GET Anfrage für Nils Dachboden Licht
+[21:39:35] [HomeKit] GET Anfrage für Treppe Licht Pflanze
+[21:39:35] [HomeKit] GET Anfrage für Keller Licht
+[21:39:37] [HomeKit] GET Anfrage (CurrentPosition): Nils Rolllade | Current State: 0
+[21:39:37] [HomeKit] GET Anfrage (Target): Nils Rolllade | Current Target State: 0
+[21:39:37] [HomeKit] GET Anfrage für Temperatur Garten
+[21:39:37] [HomeKit] GET Anfrage (Target): Schlafzimmer Rolllade | Current Target State: 0
+[21:39:37] [HomeKit] GET Anfrage (CurrentPosition): Schlafzimmer Rolllade | Current State: 0
+[21:39:37] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Garten | Current Target State: 0
+[21:39:37] [HomeKit] GET Anfrage (CurrentPosition): Arbeitszimmer Rolllade Garten | Current State: 0
+[21:39:37] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Fenster | Current Target State: 0
+[21:39:37] [HomeKit] GET Anfrage (CurrentPosition): Wohnzimmer Rolllade Fenster | Current State: 0
+[21:39:37] [HomeKit] GET Anfrage (Target): Küche Rolllade | Current Target State: 0
+[21:39:37] [HomeKit] GET Anfrage (CurrentPosition): Küche Rolllade | Current State: 0
+[21:39:37] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Tür | Current Target State: 0
+[21:39:37] [HomeKit] GET Anfrage (CurrentPosition): Wohnzimmer Rolllade Tür | Current State: 0
+[21:39:37] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Kindergarten | Current Target State: 0
+[21:39:37] [HomeKit] GET Anfrage (CurrentPosition): Arbeitszimmer Rolllade Kindergarten | Current State: 0
+[21:39:37] [HomeKit] GET Anfrage (Target): Gäste WC Rolllade | Current Target State: 0
+[21:39:37] [HomeKit] GET Anfrage (CurrentPosition): Gäste WC Rolllade | Current State: 0
+[21:39:37] [HomeKit] GET Anfrage für Subwoofer Nils Zimmer
+[21:39:37] [HomeKit] GET Anfrage für Kompressor
+[21:39:37] [HomeKit] GET Anfrage für Brunnen
+[21:39:37] [HomeKit] GET Anfrage für Fernseher
+[21:39:39] [HomeKit] GET Anfrage für Feuchtigkeit Garten
+[21:39:39] [HomeKit] GET Anfrage für Feuchtigkeit Wohnzimmer
+[21:39:39] [HomeKit] GET Anfrage für LED Kette Nils
+[21:39:39] [HomeKit] GET Anfrage für Nils Zimmer Licht
+[21:39:39] [HomeKit] GET Anfrage für Eingangs Flur Licht
+[21:42:03] [HomeKit] Update Temperatur Garten
+[21:45:47] [HomeKit] GET Anfrage für Fernseher
+[21:45:47] [HomeKit] GET Anfrage für Brunnen
+[21:45:47] [HomeKit] GET Anfrage (CurrentPosition): Nils Rolllade | Current State: 0
+[21:45:47] [HomeKit] GET Anfrage (Target): Nils Rolllade | Current Target State: 0
+[21:45:47] [HomeKit] GET Anfrage für Temperatur Garten
+[21:45:47] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Fenster | Current Target State: 0
+[21:45:47] [HomeKit] GET Anfrage (CurrentPosition): Wohnzimmer Rolllade Fenster | Current State: 0
+[21:45:47] [HomeKit] GET Anfrage für Nils Zimmer Licht
+[21:45:47] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Garten | Current Target State: 0
+[21:45:47] [HomeKit] GET Anfrage (CurrentPosition): Arbeitszimmer Rolllade Garten | Current State: 0
+[21:45:47] [HomeKit] GET Anfrage für Arbeitszimmer Licht
+[21:45:47] [HomeKit] GET Anfrage (Target): Wohnzimmer Rolllade Tür | Current Target State: 0
+[21:45:47] [HomeKit] GET Anfrage (CurrentPosition): Wohnzimmer Rolllade Tür | Current State: 0
+[21:45:47] [HomeKit] GET Anfrage für Feuchtigkeit Wohnzimmer
+[21:45:47] [HomeKit] GET Anfrage für Kompressor
+[21:45:47] [HomeKit] GET Anfrage für Feuchtigkeit Garten
+[21:45:47] [HomeKit] GET Anfrage (Target): Schlafzimmer Rolllade | Current Target State: 0
+[21:45:47] [HomeKit] GET Anfrage (CurrentPosition): Schlafzimmer Rolllade | Current State: 0
+[21:45:47] [HomeKit] GET Anfrage (Target): Küche Rolllade | Current Target State: 0
+[21:45:47] [HomeKit] GET Anfrage (CurrentPosition): Küche Rolllade | Current State: 0
+[21:45:47] [HomeKit] GET Anfrage für Eingangs Flur Licht
+[21:45:47] [HomeKit] GET Anfrage für LED Kette Nils
+[21:45:47] [HomeKit] GET Anfrage für Nils Dachboden Licht
+[21:45:47] [HomeKit] GET Anfrage für Subwoofer Nils Zimmer
+[21:45:47] [HomeKit] GET Anfrage für Treppe Licht Pflanze
+[21:45:47] [HomeKit] GET Anfrage für Keller Licht
+[21:45:47] [HomeKit] GET Anfrage (Target): Arbeitszimmer Rolllade Kindergarten | Current Target State: 0
+[21:45:47] [HomeKit] GET Anfrage (CurrentPosition): Arbeitszimmer Rolllade Kindergarten | Current State: 0
+[21:45:47] [HomeKit] GET Anfrage (CurrentPosition): Gäste WC Rolllade | Current State: 0
+[21:45:47] [HomeKit] GET Anfrage (Target): Gäste WC Rolllade | Current Target State: 0
+[21:46:02] [HomeKit] GET Anfrage für Temperatur Garten
+[21:52:29] [HomeKit] Update Temperatur Garten
+[21:52:29] [HomeKit] Update Feuchtigkeit Garten
+[21:55:31] [HomeKit] Update Temperatur Wohnzimmer
+[22:02:56] [HomeKit] Update Temperatur Garten
+[22:02:56] [HomeKit] Update Feuchtigkeit Garten
+[22:08:09] [HomeKit] Update Temperatur Garten
+[22:08:09] [HomeKit] Update Feuchtigkeit Garten
+[22:13:22] [HomeKit] Update Temperatur Garten
+[22:15:20] [HomeKit] GET Anfrage für Kompressor
+[22:15:20] [HomeKit] GET Anfrage für Nils Zimmer Licht
+[22:15:20] [HomeKit] GET Anfrage für Nils Dachboden Licht
+[22:15:20] [HomeKit] GET Anfrage für Temperatur Garten
+[22:15:20] [HomeKit] GET Anfrage für Treppe Licht Pflanze
+[22:15:20] [HomeKit] GET Anfrage für Subwoofer Nils Zimmer
+[22:15:20] [HomeKit] GET Anfrage für Feuchtigkeit Garten
+[22:15:20] [HomeKit] GET Anfrage für LED Kette Nils
+[22:15:20] [HomeKit] GET Anfrage (CurrentPosition): Nils Rolllade | Current State: 0
+[22:15:20] [HomeKit] GET Anfrage (Target): Nils Rolllade | Current Target State: 0
+[22:15:25] [HomeKit] SET Befehlt: 0
+[22:15:25] [HomeKit] AUSSSSSS
+[22:15:25] [HomeKit] Callback
+[22:15:26] [HomeKit] SET Befehlt: 0
+[22:15:26] [HomeKit] AUSSSSSS
+[22:15:26] [HomeKit] Callback
+[22:15:27] [HomeKit] SET Befehl0
+[22:15:27] [HomeKit] AUSSSSSS
+[22:15:28] [HomeKit] SET Befehlt: 0
+[22:15:28] [HomeKit] AUSSSSSS
+[22:15:28] [HomeKit] Callback
+[22:18:35] [HomeKit] Update Feuchtigkeit Garten
+[22:21:36] [HomeKit] Update Temperatur Wohnzimmer
+[22:22:38] [HomeKit] SET Anfrage für Nils Rolllade. Wert ==> 0
+[22:22:38] [HomeKit] SET Befehlt: false
+[22:22:38] [HomeKit] AUSSSSSS
+[22:22:38] [HomeKit] SET Befehlt: false
+[22:22:38] [HomeKit] AUSSSSSS
+[22:22:38] [HomeKit] SET Befehlt: false
+[22:22:38] [HomeKit] AUSSSSSS
+[22:22:38] [HomeKit] SET Befehlt: false
+[22:22:38] [HomeKit] AUSSSSSS
+[22:22:38] [HomeKit] SET Befehl0
+[22:22:38] [HomeKit] AUSSSSSS
+[22:22:38] [HomeKit] Callback
+[22:22:38] [HomeKit] Callback
+[22:22:38] [HomeKit] Callback
+[22:22:38] [HomeKit] Callback
+[22:23:48] [HomeKit] Update Feuchtigkeit Garten
+[22:23:59] [HomeKit] GET Anfrage für Temperatur Garten
+[22:34:14] [HomeKit] Update Feuchtigkeit Garten
+[22:39:27] [HomeKit] Update Feuchtigkeit Garten
+[22:44:40] [HomeKit] Update Feuchtigkeit Garten
+[22:49:53] [HomeKit] Update Feuchtigkeit Garten
+[22:55:06] [HomeKit] Update Feuchtigkeit Garten
+[23:00:19] [HomeKit] Update Temperatur Garten
+[23:00:19] [HomeKit] Update Feuchtigkeit Garten
+[23:03:21] [HomeKit] Update Temperatur Wohnzimmer
+[23:05:32] [HomeKit] Update Feuchtigkeit Garten
+[23:10:45] [HomeKit] Update Temperatur Garten
+[23:10:45] [HomeKit] Update Feuchtigkeit Garten
+[23:15:58] [HomeKit] Update Temperatur Garten
+[23:21:11] [HomeKit] Update Feuchtigkeit Garten
+[23:31:37] [HomeKit] Update Feuchtigkeit Garten
+[23:36:50] [HomeKit] Update Feuchtigkeit Garten
+[23:39:52] [HomeKit] Update Temperatur Wohnzimmer
+[23:52:29] [HomeKit] Update Feuchtigkeit Garten
+[23:57:42] [HomeKit] Update Feuchtigkeit Garten
